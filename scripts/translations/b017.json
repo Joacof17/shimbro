@@ -1,0 +1,189 @@
+{
+  "Inverted_Row": {
+    "nombre": "Remo invertido",
+    "instrucciones": [
+      "Colocá una barra en una jaula más o menos a la altura de la cintura. También podés usar una máquina Smith.",
+      "Tomá un agarre más ancho que los hombros y colocate colgando debajo de la barra. El cuerpo debe quedar recto con los talones en el suelo y los brazos totalmente extendidos. Esta es tu posición inicial.",
+      "Empezá flexionando el codo, llevando el pecho hacia la barra. Retraé los omóplatos al hacer el movimiento.",
+      "Hacé una pausa arriba y volvé a la posición inicial.",
+      "Repetí las repeticiones deseadas."
+    ]
+  },
+  "Inverted_Row_with_Straps": {
+    "nombre": "Remo invertido con correas",
+    "instrucciones": [
+      "Colgá una cuerda o correas de suspensión de una jaula u otro objeto estable. Agarrá los extremos y colocate boca arriba colgando de las cuerdas. El cuerpo debe quedar recto con los talones en el suelo y los brazos totalmente extendidos. Esta es tu posición inicial.",
+      "Empezá flexionando el codo, llevando el pecho hacia las manos. Retraé los omóplatos al hacer el movimiento.",
+      "Hacé una pausa arriba y volvé a la posición inicial.",
+      "Repetí las repeticiones deseadas."
+    ]
+  },
+  "Iron_Cross": {
+    "nombre": "Cruz de hierro",
+    "instrucciones": []
+  },
+  "Iron_Crosses_stretch": {
+    "nombre": "Cruces de hierro (estiramiento)",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo, con los brazos extendidos hacia los costados y las palmas apoyadas en el suelo. Esta es tu posición inicial.",
+      "Para empezar, flexioná una rodilla y llevá esa pierna cruzando por detrás del cuerpo, tratando de tocar el suelo cerca de la mano opuesta.",
+      "Volvé enseguida la pierna a la posición inicial y repetí rápido con la otra pierna. Seguí alternando por 10-20 repeticiones."
+    ]
+  },
+  "Isometric_Chest_Squeezes": {
+    "nombre": "Contracciones isométricas de pecho",
+    "instrucciones": [
+      "Sentado o parado, flexioná los brazos a 90 grados y juntá las palmas frente al pecho. Consejo: las manos abiertas con las palmas juntas y los dedos hacia adelante (perpendiculares al torso).",
+      "Empujá ambas manos una contra la otra mientras contraés el pecho. Empezá con tensión lenta y aumentala de a poco. Seguí respirando normalmente durante la contracción.",
+      "Mantené la cantidad de segundos recomendada.",
+      "Ahora soltá la tensión lentamente.",
+      "Descansá el tiempo recomendado y repetí."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Front_And_Back": {
+    "nombre": "Ejercicio isométrico de cuello (frente y atrás)",
+    "instrucciones": [
+      "Con la cabeza y el cuello en posición neutra (posición normal, cabeza erguida mirando al frente), apoyá ambas manos en la parte de adelante de la cabeza.",
+      "Ahora empujá suavemente hacia adelante mientras contraés los músculos del cuello, resistiendo cualquier movimiento de la cabeza. Empezá con tensión lenta y aumentala de a poco. Seguí respirando normalmente durante la contracción.",
+      "Mantené la cantidad de segundos recomendada.",
+      "Ahora soltá la tensión lentamente.",
+      "Descansá el tiempo recomendado y repetí con las manos apoyadas en la parte de atrás de la cabeza."
+    ]
+  },
+  "Isometric_Neck_Exercise_-_Sides": {
+    "nombre": "Ejercicio isométrico de cuello (laterales)",
+    "instrucciones": [
+      "Con la cabeza y el cuello en posición neutra (posición normal, cabeza erguida mirando al frente), apoyá la mano izquierda en el lado izquierdo de la cabeza.",
+      "Ahora empujá suavemente hacia la izquierda mientras contraés los músculos del lado izquierdo del cuello, resistiendo cualquier movimiento de la cabeza. Empezá con tensión lenta y aumentala de a poco. Seguí respirando normalmente durante la contracción.",
+      "Mantené la cantidad de segundos recomendada.",
+      "Ahora soltá la tensión lentamente.",
+      "Descansá el tiempo recomendado y repetí con la mano derecha apoyada en el lado derecho de la cabeza."
+    ]
+  },
+  "Isometric_Wipers": {
+    "nombre": "Limpiaparabrisas isométrico",
+    "instrucciones": [
+      "Ponete en posición de flexión, sosteniendo el peso sobre las manos y las puntas de los pies con el cuerpo recto. Las manos justo por fuera de la anchura de los hombros. Esta es tu posición inicial.",
+      "Empezá desplazando el peso del cuerpo lo más posible hacia un lado, dejando que el codo de ese lado se flexione al bajar el cuerpo.",
+      "Invertí el movimiento extendiendo el brazo flexionado, empujándote hacia arriba y después dejándote caer hacia el otro lado.",
+      "Repetí las repeticiones deseadas."
+    ]
+  },
+  "JM_Press": {
+    "nombre": "Press JM",
+    "instrucciones": [
+      "Empezá el ejercicio igual que un press de banca con agarre cerrado. Recostate en un banco plano sosteniendo una barra con los brazos estirados (totalmente extendidos) y los codos pegados. Pero, en vez de tener los brazos perpendiculares al torso, asegurate de que la barra quede en línea directa por encima de la parte alta del pecho. Esta es tu posición inicial.",
+      "Ahora, desde la posición totalmente extendida, bajá la barra como si hicieras una extensión de tríceps acostado. Inhalá al hacer el movimiento. Al llegar a la mitad, dejá que la barra ruede hacia atrás unos 2-3 cm llevando los brazos hacia las piernas hasta que queden perpendiculares al torso. Consejo: mantené constante la flexión de los codos al llevar los brazos hacia adelante.",
+      "Al exhalar, empujá la barra de vuelta hacia arriba usando los tríceps como en un press de banca cerrado.",
+      "Ahora volvé a la posición inicial y empezá de nuevo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Jackknife_Sit-Up": {
+    "nombre": "Abdominal navaja",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo (o colchoneta) con los brazos extendidos por detrás de la cabeza y las piernas también extendidas. Esta es tu posición inicial.",
+      "Al exhalar, flexioná desde la cintura mientras elevás a la vez piernas y brazos para juntarlos en posición de navaja. Consejo: las piernas deben quedar extendidas y elevadas a unos 35-45 grados del suelo, y los brazos extendidos y paralelos a las piernas. El tren superior debe quedar despegado del suelo.",
+      "Al inhalar, bajá los brazos y las piernas de vuelta a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Janda_Sit-Up": {
+    "nombre": "Abdominal Janda",
+    "instrucciones": [
+      "Ponete en el suelo en la posición básica de sit-up: rodillas a noventa grados con los pies apoyados y los brazos cruzados sobre el pecho o a los costados. Esta es tu posición inicial.",
+      "Mientras apretás fuerte los glúteos y los isquiotibiales, llená los pulmones de aire y, en un ascenso lento (contando de tres a seis segundos), exhalá despacio. Consejo: es importante apretar glúteos e isquiotibiales, porque eso desactiva los flexores de la cadera en un proceso llamado inhibición recíproca, que básicamente hace que los músculos opuestos a los contraídos se relajen.",
+      "Al inhalar, volvé lentamente y de forma controlada a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Jefferson_Squats": {
+    "nombre": "Sentadilla Jefferson",
+    "instrucciones": [
+      "Colocá una barra en el suelo.",
+      "Parate en el medio de la barra, a lo largo.",
+      "Agachate flexionando las rodillas y manteniendo la espalda recta, y agarrá el frente de la barra con la mano derecha. La palma debe quedar en agarre neutro, mirando hacia la izquierda.",
+      "Agarrá la parte de atrás de la barra con la mano izquierda. La palma en agarre neutro (mirando hacia la derecha). Consejo: asegurate de que el agarre quede parejo en la barra. El torso debe quedar justo en el medio de la barra y la distancia entre el torso y la mano derecha (que va adelante) debe ser igual que la distancia entre el torso y la mano izquierda (que va atrás).",
+      "Ahora parate derecho con el peso. Consejo: los pies a la anchura de los hombros y las puntas apenas hacia afuera.",
+      "Hacé sentadilla flexionando las rodillas y manteniendo la espalda recta hasta que los muslos queden paralelos al suelo. Consejo: mantené la espalda lo más vertical posible respecto del suelo y la cabeza en alto. Acordate de no dejar que las rodillas pasen las puntas de los pies. Inhalá durante esta parte del movimiento.",
+      "Ahora impulsate de vuelta a la posición inicial empujando con los pies. Consejo: mantené la barra colgando con los brazos estirados y los codos bloqueados con una ligera flexión. Los brazos solo sirven de ganchos; no levantes con ellos. Levantá con los muslos, no con los brazos."
+    ]
+  },
+  "Jerk_Balance": {
+    "nombre": "Equilibrio de envión",
+    "instrucciones": [
+      "Este ejercicio te ayuda a aprender a meterte bien abajo durante el envión y corrige a quienes se van hacia atrás en el movimiento. Empezá con la barra apoyada en posición de envión, con los hombros hacia adelante, el torso erguido y los pies un poco separados.",
+      "Iniciá el movimiento como en un envión normal, flexionando las rodillas mientras mantenés el torso vertical, y empujando de vuelta hacia arriba con fuerza, usando el impulso y no los brazos para elevar el peso.",
+      "Mantené el pie de atrás en su lugar, usándolo para llevar el cuerpo hacia adelante a una posición separada completa mientras hacés el envión. Recuperate parándote con el peso por encima de la cabeza."
+    ]
+  },
+  "Jerk_Dip_Squat": {
+    "nombre": "Sentadilla de flexión de envión",
+    "instrucciones": [
+      "Este movimiento fortalece la parte de flexión (dip) del envión. Empezá con la barra apoyada en posición de envión, con los hombros hacia adelante formando una repisa y la barra rozando apenas la garganta. Los pies justo debajo de las caderas, con las puntas hacia afuera lo que resulte cómodo.",
+      "Manteniendo el torso vertical, flexioná las rodillas dejando que vayan hacia adelante y sin llevar las caderas hacia atrás. La flexión no debe ser excesiva. Volvé el peso a la posición inicial empujando con fuerza a través de los pies."
+    ]
+  },
+  "Jogging_Treadmill": {
+    "nombre": "Trote en cinta",
+    "instrucciones": [
+      "Para empezar, subite a la cinta y elegí la opción deseada del menú. La mayoría tiene un modo manual, o podés elegir un programa. Normalmente podés ingresar tu edad y peso para estimar las calorías quemadas durante el ejercicio. La inclinación se puede ajustar para cambiar la intensidad del entrenamiento.",
+      "Las cintas ofrecen comodidad, beneficios cardiovasculares y suelen tener menos impacto que trotar afuera. Una persona de 70 kg quema casi 250 calorías trotando 30 minutos, frente a más de 450 corriendo. Mantené una buena postura al trotar y agarrate de las manijas solo cuando haga falta, como al bajarte o al chequear tu ritmo cardíaco."
+    ]
+  },
+  "Keg_Load": {
+    "nombre": "Carga de barriles",
+    "instrucciones": [
+      "Para cargar barriles, colocá la cantidad deseada a cierta distancia de la plataforma de carga, normalmente 9-15 metros.",
+      "Empezá agarrando la manija cercana del primer barril, inclinándolo de lado para agarrar el borde opuesto de la base. Levantá el barril hasta el pecho.",
+      "Cuanto más alto puedas colocar el barril, más rápido vas a poder moverte hacia la plataforma. Normalmente no se permite apoyarlo en el hombro. Asegurate de mantener un agarre firme del barril. Movéte lo más rápido posible hacia la plataforma y cargalo, extendiendo caderas, rodillas y tobillos para dejarlo lo más alto posible.",
+      "Volvé a la posición inicial para agarrar el siguiente barril y repetí hasta terminar el evento."
+    ]
+  },
+  "Kettlebell_Arnold_Press": {
+    "nombre": "Press Arnold con pesa rusa",
+    "instrucciones": [
+      "Cargá una pesa rusa hasta el hombro extendiendo las piernas y las caderas mientras la elevás hacia el hombro. La palma debe quedar hacia adentro.",
+      "Mirando al frente, presioná la pesa hacia afuera y por encima de la cabeza, girando la muñeca para que la palma quede hacia adelante arriba.",
+      "Volvé la pesa a la posición inicial, con la palma hacia adentro."
+    ]
+  },
+  "Kettlebell_Dead_Clean": {
+    "nombre": "Cargada desde el suelo con pesa rusa",
+    "instrucciones": [
+      "Colocá la pesa rusa entre los pies. Para ponerte en la posición inicial, llevá los glúteos hacia atrás y mirá al frente.",
+      "Cargá la pesa hasta el hombro extendiendo las piernas y las caderas mientras la elevás hacia el hombro. La muñeca debe girar al hacerlo.",
+      "Bajá la pesa manteniendo los isquiotibiales cargados, con la espalda recta y los glúteos hacia atrás."
+    ]
+  },
+  "Kettlebell_Figure_8": {
+    "nombre": "Ocho con pesa rusa",
+    "instrucciones": [
+      "Colocá una pesa rusa entre las piernas y adoptá una postura más ancha que los hombros. Inclinate llevando los glúteos hacia atrás y manteniendo la espalda plana.",
+      "Levantá la pesa y pasala a la otra mano entre las piernas. La mano que recibe debe llegar desde atrás de las piernas. Andá y volvé por varias repeticiones."
+    ]
+  },
+  "Kettlebell_Hang_Clean": {
+    "nombre": "Cargada colgante con pesa rusa",
+    "instrucciones": [
+      "Colocá la pesa rusa entre los pies. Para ponerte en la posición inicial, llevá los glúteos hacia atrás y mirá al frente.",
+      "Cargá la pesa hasta el hombro extendiendo las piernas y las caderas mientras la elevás hacia el hombro. La muñeca debe girar al hacerlo.",
+      "Bajá la pesa a una posición colgante entre las piernas manteniendo los isquiotibiales cargados. Mantené la cabeza en alto en todo momento."
+    ]
+  },
+  "Kettlebell_One-Legged_Deadlift": {
+    "nombre": "Peso muerto a una pierna con pesa rusa",
+    "instrucciones": [
+      "Sostené una pesa rusa por la manija con una mano. Parate sobre una pierna, del mismo lado que sostenés la pesa.",
+      "Manteniendo esa rodilla apenas flexionada, hacé un peso muerto con pierna rígida inclinándote desde la cadera, extendiendo la pierna libre hacia atrás para equilibrarte.",
+      "Seguí bajando la pesa hasta quedar paralelo al suelo y después volvé a la posición erguida."
+    ]
+  },
+  "Kettlebell_Pass_Between_The_Legs": {
+    "nombre": "Pase de pesa rusa entre las piernas",
+    "instrucciones": [
+      "Colocá una pesa rusa entre las piernas y adoptá una postura cómoda. Inclinate llevando los glúteos hacia atrás y manteniendo la espalda plana.",
+      "Levantá la pesa y pasala a la otra mano entre las piernas, dibujando una 'W'. Andá y volvé por varias repeticiones."
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "3_4_Sit-Up": {
+    "nombre": "Abdominal 3/4",
+    "instrucciones": [
+      "Recostate en el suelo y fijá los pies. Las piernas deben estar flexionadas a la altura de las rodillas.",
+      "Colocá las manos detrás o a los costados de la cabeza. Vas a empezar con la espalda apoyada en el suelo. Esta es tu posición inicial.",
+      "Flexioná las caderas y la columna para elevar el torso hacia las rodillas.",
+      "En el punto máximo de la contracción, el torso debe quedar perpendicular al suelo. Invertí el movimiento, bajando solo 3/4 del recorrido.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "90_90_Hamstring": {
+    "nombre": "Isquiotibiales 90/90",
+    "instrucciones": [
+      "Recostate boca arriba, con una pierna extendida y estirada.",
+      "Con la otra pierna, flexioná la cadera y la rodilla a 90 grados. Si hace falta, podés sostener la pierna con las manos. Esta es tu posición inicial.",
+      "Extendé la pierna estirada hacia arriba, haciendo una breve pausa arriba. Volvé la pierna a la posición inicial.",
+      "Repetí 10-20 repeticiones y después cambiá de pierna."
+    ]
+  },
+  "Ab_Crunch_Machine": {
+    "nombre": "Crunch abdominal en máquina",
+    "instrucciones": [
+      "Elegí una resistencia liviana y sentate en la máquina de abdominales, apoyando los pies bajo las almohadillas y agarrando las manijas de arriba. Los brazos deben quedar flexionados a 90 grados, con los tríceps apoyados en las almohadillas. Esta es tu posición inicial.",
+      "Al mismo tiempo, empezá a elevar las piernas mientras encogés la parte alta del torso. Exhalá al hacer el movimiento. Consejo: usá un movimiento lento y controlado. Concentrate en usar los abdominales para mover el peso, relajando piernas y pies.",
+      "Tras una breve pausa, volvé lentamente a la posición inicial mientras inhalás.",
+      "Repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Ab_Roller": {
+    "nombre": "Rueda abdominal",
+    "instrucciones": [
+      "Agarrá la rueda abdominal con ambas manos y arrodillate en el suelo.",
+      "Apoyá la rueda en el suelo frente a vos, quedando sobre las manos y las rodillas (como en una flexión de rodillas). Esta es tu posición inicial.",
+      "Rodá la rueda lentamente hacia adelante, estirando el cuerpo hasta quedar en una posición recta. Consejo: bajá todo lo que puedas sin tocar el suelo con el cuerpo. Inhalá durante esta parte del movimiento.",
+      "Tras una pausa en la posición estirada, empezá a traccionar para volver a la posición inicial mientras exhalás. Consejo: hacelo despacio y mantené los abdominales firmes en todo momento."
+    ]
+  },
+  "Adductor": {
+    "nombre": "Aductores con rodillo",
+    "instrucciones": [
+      "Recostate boca abajo con una pierna sobre un rodillo de espuma.",
+      "Girá la pierna para que el rodillo quede en contacto con la cara interna del muslo. Apoyá sobre el rodillo todo el peso que puedas tolerar.",
+      "Tratando de relajar los músculos del muslo interno, rodá sobre la espuma entre la cadera y la rodilla, manteniendo 10-30 segundos en los puntos de tensión. Repetí con la otra pierna."
+    ]
+  },
+  "Adductor_Groin": {
+    "nombre": "Aductores / Ingle",
+    "instrucciones": [
+      "Recostate boca arriba con los pies elevados hacia el techo.",
+      "Pedile a un compañero que te sostenga los pies o los tobillos. Separá las piernas todo lo que puedas. Esta es tu posición inicial.",
+      "Intentá juntar las piernas durante 10 segundos o más, mientras tu compañero te lo impide.",
+      "Ahora relajá los músculos de las piernas mientras tu compañero te separa los pies, estirando hasta donde te resulte cómodo. Avisale a tu compañero cuando el estiramiento sea suficiente para evitar sobreestirarte o lesionarte."
+    ]
+  },
+  "Advanced_Kettlebell_Windmill": {
+    "nombre": "Molino con pesa rusa (avanzado)",
+    "instrucciones": [
+      "Hacé una cargada y llevá una pesa rusa por encima de la cabeza con un brazo.",
+      "Manteniendo la pesa rusa siempre bloqueada arriba, llevá los glúteos hacia el lado de la pesa. Mantené el brazo libre detrás de la espalda y girá los pies a 45 grados respecto del brazo que sostiene la pesa.",
+      "Bajá todo lo que puedas.",
+      "Hacé una pausa de un segundo e invertí el movimiento hasta la posición inicial."
+    ]
+  },
+  "Air_Bike": {
+    "nombre": "Bicicleta en el aire",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo con la zona lumbar apoyada. Para este ejercicio, poné las manos al costado de la cabeza. Tené cuidado de no forzar el cuello al hacerlo. Ahora elevá los hombros a la posición de crunch.",
+      "Llevá las rodillas hasta quedar perpendiculares al suelo, con las pantorrillas paralelas al piso. Esta es tu posición inicial.",
+      "Ahora, simultáneamente, hacé lentamente un movimiento de pedaleo: extendé hacia adelante la pierna derecha mientras llevás la rodilla izquierda hacia el pecho. Acercá el codo derecho a la rodilla izquierda encogiéndote hacia ese lado, mientras exhalás.",
+      "Volvé a la posición inicial mientras inhalás.",
+      "Encogé hacia el lado opuesto mientras pedaleás las piernas y acercá el codo izquierdo a la rodilla derecha, y exhalá.",
+      "Seguí alternando así hasta completar todas las repeticiones recomendadas de cada lado."
+    ]
+  },
+  "All_Fours_Quad_Stretch": {
+    "nombre": "Estiramiento de cuádriceps en cuatro apoyos",
+    "instrucciones": [
+      "Empezá en cuatro apoyos (manos y rodillas), después elevá una pierna del suelo y agarrate el pie con la mano.",
+      "Usá la mano para sostener el pie o el tobillo, manteniendo la rodilla totalmente flexionada, estirando el cuádriceps y los flexores de la cadera.",
+      "Concentrate en extender las caderas, empujándolas hacia el suelo. Mantené 10-20 segundos y después cambiá de lado."
+    ]
+  },
+  "Alternate_Hammer_Curl": {
+    "nombre": "Curl martillo alternado",
+    "instrucciones": [
+      "Parate con el torso erguido y una mancuerna en cada mano, sostenidas con los brazos estirados. Los codos deben estar pegados al torso.",
+      "Las palmas de las manos deben mirar hacia el torso. Esta es tu posición inicial.",
+      "Manteniendo el brazo quieto, flexioná la mancuerna derecha hacia arriba contrayendo el bíceps mientras exhalás. Seguí hasta que el bíceps quede totalmente contraído y la mancuerna a la altura del hombro. Mantené la posición contraída un segundo apretando el bíceps. Consejo: solo deberían moverse los antebrazos.",
+      "Empezá a bajar las mancuernas lentamente a la posición inicial mientras inhalás.",
+      "Repetí el movimiento con la mano izquierda. Esto equivale a una repetición.",
+      "Seguí alternando así las repeticiones recomendadas."
+    ]
+  },
+  "Alternate_Heel_Touchers": {
+    "nombre": "Toques de talón alternados",
+    "instrucciones": [
+      "Recostate en el suelo con las rodillas flexionadas y los pies apoyados, separados unos 45-60 cm. Los brazos deben estar extendidos a los costados. Esta es tu posición inicial.",
+      "Encogé el torso hacia adelante y arriba unos 8-10 cm hacia el lado derecho y tocá el talón derecho, manteniendo la contracción un segundo. Exhalá al hacer el movimiento.",
+      "Ahora volvé lentamente a la posición inicial mientras inhalás.",
+      "Ahora encogé el torso hacia adelante y arriba unos 8-10 cm hacia el lado izquierdo y tocá el talón izquierdo, manteniendo la contracción un segundo. Exhalá durante el movimiento y volvé a la posición inicial mientras inhalás. Haber tocado ambos talones cuenta como 1 repetición.",
+      "Seguí alternando los lados así hasta completar todas las repeticiones indicadas."
+    ]
+  },
+  "Alternate_Incline_Dumbbell_Curl": {
+    "nombre": "Curl inclinado con mancuernas alternado",
+    "instrucciones": [
+      "Sentate en un banco inclinado con una mancuerna en cada mano, sostenidas con los brazos estirados. Consejo: mantené los codos pegados al torso. Esta es tu posición inicial.",
+      "Manteniendo el brazo quieto, flexioná la mancuerna derecha hacia arriba contrayendo el bíceps mientras exhalás. Al hacerlo, girá la mano para que la palma quede hacia arriba. Seguí hasta que el bíceps quede totalmente contraído y la mancuerna a la altura del hombro. Mantené la posición contraída un segundo apretando el bíceps. Consejo: solo deberían moverse los antebrazos.",
+      "Empezá a bajar la mancuerna lentamente a la posición inicial mientras inhalás.",
+      "Repetí el movimiento con la mano izquierda. Esto equivale a una repetición.",
+      "Seguí alternando así las repeticiones recomendadas."
+    ]
+  },
+  "Alternate_Leg_Diagonal_Bound": {
+    "nombre": "Salto diagonal alternando piernas",
+    "instrucciones": [
+      "Adoptá una postura cómoda con un pie un poco más adelante que el otro.",
+      "Empezá empujando con la pierna de adelante, llevando la rodilla opuesta hacia adelante y lo más alto posible antes de aterrizar. Tratá de cubrir la mayor distancia posible hacia cada lado en cada salto.",
+      "Puede ayudarte usar una línea en el suelo para medir la distancia de lado a lado.",
+      "Repetí la secuencia con la otra pierna."
+    ]
+  },
+  "Alternating_Cable_Shoulder_Press": {
+    "nombre": "Press de hombros en polea alternado",
+    "instrucciones": [
+      "Llevá las poleas a la parte baja de la torre y elegí un peso adecuado.",
+      "Agarrá las manijas y sostenelas a la altura de los hombros, con las palmas hacia adelante. Esta es tu posición inicial.",
+      "Manteniendo la cabeza y el pecho en alto, extendé el codo para presionar un lado directamente por encima de la cabeza.",
+      "Tras una pausa arriba, volvé a la posición inicial y repetí del lado opuesto."
+    ]
+  },
+  "Alternating_Deltoid_Raise": {
+    "nombre": "Elevación de deltoides alternada",
+    "instrucciones": [
+      "De pie, sostené un par de mancuernas a los costados.",
+      "Manteniendo los codos apenas flexionados, elevá las mancuernas directamente al frente hasta la altura de los hombros, sin balancearte ni hacer trampa.",
+      "Volvé las mancuernas a los costados.",
+      "En la siguiente repetición, elevá las mancuernas lateralmente, llevándolas hacia los costados hasta más o menos la altura de los hombros.",
+      "Volvé las mancuernas a la posición inicial y seguí alternando entre el frente y el lateral."
+    ]
+  },
+  "Alternating_Floor_Press": {
+    "nombre": "Press en el suelo alternado",
+    "instrucciones": [
+      "Recostate en el suelo con dos pesas rusas al lado de los hombros.",
+      "Colocá primero una sobre el pecho y después la otra, agarrando las pesas por la manija con las palmas hacia adelante.",
+      "Extendé ambos brazos, de modo que las pesas queden sostenidas por encima del pecho. Bajá una pesa hacia el pecho y girá la muñeca en dirección a la pesa que queda bloqueada arriba.",
+      "Subí la pesa y repetí del lado opuesto."
+    ]
+  },
+  "Alternating_Hang_Clean": {
+    "nombre": "Cargada colgante alternada",
+    "instrucciones": [
+      "Colocá dos pesas rusas entre los pies. Para ponerte en la posición inicial, llevá los glúteos hacia atrás y mirá al frente.",
+      "Cargá una pesa hasta el hombro y sostené la otra en posición colgante. Cargá la pesa al hombro extendiendo las piernas y las caderas mientras la traccionás hacia el hombro. Girá la muñeca al hacerlo.",
+      "Bajá la pesa cargada a la posición colgante y cargá la otra pesa. Repetí."
+    ]
+  },
+  "Alternating_Kettlebell_Press": {
+    "nombre": "Press con pesa rusa alternado",
+    "instrucciones": [
+      "Cargá dos pesas rusas hasta los hombros, extendiendo las piernas y las caderas mientras las traccionás hacia los hombros. Girá las muñecas al hacerlo.",
+      "Presioná una directamente por encima de la cabeza extendiendo el codo, girándola para que la palma quede hacia adelante, mientras mantenés la otra pesa quieta.",
+      "Bajá la pesa que presionaste a la posición inicial y presioná de inmediato con el otro brazo."
+    ]
+  },
+  "Alternating_Kettlebell_Row": {
+    "nombre": "Remo con pesa rusa alternado",
+    "instrucciones": [
+      "Colocá dos pesas rusas frente a los pies. Flexioná apenas las rodillas y llevá los glúteos hacia atrás lo máximo posible. Al inclinarte para tomar la posición inicial, agarrá ambas pesas por las manijas.",
+      "Levantá una pesa del suelo mientras sostenés la otra. Retraé el omóplato del lado que trabaja mientras flexionás el codo, llevando la pesa hacia el estómago o la caja torácica.",
+      "Bajá la pesa del brazo que trabaja y repetí con el otro brazo."
+    ]
+  },
+  "Alternating_Renegade_Row": {
+    "nombre": "Remo renegado alternado",
+    "instrucciones": [
+      "Colocá dos pesas rusas en el suelo separadas a la anchura de los hombros. Ponete sobre las puntas de los pies y las manos como si fueras a hacer una flexión, con el cuerpo recto y extendido. Usá las manijas de las pesas para sostener el tren superior. Puede que necesites separar los pies para tener más estabilidad.",
+      "Empujá una pesa contra el suelo y remá con la otra, retrayendo el omóplato del lado que trabaja mientras flexionás el codo y la llevás hacia tu costado.",
+      "Después bajá la pesa al suelo y empezá con la pesa de la mano opuesta. Repetí por varias repeticiones."
+    ]
+  },
+  "Ankle_Circles": {
+    "nombre": "Círculos de tobillo",
+    "instrucciones": [
+      "Usá un objeto firme, como una jaula de sentadillas, para sostenerte.",
+      "Elevá la pierna derecha en el aire (unos 5 cm del suelo) y hacé un movimiento circular con el dedo gordo. Imaginá que dibujás un círculo grande con él. Consejo: un círculo equivale a 1 repetición. Respirá normalmente durante el movimiento.",
+      "Cuando termines con el pie derecho, repetí con la pierna izquierda."
+    ]
+  },
+  "Ankle_On_The_Knee": {
+    "nombre": "Tobillo sobre la rodilla",
+    "instrucciones": [
+      "Desde una posición boca arriba, flexioná las rodillas y mantené los pies apoyados en el suelo.",
+      "Apoyá el tobillo de un pie sobre la rodilla opuesta.",
+      "Agarrá el muslo o la rodilla de la pierna de abajo y llevá ambas piernas hacia el pecho. Relajá el cuello y los hombros. Mantené 10-20 segundos y después cambiá de lado."
+    ]
+  }
+}

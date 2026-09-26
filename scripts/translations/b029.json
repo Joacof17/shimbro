@@ -1,0 +1,219 @@
+{
+  "Seated_Barbell_Military_Press": {
+    "nombre": "Press militar con barra sentado",
+    "instrucciones": [
+      "Sentate en un banco de press militar con la barra detrás de la cabeza y pedile a un ayudante que te la alcance (así cuidás mejor el manguito rotador) o levantala vos mismo con cuidado con un agarre prono (palmas hacia adelante). Consejo: el agarre debe ser más ancho que los hombros y debe formar un ángulo de 90 grados entre el antebrazo y el brazo al bajar la barra.",
+      "Una vez que agarraste la barra con el ancho correcto, subila por encima de la cabeza bloqueando los brazos. Sostenela a la altura de los hombros, apenas por delante de la cabeza. Esta es tu posición inicial.",
+      "Bajá la barra lentamente hacia la clavícula mientras inhalás.",
+      "Subí la barra de vuelta a la posición inicial mientras exhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Barbell_Twist": {
+    "nombre": "Giro con barra sentado",
+    "instrucciones": [
+      "Empezá sentándote en la punta de un banco plano con una barra apoyada sobre los muslos. Los pies a la anchura de los hombros.",
+      "Agarrá la barra con las palmas hacia abajo y asegurate de que las manos queden más anchas que los hombros. Empezá a subir la barra por encima de la cabeza hasta que los brazos queden totalmente extendidos.",
+      "Ahora bajá la barra por detrás de la cabeza hasta que quede apoyada sobre la base del cuello. Esta es la posición inicial.",
+      "Manteniendo los pies y la cabeza quietos, movete de lado a lado con la cintura para que los oblicuos sientan la contracción. Movete de lado a lado solo hasta donde te permita la cintura. Estirarte o ir demasiado lejos puede causar una lesión. Consejo: usá un movimiento lento y controlado.",
+      "Acordate de exhalar al girar el cuerpo hacia el costado e inhalar al volver a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+    "nombre": "Extensión de tríceps con mancuerna a un brazo, inclinado y sentado",
+    "instrucciones": [
+      "Sentate en la punta de un banco plano con una mancuerna en una mano usando un agarre neutro (palmas enfrentadas hacia vos).",
+      "Flexioná apenas las rodillas y llevá el torso hacia adelante, inclinándote desde la cintura, manteniendo la espalda recta hasta quedar casi paralelo al suelo. Asegurate de mantener la cabeza en alto.",
+      "El brazo con la mancuerna debe quedar cerca del torso y alineado con él (levantado hasta quedar paralelo al suelo, con el antebrazo apuntando hacia abajo mientras la mano sostiene el peso). Consejo: debe haber un ángulo de 90 grados entre el antebrazo y el brazo. Esta es tu posición inicial.",
+      "Manteniendo el brazo quieto, usá el tríceps para levantar el peso mientras exhalás hasta que el antebrazo quede paralelo al suelo y todo el brazo extendido. Como en muchos otros ejercicios de brazo, solo se mueve el antebrazo.",
+      "Tras un segundo de contracción arriba, bajá lentamente la mancuerna a la posición inicial mientras inhalás.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Cambiá de brazo y repetí el ejercicio."
+    ]
+  },
+  "Seated_Bent-Over_Rear_Delt_Raise": {
+    "nombre": "Elevación de deltoides posterior inclinado y sentado",
+    "instrucciones": [
+      "Colocá un par de mancuernas mirando hacia adelante frente a un banco plano.",
+      "Sentate en la punta del banco con las piernas juntas y las mancuernas detrás de los gemelos.",
+      "Inclinate desde la cintura manteniendo la espalda recta para agarrar las mancuernas. Las palmas deben quedar enfrentadas al agarrarlas. Esta es tu posición inicial.",
+      "Manteniendo el torso hacia adelante y quieto, y los brazos apenas flexionados en los codos, subí las mancuernas rectas hacia los costados hasta que ambos brazos queden paralelos al suelo. Exhalá al subir el peso. (Nota: evitá balancear el torso o llevar los brazos hacia atrás en lugar de al costado.)",
+      "Tras un segundo de contracción arriba, bajá lentamente las mancuernas a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+    "nombre": "Extensión de tríceps con mancuernas a dos brazos, inclinado y sentado",
+    "instrucciones": [
+      "Sentate en la punta de un banco plano con una mancuerna en cada mano usando un agarre neutro (palmas enfrentadas hacia vos).",
+      "Flexioná apenas las rodillas y llevá el torso hacia adelante, inclinándote desde la cintura, manteniendo la espalda recta hasta quedar casi paralelo al suelo. Asegurate de mantener la cabeza en alto.",
+      "Los brazos con las mancuernas deben quedar cerca del torso y alineados con él (levantados hasta quedar paralelos al suelo, con los antebrazos apuntando hacia abajo mientras las manos sostienen el peso). Consejo: debe haber un ángulo de 90 grados entre los antebrazos y los brazos. Esta es tu posición inicial.",
+      "Manteniendo los brazos quietos, usá los tríceps para levantar el peso mientras exhalás hasta que los antebrazos queden paralelos al suelo y todo el brazo extendido. Como en muchos otros ejercicios de brazo, solo se mueve el antebrazo.",
+      "Tras un segundo de contracción arriba, bajá lentamente las mancuernas a la posición inicial mientras inhalás.",
+      "Repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Seated_Biceps": {
+    "nombre": "Bíceps sentado (con compañero)",
+    "instrucciones": [
+      "Sentate en el suelo con las rodillas flexionadas y tu compañero parado detrás tuyo. Extendé los brazos rectos hacia atrás con las palmas enfrentadas. Tu compañero te va a sostener las muñecas. Esta es la posición inicial.",
+      "Intentá flexionar los codos, mientras tu compañero impide cualquier movimiento real.",
+      "Tras 10-20 segundos, relajá los brazos mientras tu compañero tira suavemente de tus muñecas hacia arriba para estirar los bíceps. Asegurate de avisarle a tu compañero cuando el estiramiento sea el adecuado para evitar lesiones o sobreestiramiento."
+    ]
+  },
+  "Seated_Cable_Rows": {
+    "nombre": "Remo sentado en polea",
+    "instrucciones": [
+      "Para este ejercicio necesitás una máquina de remo en polea baja con un agarre en V. Nota: el agarre en V te permite un agarre neutro donde las palmas quedan enfrentadas. Para llegar a la posición inicial, primero sentate en la máquina y apoyá los pies en la plataforma o barra delantera, asegurándote de que las rodillas queden apenas flexionadas y no bloqueadas.",
+      "Inclinate hacia adelante manteniendo la alineación natural de la espalda y agarrá el agarre en V.",
+      "Con los brazos extendidos, tirá hacia atrás hasta que el torso quede a 90 grados de las piernas. La espalda debe quedar apenas arqueada y el pecho hacia afuera. Deberías sentir un buen estiramiento en los dorsales mientras sostenés la barra frente a vos. Esta es la posición inicial del ejercicio.",
+      "Manteniendo el torso quieto, tirá del agarre hacia el torso manteniendo los brazos cerca de él hasta tocar el abdomen. Exhalá al hacer ese movimiento. En ese punto deberías estar apretando fuerte los músculos de la espalda. Mantené esa contracción un segundo y volvé lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Cable_Shoulder_Press": {
+    "nombre": "Press de hombros en polea sentado",
+    "instrucciones": [
+      "Ajustá el peso a una cantidad adecuada y sentate, agarrando las manijas. Los brazos deben quedar a unos 90 grados del cuerpo, con la cabeza y el pecho en alto. Los codos también flexionados a unos 90 grados. Esta es tu posición inicial.",
+      "Empezá extendiendo el codo, juntando las manijas por encima de la cabeza.",
+      "Tras una pausa arriba, volvé las manijas a la posición inicial. Asegurate de mantener la tensión en las poleas.",
+      "También podés hacer este movimiento con la espalda despegada del respaldo y alternando las manos."
+    ]
+  },
+  "Seated_Calf_Raise": {
+    "nombre": "Elevación de gemelos sentado",
+    "instrucciones": [
+      "Sentate en la máquina y apoyá las puntas de los pies en la parte baja de la plataforma con los talones por fuera. Elegí la posición de las puntas que quieras (al frente, hacia adentro o hacia afuera).",
+      "Colocá la parte baja de los muslos debajo de la almohadilla de la palanca, que hay que ajustar según la altura de tus muslos. Ahora poné las manos sobre la almohadilla para que no se resbale hacia adelante.",
+      "Levantá apenas la palanca empujando los talones hacia arriba y soltá la traba de seguridad. Esta es tu posición inicial.",
+      "Bajá lentamente los talones flexionando los tobillos hasta que los gemelos queden totalmente estirados. Inhalá al hacer este movimiento.",
+      "Subí los talones extendiendo los tobillos lo más alto posible mientras contraés los gemelos y exhalás. Mantené la contracción de arriba un segundo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Calf_Stretch": {
+    "nombre": "Estiramiento de gemelos sentado",
+    "instrucciones": [
+      "Sentate derecho sobre una colchoneta.",
+      "Flexioná una rodilla y apoyá ese pie en el suelo para estabilizar el torso.",
+      "Estirá la otra pierna y flexioná el tobillo.",
+      "Usando una banda, una toalla o la mano si llegás, tirá de las puntas del pie hacia vos. Mantené 10 a 20 segundos y después cambiá de lado."
+    ]
+  },
+  "Seated_Close-Grip_Concentration_Barbell_Curl": {
+    "nombre": "Curl de concentración con barra y agarre cerrado, sentado",
+    "instrucciones": [
+      "Sentate en un banco plano con una barra o barra Z frente a vos, entre las piernas. Las piernas deben quedar abiertas con las rodillas flexionadas y los pies en el suelo.",
+      "Usá los brazos para levantar la barra y apoyá la parte de atrás de los brazos sobre la cara interna de los muslos (a unos 9 cm de la parte delantera de la rodilla). Se necesita un agarre supino más cerrado que los hombros para hacer este ejercicio. Consejo: el brazo debe quedar extendido y la barra por encima del suelo. Esta es tu posición inicial.",
+      "Manteniendo los brazos quietos, flexioná el peso hacia adelante contrayendo los bíceps mientras exhalás. Solo deben moverse los antebrazos. Seguí el movimiento hasta que los bíceps queden totalmente contraídos y la barra a la altura de los hombros. Mantené la posición contraída un segundo apretando los bíceps.",
+      "Empezá a llevar la barra lentamente de vuelta a la posición inicial mientras inhalás. Consejo: evitá los balanceos en todo momento.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Dumbbell_Curl": {
+    "nombre": "Curl con mancuernas sentado",
+    "instrucciones": [
+      "Sentate en un banco plano con una mancuerna en cada mano sostenida con los brazos extendidos. Los codos deben quedar cerca del torso.",
+      "Girá las palmas de las manos para que queden enfrentadas al torso. Esta es tu posición inicial.",
+      "Manteniendo el brazo quieto, flexioná los pesos y empezá a girar las muñecas una vez que las mancuernas pasan los muslos, para que las palmas queden hacia adelante al final del movimiento. Asegurate de contraer los bíceps mientras exhalás y de que solo se muevan los antebrazos. Seguí el movimiento hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura de los hombros. Mantené la posición contraída un segundo apretando los bíceps.",
+      "Empezá a llevar lentamente las mancuernas de vuelta a la posición inicial mientras inhalás y girás las muñecas de nuevo a un agarre neutro.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Dumbbell_Inner_Biceps_Curl": {
+    "nombre": "Curl interno de bíceps con mancuernas sentado",
+    "instrucciones": [
+      "Sentate en la punta de un banco plano con una mancuerna en cada mano sostenida con los brazos extendidos. Los codos deben quedar cerca del torso.",
+      "Girá las palmas de las manos para que queden hacia adentro en posición neutra. Esta es tu posición inicial.",
+      "Manteniendo los brazos quietos, flexioná las mancuernas hacia afuera y arriba, girando las palmas hacia afuera al subir y manteniendo los antebrazos en línea con los deltoides externos.",
+      "Solo deben moverse los antebrazos. Seguí el movimiento hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura de los hombros. Mantené la posición contraída un segundo apretando los bíceps.",
+      "Empezá a llevar lentamente las mancuernas de vuelta a la posición inicial mientras inhalás. Acordate de girar los brazos al bajar las mancuernas para volver a un agarre neutro.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+    "nombre": "Curl de muñeca con mancuernas, palmas hacia abajo, sentado",
+    "instrucciones": [
+      "Empezá colocando dos mancuernas en el suelo frente a un banco plano.",
+      "Sentate en el borde del banco plano con las piernas a la anchura de los hombros más o menos. Asegurate de mantener los pies en el suelo.",
+      "Usá los brazos para agarrar ambas mancuernas y subilas para que los antebrazos queden apoyados contra los muslos con las palmas hacia abajo. Las muñecas deben quedar colgando por fuera del borde de los muslos.",
+      "Empezá flexionando la muñeca hacia arriba y exhalando.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás. Asegurate de inhalar en esta parte del ejercicio. Consejo: los antebrazos deben quedar quietos, ya que la muñeca es el único movimiento necesario para este ejercicio.",
+      "Repetí las repeticiones recomendadas.",
+      "Al terminar, simplemente bajá las mancuernas al suelo."
+    ]
+  },
+  "Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+    "nombre": "Curl de muñeca con mancuernas, palmas hacia arriba, sentado",
+    "instrucciones": [
+      "Empezá colocando dos mancuernas en el suelo frente a un banco plano.",
+      "Sentate en el borde del banco plano con las piernas a la anchura de los hombros más o menos. Asegurate de mantener los pies en el suelo.",
+      "Usá los brazos para agarrar ambas mancuernas y subilas para que los antebrazos queden apoyados contra los muslos con las palmas hacia arriba. Las muñecas deben quedar colgando por fuera del borde de los muslos.",
+      "Empezá flexionando la muñeca hacia arriba y exhalando.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás. Asegurate de inhalar en esta parte del ejercicio. Consejo: los antebrazos deben quedar quietos, ya que la muñeca es el único movimiento necesario para este ejercicio.",
+      "Repetí las repeticiones recomendadas.",
+      "Al terminar, simplemente bajá las mancuernas al suelo."
+    ]
+  },
+  "Seated_Dumbbell_Press": {
+    "nombre": "Press de hombros con mancuernas sentado",
+    "instrucciones": [
+      "Agarrá un par de mancuernas y sentate en un banco de press militar o un banco con respaldo, apoyando las mancuernas de punta sobre los muslos.",
+      "Subí las mancuernas de a una usando los muslos para llevarlas a la altura de los hombros a cada lado.",
+      "Girá las muñecas para que las palmas queden hacia adelante. Esta es tu posición inicial.",
+      "Al exhalar, empujá las mancuernas hacia arriba hasta que se toquen arriba.",
+      "Tras una pausa de un segundo, bajá lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Flat_Bench_Leg_Pull-In": {
+    "nombre": "Recogida de piernas sentado en banco plano",
+    "instrucciones": [
+      "Sentate en un banco con las piernas estiradas frente a vos, apenas por debajo de la paralela, y los brazos agarrando los costados del banco. El torso debe quedar recostado hacia atrás a unos 45 grados respecto del banco. Esta es tu posición inicial.",
+      "Llevá las rodillas hacia vos mientras acercás el torso a ellas al mismo tiempo. Exhalá al hacer este movimiento.",
+      "Tras una pausa de un segundo, volvé a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Seated_Floor_Hamstring_Stretch": {
+    "nombre": "Estiramiento de isquiotibiales sentado en el suelo",
+    "instrucciones": [
+      "Sentate en una colchoneta con la pierna derecha extendida frente a vos y la izquierda flexionada con el pie contra la cara interna del muslo derecho.",
+      "Inclinate hacia adelante desde las caderas y estirate hacia el tobillo hasta sentir el estiramiento en el isquiotibial. Mantené 15 segundos y después repetí del otro lado."
+    ]
+  },
+  "Seated_Front_Deltoid": {
+    "nombre": "Deltoides anterior sentado (con compañero)",
+    "instrucciones": [
+      "Sentate derecho en el suelo con las piernas flexionadas y tu compañero parado detrás tuyo. Extendé los brazos rectos hacia los costados, con las palmas hacia el suelo. Intentá llevarlos lo más atrás posible, mientras tu ayudante te sostiene las muñecas. Esta es tu posición inicial.",
+      "Manteniendo los codos rectos, intentá llevar los brazos hacia adelante, mientras tu compañero te frena suavemente para impedir cualquier movimiento real durante 10-20 segundos.",
+      "Ahora relajá los músculos y dejá que tu compañero aumente suavemente el estiramiento en los hombros y el pecho. Mantené 10 a 20 segundos."
+    ]
+  },
+  "Seated_Glute": {
+    "nombre": "Glúteo sentado (con compañero)",
+    "instrucciones": [
+      "En posición sentada con las rodillas flexionadas, cruzá un tobillo sobre la rodilla opuesta. Tu compañero se para detrás tuyo. Ahora inclinate hacia adelante mientras tu compañero sostiene tus hombros con las manos. Esta es tu posición inicial.",
+      "Intentá empujar el torso hacia atrás durante 10-20 segundos, mientras tu compañero impide cualquier movimiento real del torso.",
+      "Ahora relajá los músculos mientras tu compañero aumenta el estiramiento empujando suavemente tu torso hacia adelante durante 10-20 segundos."
+    ]
+  },
+  "Seated_Good_Mornings": {
+    "nombre": "Buenos días sentado",
+    "instrucciones": [
+      "Armá un cajón en una jaula de potencia. Los pines deben estar a una altura adecuada. Empezá metiéndote debajo de la barra y apoyándola sobre la parte de atrás de los hombros, no sobre los trapecios. Juntá los omóplatos y girá los codos hacia adelante, intentando doblar la barra sobre los hombros.",
+      "Sacá la barra del soporte, generando un arco firme en la zona lumbar. Mantené la cabeza mirando al frente. Con la espalda, los hombros y el core firmes, empujá las rodillas y la cola hacia afuera al empezar a bajar. Llevá las caderas hacia atrás hasta quedar sentado en el cajón. Esta es tu posición inicial.",
+      "Manteniendo la barra firme, inclinate hacia adelante desde las caderas lo más posible. Si pusiste los pines a la altura de la paralela, no solo tenés una seguridad si fallás, sino que sabés cuándo parar.",
+      "Hacé una pausa justo por encima de los pines e invertí el movimiento hasta que el torso quede erguido."
+    ]
+  },
+  "Seated_Hamstring": {
+    "nombre": "Isquiotibiales sentado (con compañero)",
+    "instrucciones": [
+      "En posición sentada con las piernas extendidas, pedile a tu compañero que se pare detrás tuyo. Ahora inclinate hacia adelante mientras tu compañero sostiene tus hombros con las manos. Esta es tu posición inicial.",
+      "Intentá empujar el torso hacia atrás durante 10-20 segundos, mientras tu compañero impide cualquier movimiento real del torso.",
+      "Ahora relajá los músculos mientras tu compañero aumenta el estiramiento empujando suavemente tu torso hacia adelante durante 10-20 segundos."
+    ]
+  }
+}

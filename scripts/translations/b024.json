@@ -1,0 +1,226 @@
+{
+  "One_Arm_Floor_Press": {
+    "nombre": "Press en el suelo a un brazo con barra",
+    "instrucciones": [
+      "Recostate sobre una superficie plana con la espalda apoyada en el suelo o una colchoneta. Asegurate de tener las rodillas flexionadas.",
+      "Que un compañero te alcance la barra a una mano. Al empezar, el brazo debe quedar casi totalmente extendido, similar a la posición inicial de un press de banca con barra. Pero esta vez el agarre es neutro (palma hacia el torso).",
+      "Asegurate de dejar al costado la mano con la que no levantás el peso.",
+      "Empezá el ejercicio bajando la barra hasta que el codo toque el suelo. Inhalá, ya que esta es la parte excéntrica (de bajada).",
+      "Después empezá a subir la barra de vuelta a la posición inicial. Acordate de exhalar durante la parte concéntrica (de subida).",
+      "Repetí hasta hacer las repeticiones recomendadas.",
+      "Cambiá de brazo y repetí el movimiento."
+    ]
+  },
+  "One_Arm_Lat_Pulldown": {
+    "nombre": "Jalón al pecho a un brazo",
+    "instrucciones": [
+      "Elegí un peso adecuado y ajustá la almohadilla de las rodillas para mantenerte abajo. Agarrá la manija con un agarre prono. Esta es tu posición inicial.",
+      "Tirá de la manija hacia abajo, apretando el codo hacia tu costado mientras lo flexionás.",
+      "Hacé una pausa abajo y después volvé lentamente la manija a la posición inicial.",
+      "Para varias repeticiones, evitá volver del todo el peso para mantener la tensión en los músculos que trabajás."
+    ]
+  },
+  "One_Arm_Pronated_Dumbbell_Triceps_Extension": {
+    "nombre": "Extensión de tríceps a un brazo con mancuerna, agarre prono",
+    "instrucciones": [
+      "Recostate en un banco plano sosteniendo una mancuerna con el brazo estirado. El brazo debe quedar perpendicular al cuerpo. La palma debe mirar hacia los pies, ya que este ejercicio requiere agarre prono.",
+      "Apoyá la mano libre sobre el bíceps para dar soporte.",
+      "Empezá a bajar lentamente la mancuerna mientras inhalás.",
+      "Después empezá a subir la mancuerna mientras contraés los tríceps. Acordate de exhalar durante la parte concéntrica (de subida).",
+      "Repetí hasta hacer tus repeticiones.",
+      "Cambiá de brazo y repetí el movimiento."
+    ]
+  },
+  "One_Arm_Supinated_Dumbbell_Triceps_Extension": {
+    "nombre": "Extensión de tríceps a un brazo con mancuerna, agarre supino",
+    "instrucciones": [
+      "Recostate en un banco plano sosteniendo una mancuerna con el brazo estirado. El brazo debe quedar perpendicular al cuerpo. La palma debe mirar hacia tu cara, ya que este ejercicio requiere agarre supino.",
+      "Apoyá la mano libre sobre el bíceps para dar soporte.",
+      "Empezá a bajar lentamente la mancuerna mientras inhalás.",
+      "Después empezá a subir la mancuerna mientras contraés los tríceps. Acordate de exhalar durante la parte concéntrica (de subida).",
+      "Repetí hasta hacer tus repeticiones.",
+      "Cambiá de brazo y repetí el movimiento.",
+      "Cambiá de brazo de nuevo y repetí el movimiento."
+    ]
+  },
+  "One_Half_Locust": {
+    "nombre": "Media langosta",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo.",
+      "Poné la mano izquierda debajo del hueso de la cadera izquierda para acolchar la cadera y el pubis.",
+      "Flexioná la rodilla derecha para poder sostener el pie con la mano derecha.",
+      "Elevá el pie en el aire y a la vez despegá los hombros del suelo. Esto también estira el flexor de la cadera derecha y el pecho y los hombros. Cambiá de lado. Si no te molesta la espalda, podés probarlo con ambos brazos y piernas a la vez."
+    ]
+  },
+  "One_Handed_Hang": {
+    "nombre": "Colgada a una mano",
+    "instrucciones": [
+      "Agarrate de una barra de dominadas con una mano, con agarre prono. Mantené los pies en el suelo o en un step. Dejá que la mayor parte de tu peso cuelgue de esa mano, sin despegar los pies del suelo. Mantené 10-20 segundos y cambiá de lado."
+    ]
+  },
+  "One_Knee_To_Chest": {
+    "nombre": "Una rodilla al pecho",
+    "instrucciones": [
+      "Empezá recostado en el suelo.",
+      "Extendé una pierna recta y llevá la otra rodilla al pecho. Sostené por debajo de la articulación de la rodilla para proteger la rótula.",
+      "Llevá suavemente esa rodilla hacia tu nariz.",
+      "Cambiá de lado. Esto estira los glúteos y la zona lumbar de la pierna flexionada y el flexor de la cadera de la pierna estirada."
+    ]
+  },
+  "One_Leg_Barbell_Squat": {
+    "nombre": "Sentadilla a una pierna con barra",
+    "instrucciones": [
+      "Empezá parado a unos 60-90 cm frente a un banco plano, de espaldas al banco. Poné una barra en el suelo frente a vos. Consejo: los pies a la anchura de los hombros.",
+      "Flexioná las rodillas y usá un agarre prono con las manos más anchas que los hombros para subir la barra hasta apoyarla en el pecho.",
+      "Después subí la barra por encima de la cabeza y apoyala en la base del cuello. Llevá un pie hacia atrás para que la punta quede apoyada en el banco plano. El otro pie debe quedar quieto adelante. Mantené la cabeza en alto en todo momento, porque mirar hacia abajo te desequilibra, y la espalda recta. Consejo: mantené la espalda recta y el pecho hacia afuera durante el ejercicio.",
+      "Al inhalar, bajá lentamente la pierna hasta que el muslo quede paralelo al suelo. En ese punto, la rodilla debe quedar sobre las puntas de los pies. El pecho debe quedar directamente encima del medio del muslo.",
+      "Guiando con el pecho y las caderas y contrayendo los cuádriceps, subí la pierna de vuelta a la posición inicial mientras exhalás.",
+      "Repetí las repeticiones recomendadas.",
+      "Cambiá de pierna y repetí el movimiento."
+    ]
+  },
+  "Open_Palm_Kettlebell_Clean": {
+    "nombre": "Cargada con palma abierta y pesa rusa",
+    "instrucciones": [
+      "Colocá una pesa rusa entre los pies. Cargala extendiendo las piernas y las caderas mientras la elevás hacia los hombros.",
+      "Soltá la pesa a medida que sube y dejá que gire para que la bola caiga en las palmas de las manos.",
+      "Soltá la pesa hacia adelante y atrapá la manija con ambas manos. Bajá la pesa a la posición inicial y repetí."
+    ]
+  },
+  "Otis-Up": {
+    "nombre": "Otis-up",
+    "instrucciones": [
+      "Fijá los pies y recostate boca arriba en el suelo. Las rodillas flexionadas. Sostené un peso con ambas manos contra el pecho. Esta es tu posición inicial.",
+      "Iniciá el movimiento flexionando las caderas y la columna para elevar el torso del suelo.",
+      "Al subir, presioná el peso hacia arriba para que quede por encima de la cabeza en la parte alta del movimiento.",
+      "Volvé el peso al pecho invirtiendo el sit-up, asegurándote de no bajar del todo hasta el suelo."
+    ]
+  },
+  "Overhead_Cable_Curl": {
+    "nombre": "Curl en polea sobre la cabeza",
+    "instrucciones": [
+      "Para empezar, poné un peso cómodo a cada lado de la máquina de poleas. Nota: asegurate de que el peso sea igual en cada lado.",
+      "Ahora ajustá la altura de las poleas de cada lado y asegurate de que queden a una altura mayor que la de tus hombros.",
+      "Parate en el medio de ambos lados y usá un agarre supino (palmas hacia el techo) para agarrar cada manija. Los brazos deben quedar totalmente extendidos y paralelos al suelo, con los pies a la anchura de los hombros. El cuerpo debe quedar alineado de forma pareja entre las manijas. Esta es la posición inicial.",
+      "Al exhalar, apretá lentamente los bíceps de cada lado hasta que los antebrazos y los bíceps se toquen.",
+      "Al inhalar, volvé los antebrazos a la posición inicial. Nota: todo el cuerpo queda quieto en este ejercicio, salvo los antebrazos.",
+      "Repetí la cantidad de repeticiones indicada en tu programa."
+    ]
+  },
+  "Overhead_Lat": {
+    "nombre": "Dorsal sobre la cabeza (estiramiento)",
+    "instrucciones": [
+      "Sentate erguido en el suelo con tu compañero detrás. Subí un brazo recto hacia arriba y flexioná el codo, tratando de tocarte la espalda con la mano. Tu compañero debe sostenerte el tríceps y la muñeca. Esta es tu posición inicial.",
+      "Intentá bajar el brazo hacia tu costado mientras tu compañero te lo impide.",
+      "Después de 10-20 segundos, relajá el brazo y dejá que tu compañero estire más el dorsal aplicando presión suave sobre el tríceps. Mantené 10-20 segundos y después cambiá de lado."
+    ]
+  },
+  "Overhead_Slam": {
+    "nombre": "Slam sobre la cabeza",
+    "instrucciones": [
+      "Sostené un balón medicinal con ambas manos y parate con los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Iniciá el contramovimiento subiendo el balón por encima de la cabeza y extendiendo del todo el cuerpo.",
+      "Invertí el movimiento, lanzando el balón con fuerza contra el suelo justo frente a vos, lo más fuerte que puedas.",
+      "Recibí el balón con ambas manos en el rebote y repetí el movimiento."
+    ]
+  },
+  "Overhead_Squat": {
+    "nombre": "Sentadilla con barra sobre la cabeza",
+    "instrucciones": [
+      "Empezá con una barra en el suelo frente a vos. Los pies más anchos que los hombros.",
+      "Flexioná las rodillas y usá un agarre prono (palmas hacia vos) para agarrar la barra. Las manos deben quedar más anchas que los hombros antes de levantar. Una vez en posición, subí la barra hasta apoyarla en el pecho.",
+      "Llevá la barra por encima y un poco por detrás de la cabeza, con los brazos totalmente extendidos. Mantené la cabeza en alto en todo momento y la espalda recta. Retraé los omóplatos. Esta es tu posición inicial.",
+      "Bajá lentamente el peso flexionando las rodillas hasta que los muslos queden paralelos al suelo mientras inhalás. Consejo: mantené la espalda recta durante el ejercicio para evitar lesiones y los brazos extendidos y por encima de la cabeza en todo momento.",
+      "Ahora usá los pies y las piernas para subir el peso de vuelta a la posición inicial mientras exhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Overhead_Stretch": {
+    "nombre": "Estiramiento sobre la cabeza",
+    "instrucciones": [
+      "Parado y derecho, entrelazá los dedos y abrí las palmas hacia el techo. Mantené los hombros abajo mientras extendés los brazos hacia arriba.",
+      "Para lograr un estiramiento completo del torso, llevá el coxis hacia abajo y estabilizá el torso al hacerlo. Estirá los músculos del frente y de la parte de atrás del torso."
+    ]
+  },
+  "Overhead_Triceps": {
+    "nombre": "Tríceps sobre la cabeza (estiramiento)",
+    "instrucciones": [
+      "Sentate erguido en el suelo con tu compañero detrás. Subí un brazo recto hacia arriba y flexioná el codo, tratando de tocarte la espalda con la mano. Tu compañero debe sostenerte el codo y la muñeca. Esta es tu posición inicial.",
+      "Intentá extender el brazo recto hacia arriba mientras tu compañero te lo impide.",
+      "Después de 10-20 segundos, relajá el brazo y dejá que tu compañero estire más el tríceps aplicando presión suave sobre la muñeca. Mantené 10-20 segundos y después cambiá de lado."
+    ]
+  },
+  "Pallof_Press": {
+    "nombre": "Press Pallof",
+    "instrucciones": [
+      "Conectá una manija estándar a una torre y, si es posible, poné el cable a la altura de los hombros. Si no, una polea baja alcanza.",
+      "Con el costado hacia el cable, agarrá la manija con ambas manos y alejate de la torre. Debés estar a más o menos un largo de brazo de la polea, con la tensión del peso en el cable.",
+      "Con los pies a la anchura de las caderas y las rodillas apenas flexionadas, sostené el cable en el medio del pecho. Esta es tu posición inicial.",
+      "Presioná el cable lejos del pecho, extendiendo del todo ambos brazos. El core debe quedar firme y activado.",
+      "Sostené la repetición varios segundos antes de volver a la posición inicial.",
+      "Al terminar la serie, repetí mirando hacia la otra dirección."
+    ]
+  },
+  "Pallof_Press_With_Rotation": {
+    "nombre": "Press Pallof con rotación",
+    "instrucciones": [
+      "Conectá una manija estándar a una torre y poné el cable a la altura de los hombros.",
+      "Con el costado hacia el cable, agarrá la manija con una mano y alejate de la torre. Debés estar a más o menos un largo de brazo de la polea, con la tensión del peso en el cable. Alineá el brazo extendido con el cable.",
+      "Con los pies a la anchura de las caderas, tirá del cable hacia el pecho y agarrá la manija con la otra mano. En este momento ambas manos deben estar en la manija.",
+      "Mirando al frente, presioná el cable lejos del pecho. El core debe quedar firme y activado.",
+      "Manteniendo las caderas rectas, girá el torso alejándolo de la polea hasta lograr un cuarto de giro completo.",
+      "Mantené la postura rígida y los brazos rectos. Volvé a la posición neutra de forma lenta y controlada. Los brazos deben quedar extendidos frente a vos.",
+      "Con la tensión lateral todavía activando el core, llevá las manos al pecho y presioná de inmediato hacia afuera hasta la posición totalmente extendida. Esto cuenta como una repetición.",
+      "Repetí hasta el fallo.",
+      "Después, reubicate y repetí la misma serie de movimientos del lado opuesto."
+    ]
+  },
+  "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "nombre": "Curl de muñeca con mancuernas, palmas hacia abajo, sobre banco",
+    "instrucciones": [
+      "Empezá colocando dos mancuernas a un lado de un banco plano.",
+      "Arrodillate con ambas rodillas de modo que quedes de frente al banco plano.",
+      "Agarrá ambas mancuernas con un agarre prono (palmas hacia abajo) y subilas para que los antebrazos queden apoyados contra el banco. Las muñecas deben quedar colgando por el borde.",
+      "Empezá flexionando las muñecas hacia arriba mientras exhalás.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás.",
+      "Los antebrazos deben permanecer inmóviles: la muñeca es lo único que se mueve en este ejercicio.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Palms-Down_Wrist_Curl_Over_A_Bench": {
+    "nombre": "Curl de muñeca con barra, palmas hacia abajo, sobre banco",
+    "instrucciones": [
+      "Empezá colocando una barra a un lado de un banco plano.",
+      "Arrodillate con ambas rodillas de modo que quedes de frente al banco plano.",
+      "Agarrá la barra con un agarre prono (palmas hacia abajo) y subila para que los antebrazos queden apoyados contra el banco. Las muñecas deben quedar colgando por el borde.",
+      "Empezá flexionando las muñecas hacia arriba mientras exhalás.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás.",
+      "Los antebrazos deben permanecer inmóviles: la muñeca es lo único que se mueve en este ejercicio.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench": {
+    "nombre": "Curl de muñeca con barra, palmas hacia arriba, sobre banco",
+    "instrucciones": [
+      "Empezá colocando una barra a un lado de un banco plano.",
+      "Arrodillate con ambas rodillas de modo que quedes de frente al banco plano.",
+      "Agarrá la barra con un agarre supino (palmas hacia arriba) y subila para que los antebrazos queden apoyados contra el banco. Las muñecas deben quedar colgando por el borde.",
+      "Empezá flexionando las muñecas hacia arriba mientras exhalás.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás.",
+      "Los antebrazos deben permanecer inmóviles: la muñeca es lo único que se mueve en este ejercicio.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "nombre": "Curl de muñeca con mancuernas, palmas hacia arriba, sobre banco",
+    "instrucciones": [
+      "Empezá colocando dos mancuernas a un lado de un banco plano.",
+      "Arrodillate con ambas rodillas de modo que quedes de frente al banco plano.",
+      "Agarrá ambas mancuernas con un agarre supino (palmas hacia arriba) y subilas para que los antebrazos queden apoyados contra el banco. Las muñecas deben quedar colgando por el borde.",
+      "Empezá flexionando las muñecas hacia arriba mientras exhalás.",
+      "Bajá lentamente las muñecas de vuelta a la posición inicial mientras inhalás.",
+      "Los antebrazos deben permanecer inmóviles: la muñeca es lo único que se mueve en este ejercicio.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  }
+}

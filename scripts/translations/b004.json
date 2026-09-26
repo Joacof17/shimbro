@@ -1,0 +1,208 @@
+{
+  "Behind_Head_Chest_Stretch": {
+    "nombre": "Estiramiento de pecho con manos tras la cabeza",
+    "instrucciones": [
+      "Sentate erguido en el suelo con tu compañero detrás.",
+      "Colocá las manos detrás de la cabeza y llevá los codos hacia atrás lo más que puedas. Tu compañero debe sostenerte los codos. Esta es tu posición inicial.",
+      "Con suavidad, intentá llevar los codos hacia adelante, con las manos todavía detrás de la cabeza, durante 10 segundos o más. Tu compañero debe impedir que los codos se muevan.",
+      "Ahora relajá los músculos y que tu compañero lleve los codos hacia atrás con suavidad, hasta donde te resulte cómodo. Avisale cuando el estiramiento sea suficiente para evitar sobreestirarte o lesionarte."
+    ]
+  },
+  "Bench_Dips": {
+    "nombre": "Fondos en banco",
+    "instrucciones": [
+      "Para este ejercicio necesitás un banco detrás tuyo. Con el banco perpendicular al cuerpo y mirando hacia el lado opuesto, agarrate del borde del banco con las manos totalmente extendidas, separadas a la anchura de los hombros. Las piernas quedan extendidas hacia adelante, flexionadas en la cadera y perpendiculares al torso. Esta es tu posición inicial.",
+      "Bajá el cuerpo lentamente mientras inhalás, flexionando los codos hasta que quede un ángulo un poco menor a 90 grados entre el brazo y el antebrazo. Consejo: mantené los codos lo más cerca posible durante todo el movimiento. Los antebrazos deben apuntar siempre hacia abajo.",
+      "Usando los tríceps para volver a subir el torso, elevate de nuevo a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bench_Jump": {
+    "nombre": "Salto al banco",
+    "instrucciones": [
+      "Empezá con un cajón o banco a unos 30-60 cm frente a vos. Parate con los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Hacé una sentadilla corta para preparar el salto; llevá los brazos hacia atrás.",
+      "Rebotá desde esa posición, extendiendo caderas, rodillas y tobillos para saltar lo más alto posible. Llevá los brazos hacia adelante y arriba.",
+      "Saltá por encima del banco, aterrizando con las rodillas flexionadas y absorbiendo el impacto con las piernas.",
+      "Girá y quedá mirando hacia la dirección opuesta, después saltá de vuelta por encima del banco."
+    ]
+  },
+  "Bench_Press_-_Powerlifting": {
+    "nombre": "Press de banca (powerlifting)",
+    "instrucciones": [
+      "Empezá recostado en el banco, con la cabeza más allá de la barra si es posible. Meté los pies debajo tuyo y arqueá la espalda. Usando la barra para ayudarte a sostener el peso, despegá los hombros del banco y retraelos, juntando los omóplatos. Usá los pies para clavar los trapecios en el banco. Mantené esta posición firme del cuerpo durante todo el movimiento.",
+      "Sea cual sea la anchura de tu agarre, debe cubrir el anillo de la barra. Sacá la barra del soporte sin adelantar los hombros. Concentrate en apretar la barra e intentar partirla hacia afuera.",
+      "Bajá la barra hacia la parte baja del pecho o la parte alta del abdomen. La barra, la muñeca y el codo deben quedar alineados en todo momento.",
+      "Hacé una pausa cuando la barra toca el torso y después empujala hacia arriba con la mayor fuerza posible. Los codos deben ir pegados hasta el bloqueo."
+    ]
+  },
+  "Bench_Press_-_With_Bands": {
+    "nombre": "Press de banca con bandas",
+    "instrucciones": [
+      "En un banco plano, fijá una banda debajo de la pata del banco más cercana a tu cabeza.",
+      "Una vez fija la banda, agarrala por ambas manijas y recostate en el banco.",
+      "Extendé los brazos para sostener las manijas de la banda frente a vos a la anchura de los hombros.",
+      "Ya a la anchura de los hombros, girá las muñecas hacia adelante para que las palmas queden mirando hacia afuera. Esta es tu posición inicial.",
+      "Bajá las manijas lentamente hasta que el codo forme un ángulo de 90 grados. Mantené el control total en todo momento.",
+      "Al exhalar, subí las manijas usando los músculos pectorales. Estirá los brazos en la posición contraída, contraé el pecho, mantené un segundo y empezá a bajar lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas en tu programa de entrenamiento."
+    ]
+  },
+  "Bench_Press_with_Chains": {
+    "nombre": "Press de banca con cadenas",
+    "instrucciones": [
+      "Ajustá la cadena guía, acortándola al largo deseado. Colocá las cadenas en los extremos de la barra.",
+      "Recostado en el banco, llevá la cabeza más allá de la barra si es posible. Meté los pies debajo tuyo y arqueá la espalda. Usando la barra para ayudarte a sostener el peso, despegá los hombros del banco y retraelos, juntando los omóplatos. Usá los pies para clavar los trapecios en el banco. Mantené esta posición firme del cuerpo durante todo el movimiento. Sea cual sea la anchura de tu agarre, debe cubrir el anillo de la barra.",
+      "Sacá la barra del soporte sin adelantar los hombros. Concentrate en apretar la barra e intentar partirla hacia afuera. Bajá la barra hacia la parte baja del pecho o la parte alta del abdomen. La barra, la muñeca y el codo deben quedar alineados en todo momento.",
+      "Hacé una pausa cuando la barra toca el torso y después empujala hacia arriba con la mayor fuerza posible. Los codos deben ir pegados hasta el bloqueo."
+    ]
+  },
+  "Bench_Sprint": {
+    "nombre": "Sprint en banco",
+    "instrucciones": [
+      "Parate en el suelo con un pie apoyado sobre un banco o cajón, con el talón cerca del borde.",
+      "Empujá con el pie que está arriba del banco, extendiendo la cadera y la rodilla.",
+      "Aterrizá con el pie opuesto arriba del cajón, llevando el otro pie de vuelta a la posición inicial.",
+      "Seguí alternando de un pie al otro para completar la serie."
+    ]
+  },
+  "Bent-Arm_Barbell_Pullover": {
+    "nombre": "Pullover con barra y brazos flexionados",
+    "instrucciones": [
+      "Recostate en un banco plano con una barra, usando un agarre a la anchura de los hombros.",
+      "Sostené la barra recta por encima del pecho con los brazos algo flexionados. Esta es tu posición inicial.",
+      "Manteniendo los brazos flexionados, bajá el peso lentamente en arco por detrás de la cabeza mientras inhalás, hasta sentir un estiramiento en el pecho.",
+      "En ese punto, llevá la barra de vuelta a la posición inicial por el mismo arco por el que bajó, y exhalá al hacer el movimiento.",
+      "Sostené el peso en la posición inicial un segundo y repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Bent-Arm_Dumbbell_Pullover": {
+    "nombre": "Pullover con mancuerna y brazos flexionados",
+    "instrucciones": [
+      "Colocá una mancuerna parada sobre un banco plano.",
+      "Asegurándote de que la mancuerna quede firme en el borde del banco, recostate perpendicular al banco (el torso cruzado, como formando una cruz) apoyando solo los hombros sobre la superficie. Las caderas deben quedar por debajo del banco y las piernas flexionadas con los pies bien apoyados en el suelo. La cabeza también queda fuera del banco.",
+      "Agarrá la mancuerna con ambas manos y sostenela recta por encima del pecho con los brazos algo flexionados. Ambas palmas deben empujar contra la cara interna de uno de los lados de la mancuerna. Esta es tu posición inicial. Precaución: asegurate siempre de que la mancuerna esté firme. Usar una con discos flojos puede hacer que se desarme y te caiga en la cara.",
+      "Manteniendo los brazos fijos en posición flexionada, bajá el peso lentamente en arco por detrás de la cabeza mientras inhalás, hasta sentir un estiramiento en el pecho.",
+      "En ese punto, llevá la mancuerna de vuelta a la posición inicial por el mismo arco por el que bajó, y exhalá al hacer el movimiento.",
+      "Sostené el peso en la posición inicial un segundo y repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Bent-Knee_Hip_Raise": {
+    "nombre": "Elevación de cadera con rodillas flexionadas",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo con los brazos a los costados.",
+      "Ahora flexioná las rodillas a un ángulo de unos 75 grados y despegá los pies del suelo unos 5 cm.",
+      "Usando la parte baja de los abdominales, llevá las rodillas hacia vos manteniendo la flexión de 75 grados en las piernas. Seguí este movimiento hasta despegar las caderas del suelo rotando la pelvis hacia atrás. Exhalá durante esta parte del movimiento. Consejo: al final del movimiento las rodillas quedan por encima del pecho.",
+      "Apretá los abdominales arriba un segundo y después volvé lentamente a la posición inicial mientras inhalás. Consejo: mantené un movimiento controlado en todo momento.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Over_Barbell_Row": {
+    "nombre": "Remo con barra inclinado",
+    "instrucciones": [
+      "Sosteniendo una barra con un agarre prono (palmas hacia abajo), flexioná apenas las rodillas y llevá el torso hacia adelante inclinándote desde la cadera, manteniendo la espalda recta, hasta quedar casi paralelo al suelo. Consejo: mantené la cabeza en alto. La barra debe colgar justo frente a vos, con los brazos perpendiculares al suelo y al torso. Esta es tu posición inicial.",
+      "Ahora, manteniendo el torso quieto, exhalá y llevá la barra hacia vos. Mantené los codos cerca del cuerpo y usá solo los antebrazos para sostener el peso. En la posición contraída de arriba, apretá los músculos de la espalda y hacé una breve pausa.",
+      "Después inhalá y bajá la barra lentamente de vuelta a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+    "nombre": "Elevación de deltoides posterior con mancuernas y cabeza en el banco",
+    "instrucciones": [
+      "Parate derecho sosteniendo una mancuerna en cada mano, con un banco inclinado frente a vos.",
+      "Manteniendo la espalda recta y su curva natural, inclinate hacia adelante hasta que la frente toque el banco. Dejá que los brazos cuelguen frente a vos, perpendiculares al suelo. Las palmas deben mirarse entre sí y el torso quedar paralelo al suelo. Esta es tu posición inicial.",
+      "Manteniendo el torso hacia adelante y quieto, y los brazos estirados con una ligera flexión en los codos, elevá las mancuernas rectas hacia los costados hasta que ambos brazos queden paralelos al suelo. Exhalá al elevar el peso. Precaución: evitá balancear el torso o llevar los brazos hacia atrás en vez de al costado.",
+      "Tras una contracción de un segundo arriba, bajá lentamente las mancuernas a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Over_Low-Pulley_Side_Lateral": {
+    "nombre": "Elevación lateral en polea baja inclinado",
+    "instrucciones": [
+      "Elegí un peso y agarrá la manija de la polea baja con la mano derecha.",
+      "Inclinate desde la cadera hasta que el torso quede casi paralelo al suelo. Las piernas apenas flexionadas y la mano izquierda apoyada en la parte baja del muslo izquierdo. El brazo derecho debe colgar desde el hombro frente a vos, con una ligera flexión en el codo. Esta es tu posición inicial.",
+      "Elevá el brazo derecho, con el codo apenas flexionado, hacia el costado hasta que el brazo quede paralelo al suelo y a la altura de la oreja derecha. Exhalá al hacer este paso.",
+      "Bajá lentamente el peso de vuelta a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas y repetí el movimiento con el otro brazo."
+    ]
+  },
+  "Bent_Over_One-Arm_Long_Bar_Row": {
+    "nombre": "Remo a un brazo con barra larga inclinado",
+    "instrucciones": [
+      "Poné peso en uno de los extremos de una barra olímpica. Asegurate de apoyar el otro extremo en el rincón de dos paredes, o de poner un objeto pesado en el suelo para que la barra no se deslice hacia atrás.",
+      "Inclinate hacia adelante hasta que el torso quede lo más cerca posible de paralelo al suelo, con las rodillas apenas flexionadas.",
+      "Ahora agarrá la barra con un brazo justo detrás de los discos, del lado donde pusiste el peso, y apoyá la otra mano en la rodilla. Esta es tu posición inicial.",
+      "Traccioná la barra recta hacia arriba con el codo pegado (para maximizar el trabajo de la espalda) hasta que los discos toquen la parte baja del pecho. Apretá los músculos de la espalda al subir el peso y mantené un segundo arriba. Exhalá al subir. Consejo: no balancees el torso. Solo debe moverse el brazo.",
+      "Bajá la barra lentamente a la posición inicial, sintiendo un buen estiramiento en los dorsales. Consejo: no dejes que los discos toquen el suelo. Para un mejor rango de movimiento, conviene usar discos chicos (de 10 kg) en vez de discos grandes (de 15-20 kg).",
+      "Repetí las repeticiones recomendadas y cambiá de brazo."
+    ]
+  },
+  "Bent_Over_Two-Arm_Long_Bar_Row": {
+    "nombre": "Remo a dos brazos con barra larga inclinado",
+    "instrucciones": [
+      "Poné peso en uno de los extremos de una barra olímpica. Asegurate de apoyar el otro extremo en el rincón de dos paredes, o de poner un objeto pesado en el suelo para que la barra no se deslice hacia atrás.",
+      "Inclinate hacia adelante hasta que el torso quede lo más cerca posible de paralelo al suelo, con las rodillas apenas flexionadas.",
+      "Ahora agarrá la barra con ambos brazos justo detrás de los discos, del lado donde pusiste el peso. Esta es tu posición inicial.",
+      "Traccioná la barra recta hacia arriba con los codos pegados (para maximizar el trabajo de la espalda) hasta que los discos toquen la parte baja del pecho. Apretá los músculos de la espalda al subir el peso y mantené un segundo arriba. Exhalá al subir. Consejo: usá un accesorio de agarre doble (estribo) enganchándolo debajo del extremo de la barra.",
+      "Bajá la barra lentamente a la posición inicial, sintiendo un buen estiramiento en los dorsales. Consejo: no dejes que los discos toquen el suelo. Para un mejor rango de movimiento, conviene usar discos chicos (de 10 kg) en vez de discos grandes (de 15-20 kg).",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Over_Two-Dumbbell_Row": {
+    "nombre": "Remo con dos mancuernas inclinado",
+    "instrucciones": [
+      "Con una mancuerna en cada mano (palmas hacia el torso), flexioná apenas las rodillas y llevá el torso hacia adelante inclinándote desde la cadera; al inclinarte mantené la espalda recta hasta quedar casi paralelo al suelo. Consejo: mantené la cabeza en alto. Los pesos deben colgar justo frente a vos, con los brazos perpendiculares al suelo y al torso. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto, elevá las mancuernas hacia los costados (mientras exhalás), con los codos cerca del cuerpo (no hagas fuerza con el antebrazo más que para sostener los pesos). En la posición contraída de arriba, apretá los músculos de la espalda y mantené un segundo.",
+      "Bajá lentamente el peso de vuelta a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+    "nombre": "Remo con dos mancuernas inclinado, palmas enfrentadas",
+    "instrucciones": [
+      "Con una mancuerna en cada mano (palmas enfrentadas), flexioná apenas las rodillas y llevá el torso hacia adelante inclinándote desde la cadera, manteniendo la espalda recta hasta quedar casi paralelo al suelo. Consejo: mantené la cabeza en alto. Los pesos deben colgar justo frente a vos, con los brazos perpendiculares al suelo y al torso. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto, elevá las mancuernas hacia los costados mientras exhalás, juntando los omóplatos. En la posición contraída de arriba, apretá los músculos de la espalda y mantené un segundo.",
+      "Bajá lentamente el peso de vuelta a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Bent_Press": {
+    "nombre": "Press inclinado (bent press) con pesa rusa",
+    "instrucciones": [
+      "Cargá una pesa rusa hasta el hombro extendiendo las piernas y las caderas mientras la elevás hacia el hombro. La muñeca debe girar al hacerlo. Esta es tu posición inicial.",
+      "Empezá inclinándote hacia el lado opuesto a la pesa, hasta poder tocar el suelo con la mano libre, sin sacarle los ojos de encima a la pesa. Mientras lo hacés, presioná el peso verticalmente extendiendo el codo, manteniendo el brazo perpendicular al suelo.",
+      "Volvé a la posición erguida, con la pesa por encima de la cabeza. Bajá la pesa al hombro y repetí las repeticiones deseadas."
+    ]
+  },
+  "Bicycling": {
+    "nombre": "Ciclismo",
+    "instrucciones": [
+      "Para empezar, sentate en la bici y ajustá el asiento a tu altura."
+    ]
+  },
+  "Bicycling_Stationary": {
+    "nombre": "Ciclismo (bici fija)",
+    "instrucciones": [
+      "Para empezar, sentate en la bici y ajustá el asiento a tu altura.",
+      "Elegí la opción deseada del menú. Puede que tengas que empezar a pedalear para encenderla. Podés usar el modo manual o elegir un programa. Normalmente podés ingresar tu edad y peso para estimar las calorías quemadas durante el ejercicio. El nivel de resistencia se puede cambiar durante todo el entrenamiento. Las manijas sirven para monitorear tu ritmo cardíaco y ayudarte a mantener una intensidad adecuada."
+    ]
+  },
+  "Board_Press": {
+    "nombre": "Board press",
+    "instrucciones": [
+      "Empezá recostado en el banco, con la cabeza más allá de la barra si es posible. Se pueden atornillar de una a cinco tablas (hechas con listones de 2x6) y sostenerlas en su lugar con un compañero, con bandas, o metidas bajo la remera.",
+      "Meté los pies debajo tuyo y arqueá la espalda. Usando la barra para ayudarte a sostener el peso, despegá los hombros del banco y retraelos, juntando los omóplatos. Usá los pies para clavar los trapecios en el banco. Mantené esta posición firme del cuerpo durante todo el movimiento.",
+      "Podés usar un agarre estándar de press de banca, o a la anchura de los hombros para enfocar los tríceps. Sacá la barra del soporte sin adelantar los hombros. La barra, la muñeca y el codo deben quedar alineados en todo momento. Concentrate en apretar la barra e intentar partirla hacia afuera.",
+      "Bajá la barra hasta las tablas y después empujala hacia arriba con la mayor fuerza posible. Los codos deben ir pegados hasta el bloqueo."
+    ]
+  },
+  "Body-Up": {
+    "nombre": "Elevación desde plancha (body-up)",
+    "instrucciones": [
+      "Ponete en posición de plancha en el suelo. Debés sostener tu peso sobre las puntas de los pies y los antebrazos, manteniendo el torso recto. Los antebrazos separados a la anchura de los hombros. Esta es tu posición inicial.",
+      "Empujando firme con las palmas contra el suelo, extendé los codos para elevar el cuerpo del piso. Mantené el torso rígido mientras hacés el movimiento.",
+      "Bajá lentamente los antebrazos de nuevo al suelo dejando que los codos se flexionen.",
+      "Repetí."
+    ]
+  }
+}

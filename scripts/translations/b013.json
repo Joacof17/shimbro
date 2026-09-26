@@ -1,0 +1,209 @@
+{
+  "Farmers_Walk": {
+    "nombre": "Caminata del granjero",
+    "instrucciones": [
+      "Hay varios implementos para la caminata del granjero. También se puede hacer con mancuernas pesadas o barras cortas si no tenés esos implementos. Empezá parado entre los implementos.",
+      "Después de agarrar las manijas, levantalos empujando con los talones, manteniendo la espalda recta y la cabeza en alto.",
+      "Caminá con pasos cortos y rápidos, y no te olvides de respirar. Recorré una distancia dada, normalmente 15-30 metros, lo más rápido posible."
+    ]
+  },
+  "Fast_Skipping": {
+    "nombre": "Skipping rápido",
+    "instrucciones": [
+      "Empezá en una posición relajada con una pierna un poco adelante. Esta es tu posición inicial.",
+      "Hacé skipping con un patrón de paso-salto: derecha-derecha-paso, después izquierda-izquierda-paso, y así, alternando de un lado al otro.",
+      "Hacé los skips rápidos manteniendo poco contacto con el suelo y reduciendo el tiempo en el aire, moviéndote lo más rápido posible."
+    ]
+  },
+  "Finger_Curls": {
+    "nombre": "Curl de dedos",
+    "instrucciones": [
+      "Sostené una barra con ambas manos y las palmas hacia arriba; las manos separadas a la anchura de los hombros.",
+      "Apoyá los pies en el suelo, a una distancia un poco mayor que la anchura de los hombros. Esta es tu posición inicial.",
+      "Bajá la barra lo más posible extendiendo los dedos. Dejá que la barra ruede hacia abajo por las manos y agarrala con la última falange de los dedos.",
+      "Ahora flexioná la barra hacia arriba lo más posible cerrando las manos mientras exhalás. Mantené la contracción arriba."
+    ]
+  },
+  "Flat_Bench_Cable_Flyes": {
+    "nombre": "Aperturas en polea en banco plano",
+    "instrucciones": [
+      "Colocá un banco plano entre dos poleas bajas de modo que, al recostarte, el pecho quede alineado con las poleas.",
+      "Recostate en el banco y mantené los pies en el suelo.",
+      "Que alguien te alcance las manijas, una en cada mano. Vas a agarrar cada manija con las palmas hacia arriba.",
+      "Extendé los brazos hacia los costados con una ligera flexión en los codos. Consejo: mantené esa flexión constante durante todo el movimiento. Los brazos deben quedar paralelos al suelo. Esta es tu posición inicial.",
+      "Ahora empezá a subir los brazos en un movimiento semicircular directamente frente a vos, juntando las poleas hasta que ambas manos se encuentren arriba. Apretá el pecho al hacerlo y exhalá durante el movimiento. Mantené la contracción un segundo arriba. Consejo: bien hecho, arriba los brazos deben quedar perpendiculares al torso, tocándose por encima del pecho.",
+      "Volvé lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Flat_Bench_Leg_Pull-In": {
+    "nombre": "Encogimiento de piernas en banco plano",
+    "instrucciones": [
+      "Recostate en una colchoneta o un banco plano con las piernas por fuera del extremo.",
+      "Apoyá las manos debajo de los glúteos con las palmas hacia abajo, o a los costados agarrándote del banco (o con las palmas hacia abajo al costado si estás en colchoneta). Extendé las piernas rectas. Esta es tu posición inicial.",
+      "Flexioná las rodillas y llevá los muslos hacia la zona media mientras exhalás. Seguí este movimiento hasta que las rodillas queden cerca del pecho. Mantené la posición contraída un segundo.",
+      "Al inhalar, volvé lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Flat_Bench_Lying_Leg_Raise": {
+    "nombre": "Elevación de piernas acostado en banco plano",
+    "instrucciones": [
+      "Recostate boca arriba en un banco con las piernas extendidas frente a vos, por fuera del extremo.",
+      "Apoyá las manos debajo de los glúteos con las palmas hacia abajo, o a los costados agarrándote del banco. Esta es tu posición inicial.",
+      "Manteniendo las piernas extendidas, lo más rectas posible con las rodillas apenas flexionadas pero bloqueadas, elevá las piernas hasta que formen un ángulo de 90 grados con el suelo. Exhalá durante esta parte del movimiento y mantené la contracción arriba un segundo.",
+      "Ahora, al inhalar, bajá lentamente las piernas de vuelta a la posición inicial."
+    ]
+  },
+  "Flexor_Incline_Dumbbell_Curls": {
+    "nombre": "Curl inclinado con mancuernas para flexores",
+    "instrucciones": [
+      "Sostené la mancuerna hacia el lado más alejado de vos para tener más peso del lado más cercano. (Esto se puede hacer con buen efecto en todos los curls de bíceps con mancuernas). Ahora hacé un curl inclinado normal, pero mantené las muñecas lo más atrás posible para neutralizar la tensión que reciben.",
+      "Sentate en un banco inclinado a 45 grados sosteniendo una mancuerna en cada mano.",
+      "Dejá que los brazos cuelguen a los costados, con los codos pegados, y girá las palmas hacia adelante con los pulgares apuntando lejos del cuerpo. Consejo: mantené esta posición de las manos durante todo el movimiento; no debe haber giro al subir. Esta es tu posición inicial.",
+      "Flexioná las dos mancuernas al mismo tiempo hasta que los bíceps queden totalmente contraídos y exhalá. Consejo: no balancees los brazos ni uses impulso. Mantené un movimiento controlado en todo momento. Mantené la posición contraída un segundo arriba.",
+      "Al inhalar, volvé lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Floor_Glute-Ham_Raise": {
+    "nombre": "Elevación glúteo-femoral en el suelo",
+    "instrucciones": [
+      "Podés hacer este ejercicio con un compañero o trabar los pies debajo de algo estable.",
+      "Empezá de rodillas con los muslos y el torso erguidos. Si usás un compañero, debe sostenerte firme los pies para mantenerte en posición. Esta es tu posición inicial.",
+      "Bajá el cuerpo extendiendo la rodilla, cuidando de NO flexionar las caderas al ir hacia adelante.",
+      "Apoyá las manos frente a vos al llegar al suelo. Este movimiento es muy difícil y puede que no puedas hacerlo sin ayuda. Usá los brazos para empujarte suavemente del suelo y ayudarte a volver a la posición inicial."
+    ]
+  },
+  "Floor_Press": {
+    "nombre": "Press en el suelo",
+    "instrucciones": [
+      "Ajustá los ganchos en J a la altura adecuada para colgar la barra. Empezá recostado en el suelo con la cabeza cerca del extremo de una jaula de potencia. Manteniendo los omóplatos juntos, sacá la barra de los ganchos.",
+      "Bajá la barra hacia la parte baja del pecho o la parte alta del abdomen, apretando la barra e intentando partirla hacia afuera al hacerlo. Asegurate de pegar los codos durante todo el movimiento. Bajá la barra hasta que el brazo toque el suelo y hacé una pausa, sin golpear ni rebotar el peso.",
+      "Empujá la barra de vuelta hacia arriba lo más rápido que puedas, manteniendo la barra, las muñecas y los codos alineados."
+    ]
+  },
+  "Floor_Press_with_Chains": {
+    "nombre": "Press en el suelo con cadenas",
+    "instrucciones": [
+      "Ajustá los ganchos en J a la altura adecuada para colgar la barra. Para este ejercicio, colgá las cadenas directamente sobre el extremo de la barra, tratando de mantener las puntas lejos de los discos.",
+      "Empezá recostado en el suelo con la cabeza cerca del extremo de una jaula de potencia. Manteniendo los omóplatos juntos, sacá la barra de los ganchos.",
+      "Bajá la barra hacia la parte baja del pecho o la parte alta del abdomen, apretando la barra e intentando partirla hacia afuera al hacerlo. Asegurate de pegar los codos durante todo el movimiento. Bajá la barra hasta que el brazo toque el suelo y hacé una pausa, sin golpear ni rebotar el peso.",
+      "Empujá la barra de vuelta hacia arriba lo más rápido que puedas, manteniendo la barra, las muñecas y los codos alineados."
+    ]
+  },
+  "Flutter_Kicks": {
+    "nombre": "Patada de aleteo",
+    "instrucciones": [
+      "En un banco plano, recostate boca abajo con las caderas en el borde del banco, las piernas rectas con las puntas bien por encima del suelo y los brazos sobre el banco agarrando el borde de adelante.",
+      "Apretá los glúteos y los isquiotibiales y estirá las piernas hasta que queden a la altura de las caderas. Esta es tu posición inicial.",
+      "Empezá el movimiento subiendo la pierna izquierda más que la derecha.",
+      "Después bajá la pierna izquierda mientras subís la derecha.",
+      "Seguí alternando así (como si patearas en el agua) hasta hacer las repeticiones recomendadas con cada pierna. Mantené un movimiento controlado en todo momento. Consejo: respirá normalmente durante el movimiento."
+    ]
+  },
+  "Foot-SMR": {
+    "nombre": "Pie (automasaje)",
+    "instrucciones": [
+      "Este ejercicio estira la fascia de los músculos del pie. Empezá sentado con los zapatos quitados. Usando un rodillo para pies u objeto similar, como un tramo corto de caño de pvc, apoyá el pie contra el rodillo, sobre el arco. Esta es tu posición inicial.",
+      "Presioná firme, rodando por el arco del pie. Mantené 10-30 segundos y después cambiá de pie."
+    ]
+  },
+  "Forward_Drag_with_Press": {
+    "nombre": "Arrastre hacia adelante con press",
+    "instrucciones": [
+      "Enganchá una cadena o cuerda de doble manija al trineo. Debés estar de espaldas al trineo, con una manija en cada mano.",
+      "Empezá el movimiento avanzando un paso. Inclinándote hacia adelante, extendé piernas y caderas para moverte, deteniéndote en cada paso para extender los codos y empujar las manos hacia adelante. Avanzá hasta volver a la posición inicial, listo para presionar."
+    ]
+  },
+  "Frankenstein_Squat": {
+    "nombre": "Sentadilla Frankenstein",
+    "instrucciones": [
+      "Este ejercicio te enseña la posición correcta de la barra y del cuerpo durante la cargada y la sentadilla frontal.",
+      "Colocá la barra sobre el frente de los hombros, soltando el agarre y extendiendo los brazos frente a vos. Los hombros deben ir hacia adelante para formar una repisa, y la barra debe estar en contacto con la garganta. Asegurate de mover solo los omóplatos hacia adelante; no redondees la columna dorsal.",
+      "Hacé la sentadilla flexionando rodillas y caderas, sentándote entre las piernas. Mantené el torso erguido, los brazos arriba y los hombros hacia adelante, y la barra debe quedar en su lugar. Bajá hasta el fondo de la sentadilla, hasta que los isquiotibiales toquen los gemelos.",
+      "Volvé a la posición erguida empujando con la parte delantera del talón y extendiendo rodillas y caderas."
+    ]
+  },
+  "Freehand_Jump_Squat": {
+    "nombre": "Sentadilla con salto libre",
+    "instrucciones": [
+      "Cruzá los brazos sobre el pecho.",
+      "Con la cabeza en alto y la espalda recta, colocá los pies a la anchura de los hombros.",
+      "Manteniendo la espalda recta y el pecho en alto, agachate en sentadilla mientras inhalás hasta que los muslos queden paralelos al suelo, o más abajo.",
+      "Ahora, empujando sobre todo con la parte delantera de los pies, saltá recto hacia arriba lo más alto posible, usando los muslos como resortes. Exhalá durante esta parte del movimiento.",
+      "Cuando volvés a tocar el suelo, agachate de inmediato y saltá de nuevo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Frog_Hops": {
+    "nombre": "Saltos de rana",
+    "instrucciones": [
+      "Parate con las manos detrás de la cabeza y agachate en sentadilla manteniendo el torso erguido y la cabeza en alto. Esta es tu posición inicial.",
+      "Saltá hacia adelante un par de metros, sin saltar innecesariamente alto. Cuando los pies tocan el suelo, absorbé el impacto con las piernas y saltá de nuevo. Repetí esta acción 5-10 veces."
+    ]
+  },
+  "Frog_Sit-Ups": {
+    "nombre": "Abdominales de rana",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo (o colchoneta) con las piernas extendidas frente a vos.",
+      "Ahora flexioná las rodillas y apoyá la cara externa de los muslos contra el suelo (o colchoneta) mientras juntás las plantas de los pies.",
+      "Ahora tratá de empujar ambas plantas y acercarlas lo más posible hacia vos, manteniendo la cara externa de los muslos en el suelo (o al menos casi tocándolo). Consejo: en esta posición las piernas forman un rombo.",
+      "Ahora cruzá los brazos frente a vos tocando los hombros opuestos. Esta es tu posición inicial.",
+      "Al exhalar, apoyá la zona lumbar contra el suelo mientras encogés el torso hacia arriba. Consejo: es como hacer el primer cuarto de un sit-up. Mantené la posición de arriba un segundo.",
+      "Al inhalar, bajá lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Barbell_Squat": {
+    "nombre": "Sentadilla frontal con barra",
+    "instrucciones": [
+      "Este ejercicio conviene hacerlo dentro de una jaula de sentadillas por seguridad. Para empezar, colocá la barra en una jaula a la altura que mejor se ajuste a vos. Una vez elegida la altura correcta y cargada la barra, llevá los brazos por debajo de la barra manteniendo los codos altos y el brazo un poco por encima de la paralela al suelo. Apoyá la barra sobre los deltoides y cruzá los brazos agarrando la barra para tener control total.",
+      "Sacá la barra del soporte empujando primero con las piernas y, al mismo tiempo, enderezando el torso.",
+      "Alejate de la jaula y colocá las piernas en una postura media, a la anchura de los hombros, con las puntas apenas hacia afuera. Mantené la cabeza en alto en todo momento, porque mirar hacia abajo te desequilibra, y la espalda recta. Esta es tu posición inicial. (Nota: para esta explicación usamos la postura media, que trabaja el desarrollo general; de todos modos podés elegir cualquiera de las tres posturas de pies).",
+      "Empezá a bajar la barra lentamente flexionando las rodillas mientras mantenés una postura recta con la cabeza en alto. Bajá hasta que el ángulo entre el muslo y los gemelos quede un poco por debajo de los 90 grados (el punto en que los muslos quedan por debajo de la paralela al suelo). Inhalá durante esta parte del movimiento. Consejo: si lo hacés bien, la parte de adelante de las rodillas debería formar una línea recta imaginaria con las puntas de los pies, perpendicular al frente. Si las rodillas pasan esa línea (si sobrepasan las puntas de los pies) estás sobrecargando la rodilla y el ejercicio está mal hecho.",
+      "Empezá a subir la barra mientras exhalás, empujando el suelo sobre todo con el medio del pie mientras estirás de nuevo las piernas y volvés a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Barbell_Squat_To_A_Bench": {
+    "nombre": "Sentadilla frontal con barra al banco",
+    "instrucciones": [
+      "Este ejercicio conviene hacerlo dentro de una jaula de sentadillas por seguridad. Para empezar, colocá un banco plano detrás tuyo y la barra en una jaula a la altura que mejor se ajuste a vos. Una vez elegida la altura correcta y cargada la barra, llevá los brazos por debajo de la barra manteniendo los codos altos y el brazo un poco por encima de la paralela al suelo. Apoyá la barra sobre los deltoides y cruzá los brazos agarrando la barra para tener control total.",
+      "Sacá la barra del soporte empujando primero con las piernas y, al mismo tiempo, enderezando el torso.",
+      "Alejate de la jaula y colocá las piernas en una postura media, a la anchura de los hombros, con las puntas apenas hacia afuera. Mantené la cabeza en alto en todo momento, porque mirar hacia abajo te desequilibra, y la espalda recta. Esta es tu posición inicial. (Nota: para esta explicación usamos la postura media, que trabaja el desarrollo general; de todos modos podés elegir cualquiera de las tres posturas de pies).",
+      "Empezá a bajar la barra lentamente flexionando las rodillas mientras mantenés una postura recta con la cabeza en alto. Bajá hasta tocar el banco con los glúteos. Inhalá durante esta parte del movimiento. Consejo: si lo hacés bien, la parte de adelante de las rodillas debería formar una línea recta imaginaria con las puntas de los pies, perpendicular al frente. Si las rodillas pasan esa línea (si sobrepasan las puntas de los pies) estás sobrecargando la rodilla y el ejercicio está mal hecho.",
+      "Empezá a subir la barra mientras exhalás, empujando el suelo sobre todo con el talón mientras estirás de nuevo las piernas y volvés a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Box_Jump": {
+    "nombre": "Salto al cajón de frente",
+    "instrucciones": [
+      "Empezá con un cajón de altura adecuada a unos 30-60 cm frente a vos. Parate con los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Hacé una sentadilla corta para preparar el salto, llevando los brazos hacia atrás.",
+      "Rebotá desde esa posición, extendiendo caderas, rodillas y tobillos para saltar lo más alto posible. Llevá los brazos hacia adelante y arriba.",
+      "Aterrizá en el cajón con las rodillas flexionadas, absorbiendo el impacto con las piernas. Podés saltar del cajón al suelo o, mejor, bajar una pierna a la vez."
+    ]
+  },
+  "Front_Cable_Raise": {
+    "nombre": "Elevación frontal en polea",
+    "instrucciones": [
+      "Elegí el peso en una máquina de polea baja y agarrá la manija de una mano enganchada a la polea baja con la mano izquierda.",
+      "Ponete de espaldas a la polea y bajá el brazo recto con la manija frente a los muslos, con el brazo estirado y la palma hacia el muslo. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto (sin balancearte), elevá el brazo izquierdo hacia el frente con una ligera flexión en el codo y la palma siempre hacia abajo. Seguí subiendo hasta que el brazo quede un poco por encima de la paralela al suelo. Exhalá durante esta parte del movimiento y hacé una pausa de un segundo arriba.",
+      "Ahora, al inhalar, bajá el brazo lentamente a la posición inicial.",
+      "Una vez hechas todas las repeticiones recomendadas con este brazo, cambiá y hacé el ejercicio con el derecho."
+    ]
+  },
+  "Front_Cone_Hops_or_hurdle_hops": {
+    "nombre": "Saltos de conos (o de vallas) al frente",
+    "instrucciones": [
+      "Armá una fila de conos u otras barreras chicas, separándolos un par de metros.",
+      "Parate frente al primer cono con los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Empezá saltando con ambos pies por encima del primer cono, balanceando ambos brazos al saltar.",
+      "Absorbé el impacto del aterrizaje flexionando las rodillas, rebotando desde el primer salto para saltar el siguiente cono.",
+      "Seguí hasta saltar todos los conos."
+    ]
+  }
+}

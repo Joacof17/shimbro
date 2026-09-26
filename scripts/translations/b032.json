@@ -1,0 +1,203 @@
+{
+  "Single_Leg_Push-off": {
+    "nombre": "Impulso a una pierna sobre cajón",
+    "instrucciones": [
+      "Parate en el suelo con un pie apoyado sobre el cajón, el talón cerca del borde.",
+      "Impulsate con el pie que está sobre el cajón, tratando de ganar la mayor altura posible extendiendo cadera y rodilla.",
+      "Caé con el mismo pie sobre el cajón, devolviendo el otro pie a la posición inicial."
+    ]
+  },
+  "Sit-Up": {
+    "nombre": "Abdominal completo (sit-up)",
+    "instrucciones": [
+      "Recostate en el suelo con los pies trabados debajo de algo que no se mueva o pedile a un compañero que te los sostenga. Las piernas deben quedar flexionadas a la altura de las rodillas.",
+      "Colocá las manos detrás de la cabeza y entrelazá los dedos. Esta es la posición inicial.",
+      "Elevá el torso para que forme una V imaginaria con los muslos. Exhalá al hacer esta parte del ejercicio.",
+      "Una vez que sentís la contracción un segundo, bajá el torso de vuelta a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Sit_Squats": {
+    "nombre": "Sentadillas de sentar",
+    "instrucciones": [
+      "Parate con los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Empezá el movimiento flexionando rodillas y caderas, sentándote hacia atrás con las caderas.",
+      "Seguí hasta bajar una parte del recorrido, pero quedando por encima de la paralela, e invertí rápidamente el movimiento hasta volver a la posición inicial. Repetí 5-10 repeticiones."
+    ]
+  },
+  "Skating": {
+    "nombre": "Patinaje",
+    "instrucciones": [
+      "El patinaje es una actividad entretenida que puede ser efectiva para mejorar la aptitud cardiorrespiratoria y la resistencia muscular. Requiere relativamente buen equilibrio y coordinación. Es necesario aprender lo básico del patinaje, incluyendo girar y frenar, y usar protección para evitar posibles lesiones.",
+      "Podés patinar a un ritmo cómodo durante 30 minutos seguidos. Si querés un desafío cardiovascular, hacé patinaje por intervalos: patiná rápido dos minutos de cada cinco, usando los tres minutos restantes para recuperarte. Una persona de 70 kg quema normalmente unas 175 calorías en 30 minutos patinando a ritmo cómodo, algo similar a caminar a paso vivo."
+    ]
+  },
+  "Sled_Drag_-_Harness": {
+    "nombre": "Arrastre de trineo con arnés",
+    "instrucciones": [
+      "Para empezar, cargá el trineo con el peso deseado y enganchá la correa de tiro. Podés tirar con manijas, usar un arnés o enganchar la correa de tiro a un cinturón de pesas.",
+      "Ya sea tirando hacia adelante o hacia atrás, inclinate en la dirección del movimiento y avanzá extendiendo caderas y rodillas."
+    ]
+  },
+  "Sled_Overhead_Backward_Walk": {
+    "nombre": "Caminata hacia atrás con trineo por encima de la cabeza",
+    "instrucciones": [
+      "Enganchá dos manijas a un trineo conectado por una soga o cadena. Cargá el trineo con poco peso.",
+      "Ponete de frente al trineo, retrocediendo hasta que haya algo de tensión en la línea. Sostené las manos directamente por encima de la cabeza con los codos extendidos. Esta es tu posición inicial.",
+      "Caminá hacia atrás, manteniendo los brazos elevados por encima de la cabeza. Evitá los movimientos bruscos."
+    ]
+  },
+  "Sled_Overhead_Triceps_Extension": {
+    "nombre": "Extensión de tríceps por encima de la cabeza con trineo",
+    "instrucciones": [
+      "Enganchá dos manijas a un trineo usando una cadena o soga. Cargá el trineo con un peso adecuado.",
+      "De espaldas al trineo, alejate hasta que haya tensión en la línea. Subí las manos por encima de la cabeza, manteniéndolas juntas, con las palmas enfrentadas. Los codos deben apuntar hacia arriba, flexionados. Esta es tu posición inicial.",
+      "Extendé el codo para estirar el brazo. Asegurate de que el brazo se mantenga en posición para aislar el tríceps.",
+      "Al llegar a la extensión completa, dá un paso adelante para quitar la holgura de la línea. Podés mantener los pies escalonados para más estabilidad."
+    ]
+  },
+  "Sled_Push": {
+    "nombre": "Empuje de trineo",
+    "instrucciones": [
+      "Cargá tu trineo de empuje con el peso deseado.",
+      "Adoptá una postura atlética, inclinándote sobre el trineo con los brazos totalmente extendidos, agarrando las manijas. Empujá el trineo lo más rápido posible, concentrándote en extender caderas y rodillas para fortalecer la cadena posterior."
+    ]
+  },
+  "Sled_Reverse_Flye": {
+    "nombre": "Apertura inversa con trineo",
+    "instrucciones": [
+      "Enganchá dos manijas a un trineo conectado por una soga o cadena. Cargá el trineo con poco peso.",
+      "Ponete de frente al trineo, retrocediendo hasta que haya algo de tensión en la línea. Agarrá ambas manijas con los brazos extendidos, más o menos a la altura de la cintura. Flexioná apenas las rodillas y mantené el pecho y la cabeza en alto. Esta es tu posición inicial.",
+      "Sin flexionar el codo, tirá de las manijas hacia arriba y hacia afuera, haciendo una apertura inversa con algo de rotación externa. Las palmas deben quedar hacia adelante al hacerlo.",
+      "Volvé a la posición inicial, dando un par de pasos hacia atrás para quitar la holgura de la línea."
+    ]
+  },
+  "Sled_Row": {
+    "nombre": "Remo con trineo",
+    "instrucciones": [
+      "Enganchá dos manijas a un trineo conectado por una soga o cadena. Cargá el trineo con un peso adecuado. Ponete de frente al trineo, retrocediendo hasta que haya algo de tensión en la línea.",
+      "Con una manija en cada mano, flexioná apenas las rodillas, mantené la cabeza y el pecho en alto, y empezá con los brazos extendidos.",
+      "Para iniciar el movimiento, flexioná el codo mientras retraés los omóplatos, tirando del trineo hacia vos.",
+      "Dá un paso o dos hacia atrás para tensar la línea y repetí."
+    ]
+  },
+  "Sledgehammer_Swings": {
+    "nombre": "Golpes de maza",
+    "instrucciones": [
+      "Necesitás una cubierta (neumático) y una maza para este ejercicio. Parate frente a la cubierta a unos 60 cm de distancia con una postura escalonada. Agarrá la maza.",
+      "Si sos diestro, la mano izquierda debe quedar en la parte de abajo del mango, y la derecha más cerca de la cabeza de la maza.",
+      "Al subir la maza, la mano derecha se desliza hacia la cabeza; al golpear hacia abajo, la mano derecha se desliza hacia abajo para juntarse con la izquierda. Estrellala hacia abajo lo más fuerte que puedas contra la cubierta. Controlá el rebote de la maza en la cubierta.",
+      "Repetí del otro lado."
+    ]
+  },
+  "Smith_Incline_Shoulder_Raise": {
+    "nombre": "Elevación de hombros en banco inclinado en Smith",
+    "instrucciones": [
+      "Colocá un banco inclinado debajo de la máquina Smith. Ubicá la barra a una altura que puedas alcanzar recostado con los brazos casi totalmente extendidos. Una vez elegido el peso, recostate en el banco inclinado y asegurate de que los hombros queden alineados justo debajo de la barra.",
+      "Con un agarre prono (palmas hacia adelante) a la anchura de los hombros, sacá la barra del soporte y sostenela recta por encima tuyo con una ligera flexión en los codos. Esta es tu posición inicial.",
+      "Al exhalar, subí la barra hasta que los brazos queden totalmente extendidos. Nota: la contracción debe sentirse alrededor de los hombros.",
+      "Tras una pausa de un segundo, bajá la barra de vuelta a la posición inicial mientras inhalás.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Al terminar, volvé a dejar la barra en el soporte."
+    ]
+  },
+  "Smith_Machine_Behind_the_Back_Shrug": {
+    "nombre": "Encogimiento por detrás de la espalda en Smith",
+    "instrucciones": [
+      "Con la barra a la altura de los muslos, cargá un peso adecuado.",
+      "Parate con la barra detrás tuyo, tomando un agarre prono a la anchura de los hombros, y destrabá el peso. Debés quedar erguido con la cabeza y el pecho en alto y los brazos extendidos. Esta es tu posición inicial.",
+      "Iniciá el movimiento encogiendo los hombros directamente hacia arriba. No flexiones los brazos ni las muñecas durante el movimiento.",
+      "Tras una breve pausa, volvé el peso a la posición inicial.",
+      "Repetí las repeticiones deseadas antes de enganchar las trabas para dejar el peso."
+    ]
+  },
+  "Smith_Machine_Bench_Press": {
+    "nombre": "Press de banca en Smith",
+    "instrucciones": [
+      "Colocá un banco plano debajo de la máquina Smith. Ahora ubicá la barra a una altura que puedas alcanzar recostado con los brazos casi totalmente extendidos. Una vez elegido el peso, recostate en el banco plano. Con un agarre prono más ancho que los hombros, destrabá la barra del soporte y sostenela recta por encima tuyo con los brazos bloqueados. Esta es tu posición inicial.",
+      "Al inhalar, bajá lentamente hasta sentir la barra en la mitad del pecho.",
+      "Tras una pausa de un segundo, llevá la barra de vuelta a la posición inicial mientras exhalás y empujás con los músculos del pecho. Bloqueá los brazos en la posición contraída, mantené un segundo y después empezá a bajar de nuevo lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Al terminar, volvé a trabar la barra en el soporte."
+    ]
+  },
+  "Smith_Machine_Bent_Over_Row": {
+    "nombre": "Remo inclinado en Smith",
+    "instrucciones": [
+      "Colocá la barra de la máquina Smith a una altura de unos 5 cm por debajo de las rodillas.",
+      "Flexioná apenas las rodillas y llevá el torso hacia adelante, inclinándote desde la cintura, manteniendo la espalda recta hasta quedar casi paralelo al suelo. Consejo: asegurate de mantener la cabeza en alto.",
+      "Ahora agarrá la barra con un agarre prono y destrabala de la máquina Smith. Después dejala colgar directamente frente a vos con los brazos extendidos perpendiculares al suelo y al torso. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto, subí la barra mientras exhalás, con los codos cerca del cuerpo y sin hacer fuerza con el antebrazo más que para sostener el peso. En la posición contraída de arriba, apretá los músculos de la espalda y mantené un segundo.",
+      "Bajá lentamente el peso de vuelta a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Smith_Machine_Calf_Raise": {
+    "nombre": "Elevación de gemelos en Smith",
+    "instrucciones": [
+      "Colocá un bloque o disco debajo de la barra en la máquina Smith. Ajustá la barra a una posición que mejor te quede. Una vez elegida la altura y cargada la barra, subí a los discos con la parte delantera de los pies y apoyá la barra sobre la parte de atrás de los hombros.",
+      "Agarrá la barra con ambas manos hacia adelante. Girá la barra para destrabarla. Esta es tu posición inicial.",
+      "Subí los talones lo más alto posible empujando con la parte delantera de los pies, flexionando el gemelo en la parte alta de la contracción. Las rodillas deben quedar extendidas. Mantené la posición contraída un segundo antes de empezar a bajar.",
+      "Volvé lentamente a la posición inicial mientras inhalás, bajando los talones.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Smith_Machine_Close-Grip_Bench_Press": {
+    "nombre": "Press de banca con agarre cerrado en Smith",
+    "instrucciones": [
+      "Colocá un banco plano debajo de la máquina Smith. Ubicá la barra a una altura que puedas alcanzar recostado con los brazos casi totalmente extendidos. Una vez elegido el peso, recostate en el banco plano. Con un agarre cerrado y prono (palmas hacia adelante) más o menos a la anchura de los hombros, destrabá la barra del soporte y sostenela recta por encima tuyo con los brazos bloqueados. Esta es tu posición inicial.",
+      "Al inhalar, bajá lentamente hasta sentir la barra en la mitad del pecho. Consejo: a diferencia de un press de banca normal, mantené los codos cerca del torso en todo momento para maximizar el trabajo del tríceps.",
+      "Tras una pausa de un segundo, llevá la barra de vuelta a la posición inicial mientras exhalás y empujás con los tríceps. Bloqueá los brazos en la posición contraída, mantené un segundo y después empezá a bajar de nuevo lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Al terminar, volvé a trabar la barra en el soporte."
+    ]
+  },
+  "Smith_Machine_Decline_Press": {
+    "nombre": "Press declinado en Smith",
+    "instrucciones": [
+      "Colocá un banco declinado en la jaula de modo que la barra quede por encima del pecho. Cargá un peso adecuado y ubicate en el banco.",
+      "Girá la barra para destrabarla del soporte y extendé los brazos por completo. La espalda debe quedar apenas arqueada y los omóplatos retraídos. Esta es tu posición inicial.",
+      "Empezá el movimiento flexionando los brazos, bajando la barra hacia el pecho.",
+      "Hacé una breve pausa y después extendé los brazos para empujar el peso de vuelta a la posición inicial.",
+      "Tras completar las repeticiones deseadas, girá la barra para dejar el peso."
+    ]
+  },
+  "Smith_Machine_Hang_Power_Clean": {
+    "nombre": "Cargada de potencia desde suspensión en Smith",
+    "instrucciones": [
+      "Colocá la barra a la altura de las rodillas y cargala con un peso adecuado.",
+      "Tomá un agarre prono por fuera de la anchura de los hombros y destrabá la barra de la máquina. Los brazos deben quedar totalmente extendidos con la cabeza y el pecho en alto. Los codos apuntando hacia afuera, con los hombros hacia atrás y abajo. Las caderas hacia atrás, cargando la tensión en los isquiotibiales. Esta es tu posición inicial.",
+      "Iniciá el movimiento extendiendo con fuerza caderas y rodillas, acelerando hacia la barra. Asegurate de mantener los brazos rectos en esta parte del movimiento.",
+      "Al llegar a la extensión completa, volvé a flexionar caderas y rodillas para bajar a tu posición de recepción.",
+      "En ese punto dejá que los brazos se flexionen, rotando los codos alrededor de la barra para recibirla sobre los hombros.",
+      "Extendé caderas y rodillas para quedar de pie con la barra apoyada sobre los hombros y completar el movimiento."
+    ]
+  },
+  "Smith_Machine_Hip_Raise": {
+    "nombre": "Elevación de cadera en Smith",
+    "instrucciones": [
+      "Colocá un banco en la jaula y cargá la barra con un peso adecuado. Recostate en el banco, apoyando las plantas de los pies contra la barra. Destrabá la barra y extendé las piernas. Puede que necesites ayudarte con las manos. Para más estabilidad, agarrate de los costados de la máquina Smith. Esta es tu posición inicial.",
+      "Iniciá el movimiento rotando la pelvis, flexionando la columna para despegar las caderas del banco. Mantené una ligera flexión en las rodillas durante todo el movimiento.",
+      "Tras una breve pausa, volvé las caderas al banco.",
+      "Repetí las repeticiones deseadas."
+    ]
+  },
+  "Smith_Machine_Incline_Bench_Press": {
+    "nombre": "Press de banca inclinado en Smith",
+    "instrucciones": [
+      "Colocá un banco inclinado debajo de la máquina Smith. Ubicá la barra a una altura que puedas alcanzar recostado con los brazos casi totalmente extendidos. Una vez elegido el peso, recostate en el banco inclinado y asegurate de que la parte alta del pecho quede alineada con la barra. Con un agarre prono (palmas hacia adelante) más ancho que los hombros, destrabá la barra del soporte y sostenela recta por encima tuyo con los brazos bloqueados. Esta es tu posición inicial.",
+      "Al inhalar, bajá lentamente hasta sentir la barra en la parte alta del pecho.",
+      "Tras una pausa de un segundo, llevá la barra de vuelta a la posición inicial mientras exhalás y empujás con los músculos del pecho. Bloqueá los brazos en la posición contraída, mantené un segundo y después empezá a bajar de nuevo lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Al terminar, volvé a dejar la barra en el soporte."
+    ]
+  },
+  "Smith_Machine_Leg_Press": {
+    "nombre": "Prensa de piernas en Smith",
+    "instrucciones": [
+      "Colocá la barra de la máquina Smith a medio metro del suelo. Asegurate de que quede apoyada sobre las trabas de seguridad. Después de cargar la barra con un peso adecuado, recostate debajo de ella. Apoyá el medio de los pies en la barra, llevando las rodillas hacia el pecho. Esta es tu posición inicial.",
+      "Empezá el movimiento empujando con los pies para subir la barra, extendiendo caderas y rodillas. No bloquees las rodillas.",
+      "En la parte de arriba del movimiento, hacé una breve pausa antes de volver a la posición inicial."
+    ]
+  }
+}

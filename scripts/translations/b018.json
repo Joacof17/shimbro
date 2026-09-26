@@ -1,0 +1,194 @@
+{
+  "Kettlebell_Pirate_Ships": {
+    "nombre": "Barcos piratas con pesa rusa",
+    "instrucciones": [
+      "Con una postura amplia, sostené una pesa rusa con ambas manos. Dejá que cuelgue a la altura de la cintura con los brazos extendidos. Esta es tu posición inicial.",
+      "Iniciá el movimiento girando hacia un lado, balanceando la pesa hasta la altura de la cabeza. Hacé una breve pausa arriba.",
+      "Dejá caer la pesa mientras rotás al lado opuesto, elevándola de nuevo hasta la altura de la cabeza.",
+      "Repetí las repeticiones deseadas."
+    ]
+  },
+  "Kettlebell_Pistol_Squat": {
+    "nombre": "Sentadilla a una pierna con pesa rusa",
+    "instrucciones": [
+      "Agarrá una pesa rusa con las dos manos y sostenela por los cuernos. Despegá una pierna del suelo y hacé sentadilla sobre la otra.",
+      "Hacé sentadilla flexionando la rodilla y llevando las caderas hacia atrás, sosteniendo la pesa arriba frente a vos.",
+      "Mantené la posición de abajo un segundo y después invertí el movimiento, empujando con el talón y manteniendo la cabeza y el pecho en alto.",
+      "Bajá de nuevo y repetí."
+    ]
+  },
+  "Kettlebell_Seated_Press": {
+    "nombre": "Press sentado con pesa rusa",
+    "instrucciones": [
+      "Sentate en el suelo y abrí las piernas cómodamente.",
+      "Cargá una pesa rusa hasta el hombro.",
+      "Presioná la pesa hacia arriba y afuera hasta bloquearla por encima de la cabeza. Volvé a la posición inicial."
+    ]
+  },
+  "Kettlebell_Seesaw_Press": {
+    "nombre": "Press alternado con pesas rusas",
+    "instrucciones": [
+      "Cargá dos pesas rusas hasta los hombros.",
+      "Presioná una pesa.",
+      "Bajá la pesa y presioná de inmediato la otra. Asegurate de hacer la misma cantidad de repeticiones de ambos lados."
+    ]
+  },
+  "Kettlebell_Sumo_High_Pull": {
+    "nombre": "Tirón alto sumo con pesa rusa",
+    "instrucciones": [
+      "Colocá una pesa rusa en el suelo entre los pies. Adoptá una postura amplia y agarrá la pesa con las dos manos. Llevá las caderas hacia atrás lo más posible, con las rodillas flexionadas. Mantené el pecho y la cabeza en alto. Esta es tu posición inicial.",
+      "Empezá extendiendo caderas y rodillas mientras traccionás la pesa hacia los hombros, elevando los codos al hacerlo. Invertí el movimiento para volver a la posición inicial."
+    ]
+  },
+  "Kettlebell_Thruster": {
+    "nombre": "Thruster con pesas rusas",
+    "instrucciones": [
+      "Cargá dos pesas rusas hasta los hombros extendiendo las piernas y las caderas mientras las traccionás hacia los hombros. Girá las muñecas al hacerlo. Esta es tu posición inicial.",
+      "Empezá a hacer sentadilla flexionando caderas y rodillas, bajando las caderas entre las piernas. Mantené la espalda recta y erguida mientras bajás lo más posible.",
+      "Abajo, invertí la dirección y subí extendiendo rodillas y caderas, empujando con los talones. Al hacerlo, presioná ambas pesas por encima de la cabeza extendiendo los brazos rectos hacia arriba, usando el impulso de la sentadilla para ayudar a subir los pesos.",
+      "Al empezar la siguiente repetición, volvé los pesos a los hombros."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Lunge_style": {
+    "nombre": "Levantada turca con pesa rusa (estilo zancada)",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo y presioná una pesa rusa a la posición de arriba extendiendo el codo. Flexioná la rodilla del mismo lado que la pesa.",
+      "Manteniendo la pesa siempre bloqueada arriba, pivoteá hacia el lado opuesto y usá el brazo libre para ayudarte a impulsarte hacia adelante a la posición de zancada. Con la mano libre, empujate a una posición sentada y después a una rodilla.",
+      "Mirando la pesa hacia arriba, parate lentamente. Invertí el movimiento hasta la posición inicial y repetí."
+    ]
+  },
+  "Kettlebell_Turkish_Get-Up_Squat_style": {
+    "nombre": "Levantada turca con pesa rusa (estilo sentadilla)",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo y presioná una pesa rusa a la posición de arriba extendiendo el codo. Flexioná la rodilla del mismo lado que la pesa.",
+      "Manteniendo la pesa siempre bloqueada arriba, pivoteá hacia el lado opuesto y usá el brazo libre para ayudarte a impulsarte hacia adelante a la posición de zancada.",
+      "Con la mano libre, empujate a una posición sentada y después ponete de pie. Mirando la pesa hacia arriba, parate lentamente. Invertí el movimiento hasta la posición inicial y repetí."
+    ]
+  },
+  "Kettlebell_Windmill": {
+    "nombre": "Molino con pesa rusa",
+    "instrucciones": [
+      "Colocá una pesa rusa frente al pie de adelante y cargala y presionala por encima de la cabeza con el brazo opuesto. Cargá la pesa al hombro extendiendo las piernas y las caderas mientras la traccionás hacia el hombro. Girá la muñeca al hacerlo para que la palma quede hacia adelante. Presionala por encima de la cabeza extendiendo el codo.",
+      "Manteniendo la pesa siempre bloqueada arriba, llevá los glúteos hacia el lado de la pesa. Girá los pies a 45 grados respecto del brazo que sostiene la pesa bloqueada. Flexionando la cadera hacia un lado y sacando los glúteos, inclinate lentamente hasta poder tocar el suelo con la mano libre. No le saques los ojos de encima a la pesa que sostenés por encima de la cabeza en todo momento.",
+      "Hacé una pausa de un segundo al llegar al suelo e invertí el movimiento hasta la posición inicial."
+    ]
+  },
+  "Kipping_Muscle_Up": {
+    "nombre": "Muscle up con kipping",
+    "instrucciones": [
+      "Agarrá las anillas con un agarre falso, con la base de las palmas por encima de las anillas.",
+      "Empezá con un movimiento balanceando las piernas un poco hacia atrás.",
+      "Contrarrestá ese movimiento balanceando las piernas hacia adelante y arriba, llevando el mentón y el pecho hacia atrás y traccionando con ambos brazos al hacerlo. Al llegar a la parte alta de la dominada, tirá de las anillas hacia las axilas mientras llevás los hombros hacia adelante, dejando que los codos vayan recto hacia atrás. Esto te deja en la posición correcta para seguir con la parte de fondo (dip).",
+      "Manteniendo el control y la estabilidad, extendé los codos para completar el movimiento.",
+      "Tené cuidado al bajar al suelo."
+    ]
+  },
+  "Knee_Across_The_Body": {
+    "nombre": "Rodilla cruzada al cuerpo",
+    "instrucciones": [
+      "Recostate en el suelo con la pierna derecha estirada. Flexioná la pierna izquierda y bajala cruzando el cuerpo, sosteniendo la rodilla hacia el suelo con la mano derecha. (La rodilla no necesita tocar el suelo si estás tenso).",
+      "Apoyá el brazo izquierdo cómodo a tu lado y girá la cabeza hacia la izquierda. Imaginá que tenés un peso atado al coxis: dejá que el coxis caiga hacia el suelo mientras el pecho se estira en la dirección opuesta, para estirar la zona lumbar. Cambiá de lado."
+    ]
+  },
+  "Knee_Circles": {
+    "nombre": "Círculos de rodillas",
+    "instrucciones": [
+      "Parate con las piernas juntas y las manos en la cintura.",
+      "Ahora mové las rodillas en un movimiento circular mientras respirás normalmente.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Knee_Hip_Raise_On_Parallel_Bars": {
+    "nombre": "Elevación de rodillas/cadera en paralelas",
+    "instrucciones": [
+      "Colocate en el banco de elevación de piernas vertical con los antebrazos apoyados en las almohadillas al lado del torso y agarrando las manijas. Los brazos quedan flexionados a 90 grados.",
+      "El torso debe quedar recto con la zona lumbar apoyada contra la almohadilla de la máquina y las piernas extendidas apuntando al suelo. Esta es tu posición inicial.",
+      "Ahora, al exhalar, elevá las piernas manteniéndolas extendidas. Seguí este movimiento hasta que las piernas queden casi paralelas al suelo y mantené la contracción un segundo. Consejo: no uses impulso ni balanceo en este ejercicio.",
+      "Volvé lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Knee_Tuck_Jump": {
+    "nombre": "Salto con rodillas al pecho",
+    "instrucciones": [
+      "Empezá en una posición de pie cómoda con las rodillas apenas flexionadas. Sostené las manos frente a vos, con las palmas hacia abajo y las puntas de los dedos juntas a la altura del pecho. Esta es tu posición inicial.",
+      "Bajá rápido a un cuarto de sentadilla y explotá de inmediato hacia arriba. Llevá las rodillas hacia el pecho, tratando de tocarlas con las palmas de las manos.",
+      "Saltá lo más alto que puedas, subiendo las rodillas, y asegurá un buen aterrizaje volviendo a extender las piernas, absorbiendo el impacto dejando que las rodillas se flexionen de nuevo."
+    ]
+  },
+  "Kneeling_Arm_Drill": {
+    "nombre": "Ejercicio de brazos arrodillado",
+    "instrucciones": [
+      "Este ejercicio ayuda a mejorar la eficiencia de los brazos al correr. Empezá arrodillado, el pie izquierdo adelante y la rodilla derecha abajo. Aplicá presión con el talón de adelante para mantener glúteos e isquiotibiales activados.",
+      "Empezá bloqueando los brazos en balanceos largos, tipo péndulo. Cerrá el ángulo del brazo, bloqueando con los brazos como al trotar, pasando a una carrera y finalmente a un sprint.",
+      "Apenas las manos pasan la cadera, acelerálas hacia adelante durante el gesto de sprint para moverlas lo más rápido posible.",
+      "Cambiá de rodilla y repetí."
+    ]
+  },
+  "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+    "nombre": "Crunch en polea arrodillado con giros oblicuos alternados",
+    "instrucciones": [
+      "Enganchá un accesorio de cuerda a un cable de polea alta y colocá una colchoneta en el suelo frente a él.",
+      "Agarrá la cuerda con ambas manos y arrodillate a más o menos 60 cm de la torre.",
+      "Colocá la cuerda detrás de la cabeza con las manos junto a las orejas.",
+      "Manteniendo las manos en el mismo lugar, contraé los abdominales y tirá de la cuerda hacia abajo en un movimiento de crunch hasta que los codos lleguen a las rodillas.",
+      "Hacé una breve pausa abajo y subí de forma lenta y controlada hasta la posición inicial.",
+      "Repetí el mismo movimiento hacia abajo hasta la mitad; en ese punto empezá a rotar uno de los codos hacia la rodilla opuesta.",
+      "De nuevo, hacé una breve pausa abajo y subí de forma lenta y controlada hasta la posición inicial.",
+      "Repetí el mismo movimiento que antes, pero alternando el otro codo hacia la rodilla opuesta.",
+      "Seguí esta serie de movimientos hasta el fallo."
+    ]
+  },
+  "Kneeling_Cable_Triceps_Extension": {
+    "nombre": "Extensión de tríceps en polea arrodillado",
+    "instrucciones": [
+      "Colocá un banco de costado frente a una máquina de polea alta.",
+      "Sostené una barra recta por encima de la cabeza con las manos separadas unos 15 cm y las palmas hacia abajo.",
+      "Ponete de espaldas a la máquina y arrodillate.",
+      "Apoyá la cabeza y la parte de atrás de los brazos sobre el banco. Los codos deben quedar flexionados con los antebrazos apuntando hacia la polea alta. Esta es tu posición inicial.",
+      "Manteniendo los brazos cerca de la cabeza en todo momento con los codos pegados, presioná la barra hacia afuera en un movimiento semicircular hasta que los codos queden bloqueados y los brazos paralelos al suelo. Contraé fuerte los tríceps y mantené esta posición un segundo. Exhalá al hacer el movimiento.",
+      "Volvé lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Kneeling_Forearm_Stretch": {
+    "nombre": "Estiramiento de antebrazos arrodillado",
+    "instrucciones": [
+      "Empezá arrodillado en una colchoneta con las palmas apoyadas y los dedos apuntando hacia las rodillas.",
+      "Inclinate lentamente hacia atrás manteniendo las palmas apoyadas en el suelo hasta sentir un estiramiento en las muñecas y los antebrazos. Mantené 20-30 segundos."
+    ]
+  },
+  "Kneeling_High_Pulley_Row": {
+    "nombre": "Remo en polea alta arrodillado",
+    "instrucciones": [
+      "Elegí el peso adecuado usando una polea por encima de la cabeza. Enganchá una cuerda al cable y arrodillate a un metro, sosteniendo la cuerda frente a vos con ambos brazos extendidos. Esta es tu posición inicial.",
+      "Iniciá el movimiento flexionando los codos y retrayendo del todo los hombros, traccionando la cuerda hacia la parte alta del pecho con los codos hacia afuera.",
+      "Tras una breve pausa, volvé lentamente a la posición inicial."
+    ]
+  },
+  "Kneeling_Hip_Flexor": {
+    "nombre": "Flexor de cadera arrodillado",
+    "instrucciones": [
+      "Arrodillate en una colchoneta y subí la rodilla derecha para que la planta del pie quede en el suelo, y extendé la pierna izquierda hacia atrás para que el empeine quede en el suelo.",
+      "Desplazá el peso hacia adelante hasta sentir un estiramiento en la cadera. Mantené 15 segundos y después repetí del otro lado."
+    ]
+  },
+  "Kneeling_Jump_Squat": {
+    "nombre": "Sentadilla con salto desde rodillas",
+    "instrucciones": [
+      "Empezá arrodillado en el suelo con una barra apoyada sobre la parte de atrás de los hombros, o podés usar tu peso corporal para este ejercicio. Se puede hacer dentro de una jaula de potencia para que sacar la barra sea más fácil.",
+      "Llevá las caderas hacia atrás hasta que los glúteos toquen los pies, manteniendo la cabeza y el pecho en alto.",
+      "Explotá hacia arriba con las caderas, generando suficiente potencia para aterrizar con los pies bien apoyados en el suelo.",
+      "Seguí con la sentadilla empujando con los talones y extendiendo las rodillas hasta quedar de pie."
+    ]
+  },
+  "Kneeling_Single-Arm_High_Pulley_Row": {
+    "nombre": "Remo a un brazo en polea alta arrodillado",
+    "instrucciones": [
+      "Enganchá una manija a una polea alta y elegí el peso.",
+      "Arrodillate frente a la torre de poleas, tomando el cable con una mano y el brazo extendido. Esta es tu posición inicial.",
+      "Empezando con la palma hacia adelante, tirá del peso hacia el torso flexionando el codo y retrayendo el omóplato. Al hacerlo, girá la muñeca para que, al completar el movimiento, la palma quede hacia vos.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  }
+}

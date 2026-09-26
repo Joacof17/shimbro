@@ -1,0 +1,218 @@
+{
+  "Dumbbell_Bicep_Curl": {
+    "nombre": "Curl de bíceps con mancuernas",
+    "instrucciones": [
+      "Parate derecho con una mancuerna en cada mano, con los brazos estirados. Mantené los codos cerca del torso y girá las palmas hasta que queden hacia adelante. Esta es tu posición inicial.",
+      "Ahora, manteniendo los brazos quietos, exhalá y flexioná el peso contrayendo los bíceps. Seguí subiendo hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura de los hombros. Mantené la posición contraída una breve pausa apretando los bíceps.",
+      "Después, inhalá y empezá a bajar lentamente las mancuernas a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Clean": {
+    "nombre": "Cargada con mancuernas",
+    "instrucciones": [
+      "Empezá parado con una mancuerna en cada mano y los pies a la anchura de los hombros.",
+      "Bajá los pesos al suelo flexionando caderas y rodillas, llevando las caderas hacia atrás hasta que las mancuernas lleguen al suelo. Esta es tu posición inicial.",
+      "Para iniciar el movimiento, saltá hacia arriba con fuerza extendiendo caderas, rodillas y tobillos para acelerar los pesos hacia arriba. Manteniendo un agarre neutro en las mancuernas, mantené los brazos rectos hasta lograr la extensión completa.",
+      "Después de la extensión completa, volvé a flexionar caderas y rodillas para recibir el peso en posición de sentadilla. Dejá que los brazos se flexionen, guiando las mancuernas hacia los hombros.",
+      "Al recibir el peso en la sentadilla, extendé caderas y rodillas para terminar de pie con los pesos en los hombros."
+    ]
+  },
+  "Dumbbell_Floor_Press": {
+    "nombre": "Press en el suelo con mancuernas",
+    "instrucciones": [
+      "Recostate en el suelo sosteniendo mancuernas en las manos. Las rodillas pueden estar flexionadas. Empezá con los pesos totalmente extendidos por encima tuyo.",
+      "Bajá los pesos hasta que el brazo toque el suelo. Podés pegar los codos para enfatizar el tamaño y la fuerza del tríceps, o abrir los brazos hacia los costados para enfocar el pecho.",
+      "Hacé una pausa abajo y después juntá los pesos arriba extendiendo los codos."
+    ]
+  },
+  "Dumbbell_Flyes": {
+    "nombre": "Aperturas con mancuernas",
+    "instrucciones": [
+      "Recostate en un banco plano con una mancuerna en cada mano apoyadas sobre los muslos. Las palmas quedan enfrentadas.",
+      "Después, usando los muslos para ayudar a subir las mancuernas, levantalas una a la vez para sostenerlas frente a vos a la anchura de los hombros con las palmas enfrentadas. Subí las mancuernas como si las presionaras, pero frená y sostené justo antes de bloquear los brazos. Esta es tu posición inicial.",
+      "Con una ligera flexión en los codos para no sobrecargar el tendón del bíceps, bajá los brazos hacia ambos costados en un arco amplio hasta sentir un estiramiento en el pecho. Inhalá durante esta parte del movimiento. Consejo: durante todo el movimiento los brazos deben quedar quietos; el movimiento solo debe ocurrir en la articulación del hombro.",
+      "Volvé los brazos a la posición inicial apretando los músculos del pecho mientras exhalás. Consejo: usá el mismo arco de movimiento con el que bajaste los pesos.",
+      "Mantené un segundo en la posición contraída y repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Dumbbell_Incline_Row": {
+    "nombre": "Remo inclinado con mancuernas",
+    "instrucciones": [
+      "Con un agarre neutro, apoyate contra un banco inclinado.",
+      "Tomá una mancuerna en cada mano con agarre neutro, empezando con los brazos rectos. Esta es tu posición inicial.",
+      "Retraé los omóplatos y flexioná los codos para remar las mancuernas hacia tu costado.",
+      "Hacé una pausa arriba y después volvé a la posición inicial."
+    ]
+  },
+  "Dumbbell_Incline_Shoulder_Raise": {
+    "nombre": "Elevación de hombros inclinada con mancuernas",
+    "instrucciones": [
+      "Sentate en un banco inclinado sosteniendo una mancuerna en cada mano sobre los muslos.",
+      "Subí las piernas para impulsar los pesos a los hombros y recostate hacia atrás. Colocá las mancuernas por encima de los hombros con los brazos extendidos. Los brazos deben quedar perpendiculares al suelo, con las palmas hacia adelante y los nudillos apuntando al techo. Esta es tu posición inicial.",
+      "Manteniendo los brazos rectos y bloqueados, elevá las mancuernas despegando los hombros del banco mientras exhalás.",
+      "Volvé las mancuernas a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Lunges": {
+    "nombre": "Zancadas con mancuernas",
+    "instrucciones": [
+      "Parate con el torso erguido sosteniendo dos mancuernas a los costados. Esta es tu posición inicial.",
+      "Dá un paso adelante con la pierna derecha, a unos 60 cm del pie que queda quieto atrás, y bajá el tren superior manteniendo el torso erguido y el equilibrio. Inhalá al bajar. Nota: como en los otros ejercicios, no dejes que la rodilla pase por delante de la punta del pie al bajar, porque sobrecarga la articulación. Asegurate de mantener la espinilla de adelante perpendicular al suelo.",
+      "Usando sobre todo el talón, empujá para subir y volvé a la posición inicial mientras exhalás.",
+      "Repetí el movimiento las repeticiones recomendadas y después hacelo con la pierna izquierda."
+    ]
+  },
+  "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+    "nombre": "Elevación posterior lateral a un brazo, acostado, con mancuerna",
+    "instrucciones": [
+      "Sosteniendo una mancuerna en una mano, recostate boca abajo sobre un banco regulable un poco inclinado (unos 15 grados respecto del suelo). Con la otra mano podés agarrarte de la pata del banco para estabilizarte.",
+      "Colocá la palma de la mano que sostiene la mancuerna en posición neutra (mirando hacia el torso), con el brazo extendido y el codo apenas flexionado. Esta es tu posición inicial.",
+      "Ahora elevá el brazo con la mancuerna hacia el costado hasta que el codo quede a la altura del hombro y el brazo casi paralelo al suelo mientras exhalás. Consejo: mantené el brazo perpendicular al torso y extendido durante todo el movimiento. Mantené la contracción arriba un segundo.",
+      "Bajá lentamente la mancuerna a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Lying_Pronation": {
+    "nombre": "Pronación acostado con mancuerna",
+    "instrucciones": [
+      "Recostate boca abajo en un banco plano con un brazo sosteniendo una mancuerna y la otra mano sobre el banco, doblada, para apoyar la cabeza.",
+      "Flexioná el codo del brazo que sostiene la mancuerna para formar un ángulo de 90 grados entre el brazo y el antebrazo.",
+      "Ahora elevá el brazo para que el antebrazo quede perpendicular al suelo y el brazo perpendicular al torso. Consejo: el brazo debe quedar paralelo al suelo y formando un ángulo de 90 grados con el torso. Esta es tu posición inicial.",
+      "Al exhalar, rotá externamente el antebrazo para que la mancuerna se eleve hacia adelante, manteniendo la flexión de 90 grados entre el brazo y el antebrazo. Seguí esta rotación externa hasta que el antebrazo quede paralelo al suelo. En ese punto mantené la contracción un segundo.",
+      "Al inhalar, volvé lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Lying_Rear_Lateral_Raise": {
+    "nombre": "Elevación posterior lateral acostado con mancuernas",
+    "instrucciones": [
+      "Sosteniendo una mancuerna en cada mano, recostate boca abajo sobre un banco regulable un poco inclinado (unos 15 grados respecto del suelo).",
+      "Colocá las palmas en posición neutra (mirando hacia el torso), con los brazos extendidos y los codos apenas flexionados. Esta es tu posición inicial.",
+      "Ahora elevá los brazos hacia los costados hasta que los codos queden a la altura de los hombros y los brazos casi paralelos al suelo mientras exhalás. Consejo: mantené los brazos perpendiculares al torso y extendidos durante todo el movimiento. Mantené la contracción arriba un segundo.",
+      "Bajá lentamente las mancuernas a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas y después cambiá de brazo."
+    ]
+  },
+  "Dumbbell_Lying_Supination": {
+    "nombre": "Supinación acostado con mancuerna",
+    "instrucciones": [
+      "Recostate de costado en un banco plano con un brazo sosteniendo una mancuerna y la otra mano sobre el banco, doblada, para apoyar la cabeza.",
+      "Flexioná el codo del brazo que sostiene la mancuerna para formar un ángulo de 90 grados entre el brazo y el antebrazo.",
+      "Ahora elevá el brazo para que el antebrazo quede paralelo al suelo y perpendicular al torso (consejo: el antebrazo queda justo frente a vos). El brazo permanece quieto contra el torso y debe quedar paralelo al suelo (alineado con el torso en todo momento). Esta es tu posición inicial.",
+      "Al exhalar, rotá externamente el antebrazo para que la mancuerna suba en un movimiento semicircular, manteniendo la flexión de 90 grados entre el brazo y el antebrazo. Seguí esta rotación externa hasta que el antebrazo quede perpendicular al suelo y apuntando al techo. En ese punto mantené la contracción un segundo.",
+      "Al inhalar, volvé lentamente a la posición inicial.",
+      "Repetí las repeticiones recomendadas y después cambiá de brazo."
+    ]
+  },
+  "Dumbbell_One-Arm_Shoulder_Press": {
+    "nombre": "Press de hombros a un brazo con mancuerna",
+    "instrucciones": [
+      "Agarrá una mancuerna y sentate en un banco de press militar o en un banco con respaldo, apoyando las mancuernas paradas sobre los muslos, o parate derecho.",
+      "Cargá la mancuerna para llevarla a la altura del hombro. La otra mano puede quedar totalmente extendida al costado, en la cintura o agarrando una superficie fija.",
+      "Girá la muñeca para que la palma quede hacia adelante. Esta es tu posición inicial.",
+      "Al exhalar, empujá la mancuerna hacia arriba hasta que el brazo quede totalmente extendido.",
+      "Tras una pausa de un segundo, bajá lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas y después cambiá de brazo."
+    ]
+  },
+  "Dumbbell_One-Arm_Triceps_Extension": {
+    "nombre": "Extensión de tríceps a un brazo con mancuerna",
+    "instrucciones": [
+      "Agarrá una mancuerna y sentate en un banco de press militar o en un banco con respaldo, apoyando las mancuernas paradas sobre los muslos, o parate derecho.",
+      "Cargá la mancuerna para llevarla a la altura del hombro y después extendé el brazo por encima de la cabeza para que todo el brazo quede perpendicular al suelo y al lado de la cabeza. La mancuerna debe quedar encima tuyo. La otra mano puede quedar totalmente extendida al costado, en la cintura, sosteniendo el brazo que tiene la mancuerna o agarrando una superficie fija.",
+      "Girá la muñeca para que la palma quede hacia adelante y el meñique hacia el techo. Esta es tu posición inicial.",
+      "Bajá lentamente la mancuerna por detrás de la cabeza manteniendo el brazo quieto. Inhalá al hacer el movimiento y hacé una pausa cuando el tríceps quede totalmente estirado.",
+      "Volvé a la posición inicial contrayendo el tríceps mientras exhalás. Consejo: es fundamental que solo se mueva el antebrazo. El brazo debe quedar siempre quieto al lado de la cabeza.",
+      "Repetí las repeticiones recomendadas y cambiá de brazo."
+    ]
+  },
+  "Dumbbell_One-Arm_Upright_Row": {
+    "nombre": "Remo al mentón a un brazo con mancuerna",
+    "instrucciones": [
+      "Agarrá una mancuerna y parate derecho con el brazo extendido frente a vos, con una ligera flexión en el codo y la espalda recta. Esta es tu posición inicial. Consejo: la mancuerna debe quedar apoyada sobre el muslo con la palma hacia el muslo.",
+      "La otra mano puede quedar totalmente extendida al costado, en la cintura o agarrando una superficie fija. Esta es tu posición inicial.",
+      "Usá los deltoides laterales para subir la mancuerna mientras exhalás. La mancuerna debe ir cerca del cuerpo al subir. Seguí subiéndola hasta que quede casi a la altura del mentón. Consejo: el codo debe guiar el movimiento. Al subir la mancuerna, el codo siempre debe quedar más alto que el antebrazo. Mantené el torso quieto y hacé una pausa de un segundo arriba.",
+      "Bajá la mancuerna lentamente a la posición inicial. Inhalá durante esta parte del movimiento.",
+      "Repetí las repeticiones recomendadas y cambiá de brazo."
+    ]
+  },
+  "Dumbbell_Prone_Incline_Curl": {
+    "nombre": "Curl inclinado boca abajo con mancuernas",
+    "instrucciones": [
+      "Agarrá una mancuerna en cada mano y recostate boca abajo en un banco inclinado con los hombros cerca de la parte alta del banco. Las rodillas pueden apoyarse en el asiento o las piernas quedar a horcajadas a los costados (mi forma preferida).",
+      "Dejá que los brazos se extiendan y cuelguen naturalmente frente a vos, perpendiculares al suelo.",
+      "Ahora mantené los codos pegados a los costados y las palmas hacia adelante. Esta es tu posición inicial.",
+      "Subí las mancuernas contrayendo los bíceps hasta que los brazos queden totalmente flexionados. Exhalá durante esta parte del movimiento y asegurate de que solo se muevan los antebrazos. Los brazos deben quedar quietos en todo momento.",
+      "Bajá las mancuernas hasta que los brazos queden totalmente extendidos.",
+      "Repetí la cantidad de veces recomendada."
+    ]
+  },
+  "Dumbbell_Raise": {
+    "nombre": "Elevación con mancuernas",
+    "instrucciones": [
+      "Agarrá una mancuerna en cada brazo y parate derecho con los brazos extendidos a los costados, con una ligera flexión en los codos y la espalda recta. Esta es tu posición inicial. Consejo: la mancuerna debe quedar al lado de los muslos con las palmas hacia atrás.",
+      "Usá los deltoides laterales para subir las mancuernas mientras exhalás. Las mancuernas deben ir al costado del cuerpo al subir. Seguí subiéndolas hasta que queden casi a la altura del mentón. Consejo: los codos deben guiar el movimiento. Al subir la mancuerna, el codo siempre debe quedar más alto que el antebrazo. Mantené el torso quieto y hacé una pausa de un segundo arriba.",
+      "Bajá las mancuernas lentamente a la posición inicial. Inhalá durante esta parte del movimiento.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Rear_Lunge": {
+    "nombre": "Zancada hacia atrás con mancuernas",
+    "instrucciones": [
+      "Parate con el torso erguido sosteniendo dos mancuernas a los costados. Esta es tu posición inicial.",
+      "Dá un paso hacia atrás con la pierna derecha, a unos 60 cm del pie izquierdo, y bajá el tren superior manteniendo el torso erguido y el equilibrio. Inhalá al bajar. Consejo: como en los otros ejercicios, no dejes que la rodilla pase por delante de la punta del pie al bajar, porque sobrecarga la articulación. Asegurate de mantener la espinilla de adelante perpendicular al suelo. Mantené el torso erguido durante la zancada; es importante tener flexores de cadera flexibles. Una zancada larga enfatiza el glúteo mayor; una corta, el cuádriceps.",
+      "Empujá para subir y volvé a la posición inicial mientras exhalás. Consejo: empujá con la parte delantera del pie para enfatizar el cuádriceps. Para enfocar los glúteos, empujá con los talones.",
+      "Ahora repetí con la otra pierna."
+    ]
+  },
+  "Dumbbell_Scaption": {
+    "nombre": "Elevación en plano escapular con mancuernas",
+    "instrucciones": [
+      "Este ejercicio correctivo fortalece los músculos que estabilizan el omóplato. Sostené un peso liviano en cada mano, colgando a los costados. Los pulgares deben apuntar hacia arriba.",
+      "Empezá el movimiento elevando los brazos hacia adelante, a unos 30 grados del centro. Los brazos deben quedar totalmente extendidos durante el movimiento.",
+      "Seguí hasta que los brazos queden paralelos al suelo y después volvé a la posición inicial."
+    ]
+  },
+  "Dumbbell_Seated_Box_Jump": {
+    "nombre": "Salto al cajón sentado con mancuerna",
+    "instrucciones": [
+      "Colocá un cajón a un metro al costado de un banco. Sostené una mancuerna contra el pecho con ambas manos y sentate en el banco mirando al cajón. Esta es tu posición inicial.",
+      "Apoyá los pies firme en el suelo e inclinate hacia adelante, extendiendo caderas y rodillas para saltar hacia arriba y adelante.",
+      "Aterrizá en el cajón con ambos pies, absorbiendo el impacto dejando que caderas y rodillas se flexionen.",
+      "Bajá del cajón y volvé a la posición inicial."
+    ]
+  },
+  "Dumbbell_Seated_One-Leg_Calf_Raise": {
+    "nombre": "Elevación de gemelos sentado a una pierna con mancuerna",
+    "instrucciones": [
+      "Colocá un bloque en el suelo a unos 30 cm de un banco plano.",
+      "Sentate en un banco plano y apoyá una mancuerna sobre el muslo izquierdo, unos 8 cm por encima de la rodilla.",
+      "Ahora apoyá la parte delantera del pie izquierdo sobre el bloque. Esta es tu posición inicial.",
+      "Elevá las puntas de los pies lo más alto posible mientras exhalás y contraés el gemelo. Mantené la contracción un segundo.",
+      "Volvé lentamente a la posición inicial, estirando lo más abajo posible.",
+      "Repetí las repeticiones indicadas y después repetí con la pierna derecha."
+    ]
+  },
+  "Dumbbell_Shoulder_Press": {
+    "nombre": "Press de hombros con mancuernas",
+    "instrucciones": [
+      "Sosteniendo una mancuerna en cada mano, sentate en un banco de press militar o un banco con respaldo. Apoyá las mancuernas paradas sobre los muslos.",
+      "Ahora subí las mancuernas a la altura de los hombros una a la vez, usando los muslos para ayudar a impulsarlas a su lugar.",
+      "Asegurate de girar las muñecas para que las palmas queden hacia adelante. Esta es tu posición inicial.",
+      "Ahora exhalá y empujá las mancuernas hacia arriba hasta que se toquen arriba.",
+      "Después, tras una breve pausa en la posición contraída, bajá lentamente los pesos a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Dumbbell_Shrug": {
+    "nombre": "Encogimiento de hombros con mancuernas",
+    "instrucciones": [
+      "Parate erguido con una mancuerna en cada mano (palmas hacia el torso), los brazos extendidos a los costados.",
+      "Subí las mancuernas elevando los hombros lo más alto posible mientras exhalás. Mantené la contracción arriba un segundo. Consejo: los brazos deben quedar extendidos en todo momento. No uses los bíceps para ayudar a subir las mancuernas. Solo los hombros deben subir y bajar.",
+      "Bajá las mancuernas de vuelta a la posición original.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  }
+}

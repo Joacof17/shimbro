@@ -1,0 +1,196 @@
+{
+  "Kneeling_Squat": {
+    "nombre": "Sentadilla arrodillada",
+    "instrucciones": [
+      "Colocá la barra a la altura correcta en una jaula de potencia. Arrodillate detrás de la barra; puede convenir poner una colchoneta para acolchar las rodillas. Deslizate debajo de la barra, apoyándola sobre la parte de atrás de los hombros. Los omóplatos deben quedar retraídos y la barra firme contra la espalda. Sacá el peso del soporte.",
+      "Con la cabeza mirando al frente, llevá los glúteos hacia atrás hasta tocar los gemelos.",
+      "Invertí el movimiento, volviendo el torso a la posición erguida."
+    ]
+  },
+  "Landmine_180s": {
+    "nombre": "Landmine 180°",
+    "instrucciones": [
+      "Colocá una barra en un landmine o anclala firme en un rincón. Cargala a un peso adecuado.",
+      "Levantá la barra del suelo, llevándola a la altura de los hombros con ambas manos y los brazos extendidos frente a vos. Adoptá una postura amplia. Esta es tu posición inicial.",
+      "Hacé el movimiento rotando el tronco y las caderas mientras balanceás el peso del todo hacia un lado. Mantené los brazos extendidos durante todo el ejercicio.",
+      "Invertí el movimiento para balancear el peso del todo hacia el lado opuesto.",
+      "Seguí alternando el movimiento hasta completar la serie."
+    ]
+  },
+  "Landmine_Linear_Jammer": {
+    "nombre": "Jammer lineal en landmine",
+    "instrucciones": [
+      "Colocá una barra en un landmine o, si no tenés, anclala firme en un rincón. Cargala a un peso adecuado y colocá la manija en la barra.",
+      "Levantá la barra del suelo, llevando las manijas a los hombros. Esta es tu posición inicial.",
+      "En una postura atlética, hacé sentadilla flexionando las caderas y llevándolas hacia atrás, manteniendo los brazos flexionados.",
+      "Invertí el movimiento extendiendo con potencia caderas, rodillas y tobillos, y también los codos para estirar los brazos. Este movimiento debe ser explosivo, saliendo de la sentadilla hacia la extensión completa lo más potente posible.",
+      "Volvé a la posición inicial."
+    ]
+  },
+  "Lateral_Bound": {
+    "nombre": "Salto lateral",
+    "instrucciones": [
+      "Adoptá una posición de media sentadilla mirando a 90 grados de tu dirección de desplazamiento. Esta es tu posición inicial.",
+      "Dejá que la pierna de adelante haga un contramovimiento hacia adentro mientras desplazás el peso a la pierna de afuera.",
+      "Empujá y extendé de inmediato, tratando de saltar hacia el costado lo más lejos posible.",
+      "Al aterrizar, empujá de inmediato en la dirección opuesta, volviendo a tu posición inicial.",
+      "Seguí de un lado al otro por varias repeticiones."
+    ]
+  },
+  "Lateral_Box_Jump": {
+    "nombre": "Salto lateral al cajón",
+    "instrucciones": [
+      "Adoptá una posición de pie cómoda, con un cajón bajo a tu costado. Esta es tu posición inicial.",
+      "Bajá rápido a un cuarto de sentadilla para iniciar el reflejo de estiramiento e invertí de inmediato la dirección para saltar hacia arriba y al costado.",
+      "Subí las rodillas lo suficiente para que los pies pasen bien por encima del cajón.",
+      "Aterrizá en el centro del cajón, usando las piernas para absorber el impacto.",
+      "Con cuidado, saltá hacia el otro lado del cajón y seguí de un lado al otro por varias repeticiones."
+    ]
+  },
+  "Lateral_Cone_Hops": {
+    "nombre": "Saltos laterales de conos",
+    "instrucciones": [
+      "Colocá varios conos en fila, separados un par de metros.",
+      "Parate al lado del extremo de los conos, mirando a 90 grados de la dirección de desplazamiento. Esta es tu posición inicial.",
+      "Empezá el salto bajando con las rodillas para iniciar un reflejo de estiramiento, e invertí de inmediato la dirección para empujar del suelo, saltando hacia arriba y de lado por encima del cono.",
+      "Usá las piernas para absorber el impacto al aterrizar, y rebotá al siguiente salto, continuando por toda la fila de conos."
+    ]
+  },
+  "Lateral_Raise_-_With_Bands": {
+    "nombre": "Elevación lateral con bandas",
+    "instrucciones": [
+      "Para empezar, parate sobre una banda de ejercicio de modo que la tensión empiece con los brazos estirados. Agarrá las manijas con un agarre prono (palmas hacia los muslos) un poco más cerrado que los hombros. Las manijas deben quedar apoyadas a los costados de los muslos. Los brazos extendidos con una ligera flexión en los codos y la espalda recta. Esta es tu posición inicial.",
+      "Usá los deltoides laterales para subir las manijas hacia los costados mientras exhalás. Seguí subiendo hasta que queden un poco por encima de la paralela. Consejo: al subir las manijas, inclina un poco la mano como si sirvieras agua y mantené los brazos extendidos. Mantené el torso quieto y hacé una pausa de un segundo arriba.",
+      "Bajá las manijas lentamente a la posición inicial. Inhalá durante esta parte del movimiento.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Latissimus_Dorsi-SMR": {
+    "nombre": "Dorsal ancho (automasaje)",
+    "instrucciones": [
+      "Recostado en el suelo, colocá un rodillo de espuma debajo de la espalda, hacia un lado, justo por detrás de la axila. Esta es tu posición inicial.",
+      "Mantené el brazo del lado que estirás por detrás y hacia el costado mientras desplazás tu peso sobre el dorsal, manteniendo el tren superior despegado del suelo. Mantené 10-30 segundos y cambiá de lado."
+    ]
+  },
+  "Leg-Over_Floor_Press": {
+    "nombre": "Press en el suelo con pierna cruzada",
+    "instrucciones": [
+      "Recostate en el suelo con una pesa rusa apoyada en el pecho, sosteniéndola por la manija. Extendé la pierna del lado que trabaja por encima de la pierna del lado que no trabaja. El brazo libre puede quedar extendido al costado para apoyo.",
+      "Presioná la pesa hasta la posición de bloqueo.",
+      "Bajá el peso hasta que el codo toque el suelo, manteniendo la pesa por encima del codo. Repetí las repeticiones deseadas."
+    ]
+  },
+  "Leg-Up_Hamstring_Stretch": {
+    "nombre": "Estiramiento de isquiotibiales con pierna arriba",
+    "instrucciones": [
+      "Recostate boca arriba, flexioná una rodilla y apoyá ese pie en el suelo para estabilizar la columna.",
+      "Extendé la otra pierna en el aire. Si estás tenso, no vas a poder estirarla del todo. Está bien. Extendé la rodilla para que la planta del pie elevado mire al techo (o lo más cerca que puedas).",
+      "Estirá lentamente las piernas lo más posible y después llevá la pierna hacia tu nariz. Cambiá de lado."
+    ]
+  },
+  "Leg_Extensions": {
+    "nombre": "Extensiones de cuádriceps",
+    "instrucciones": [
+      "Para este ejercicio necesitás una máquina de extensión de cuádriceps. Primero elegí el peso y sentate en la máquina con las piernas bajo la almohadilla (los pies hacia adelante) y las manos agarrando las barras laterales. Esta es tu posición inicial. Consejo: ajustá la almohadilla para que quede sobre la parte baja de la pierna (justo por encima de los pies). Además, asegurate de que las piernas formen un ángulo de 90 grados entre la parte baja y la alta. Si el ángulo es menor a 90 grados, la rodilla queda por delante de las puntas de los pies, lo que sobrecarga la articulación. Si la máquina es así, buscá otra o asegurate de frenar el descenso al llegar al ángulo de 90 grados.",
+      "Usando los cuádriceps, extendé las piernas al máximo mientras exhalás. Asegurate de que el resto del cuerpo quede quieto en el asiento. Hacé una pausa de un segundo en la posición contraída.",
+      "Bajá lentamente el peso a la posición original mientras inhalás, asegurándote de no pasar el límite del ángulo de 90 grados.",
+      "Repetí la cantidad de veces recomendada."
+    ]
+  },
+  "Leg_Lift": {
+    "nombre": "Elevación de pierna (femoral de pie)",
+    "instrucciones": [
+      "Parado y derecho con ambos pies juntos a más o menos la anchura de los hombros, agarrate de una superficie firme, como los lados de una jaula de sentadillas o el respaldo de una silla, para estabilizarte y mantener el equilibrio.",
+      "Con o sin tobillera lastrada, subí una pierna por detrás como si hicieras un curl femoral pero de pie, manteniendo la otra pierna recta. Exhalá al hacer el movimiento.",
+      "Bajá lentamente la pierna elevada al suelo mientras inhalás.",
+      "Repetí las repeticiones recomendadas.",
+      "Repetí el movimiento con la otra pierna."
+    ]
+  },
+  "Leg_Press": {
+    "nombre": "Prensa de piernas",
+    "instrucciones": [
+      "En una prensa de piernas, sentate en la máquina y apoyá las piernas en la plataforma justo frente a vos, en una postura media (a la anchura de los hombros). (Nota: para esta explicación usamos la postura media, que trabaja el desarrollo general; de todos modos podés elegir cualquiera de las tres posturas de pies).",
+      "Bajá las barras de seguridad que sostienen la plataforma y empujala hasta arriba hasta que las piernas queden totalmente extendidas frente a vos. Consejo: no bloquees las rodillas. El torso y las piernas deben formar un ángulo perfecto de 90 grados. Esta es tu posición inicial.",
+      "Al inhalar, bajá lentamente la plataforma hasta que la parte alta y la baja de las piernas formen un ángulo de 90 grados.",
+      "Empujando sobre todo con los talones y usando los cuádriceps, volvé a la posición inicial mientras exhalás.",
+      "Repetí las repeticiones recomendadas y asegurate de trabar bien los pasadores de seguridad al terminar. No querés que la plataforma cargada te caiga encima."
+    ]
+  },
+  "Leg_Pull-In": {
+    "nombre": "Encogimiento de piernas",
+    "instrucciones": [
+      "Recostate en una colchoneta con las piernas extendidas y las manos con las palmas hacia abajo a tus costados o debajo de los glúteos. Consejo: yo prefiero con las manos a los costados. Esta es tu posición inicial.",
+      "Flexioná las rodillas y llevá los muslos hacia la zona media mientras exhalás. Seguí el movimiento hasta que las rodillas queden más o menos a la altura del pecho. Contraé los abdominales al hacerlo y mantené un segundo arriba. Consejo: durante el movimiento, la parte baja de las piernas (los gemelos) debe quedar siempre paralela al suelo.",
+      "Volvé a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Leverage_Chest_Press": {
+    "nombre": "Press de pecho en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá el asiento a tu altura. Las manijas deben quedar cerca de la parte baja o media de los pectorales al inicio del movimiento.",
+      "El pecho y la cabeza en alto y los omóplatos retraídos. Esta es tu posición inicial.",
+      "Presioná las manijas hacia adelante extendiendo los codos.",
+      "Tras una breve pausa arriba, volvé el peso hasta justo por encima de la posición inicial, manteniendo la tensión en los músculos al no dejar que el peso vuelva a los topes hasta terminar la serie."
+    ]
+  },
+  "Leverage_Deadlift": {
+    "nombre": "Peso muerto en máquina de palanca",
+    "instrucciones": [
+      "Cargá los pasadores a un peso adecuado. Colocate justo entre las manijas. Agarrá las manijas de abajo con un agarre cómodo y después bajá las caderas mientras tomás aire. Mirá al frente y mantené el pecho en alto. Esta es tu posición inicial.",
+      "Volvé el peso a la posición inicial."
+    ]
+  },
+  "Leverage_Decline_Chest_Press": {
+    "nombre": "Press de pecho declinado en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá el asiento a tu altura. Las manijas deben quedar cerca de la parte baja de los pectorales al inicio del movimiento. El pecho y la cabeza en alto y los omóplatos retraídos. Esta es tu posición inicial.",
+      "Presioná las manijas hacia adelante extendiendo los codos.",
+      "Tras una breve pausa arriba, volvé el peso hasta justo por encima de la posición inicial, manteniendo la tensión en los músculos al no dejar que el peso vuelva a los topes hasta terminar la serie."
+    ]
+  },
+  "Leverage_High_Row": {
+    "nombre": "Remo alto en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá la altura del asiento para que apenas llegues a las manijas de arriba. Ajustá la almohadilla de las rodillas para mantenerte abajo. Agarrá las manijas con un agarre prono. Esta es tu posición inicial.",
+      "Traccioná las manijas hacia el torso, retrayendo los omóplatos mientras flexionás el codo.",
+      "Hacé una pausa abajo y después volvé lentamente las manijas a la posición inicial.",
+      "Para varias repeticiones, evitá volver del todo el peso a los topes para mantener la tensión en los músculos que trabajás."
+    ]
+  },
+  "Leverage_Incline_Chest_Press": {
+    "nombre": "Press de pecho inclinado en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá el asiento a tu altura. Las manijas deben quedar cerca de la parte alta de los pectorales al inicio del movimiento. El pecho y la cabeza en alto y los omóplatos retraídos. Esta es tu posición inicial.",
+      "Presioná las manijas hacia adelante extendiendo los codos.",
+      "Tras una breve pausa arriba, volvé el peso hasta justo por encima de la posición inicial, manteniendo la tensión en los músculos al no dejar que el peso vuelva a los topes hasta terminar la serie."
+    ]
+  },
+  "Leverage_Iso_Row": {
+    "nombre": "Remo iso en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá la altura del asiento para que las manijas queden a la altura del pecho. Agarrá las manijas con un agarre neutro o prono. Esta es tu posición inicial.",
+      "Traccioná las manijas hacia el torso, retrayendo los omóplatos mientras flexionás el codo.",
+      "Hacé una pausa abajo y después volvé lentamente las manijas a la posición inicial. Para varias repeticiones, evitá volver del todo el peso a los topes para mantener la tensión en los músculos que trabajás."
+    ]
+  },
+  "Leverage_Shoulder_Press": {
+    "nombre": "Press de hombros en máquina de palanca",
+    "instrucciones": [
+      "Cargá un peso adecuado en los pasadores y ajustá el asiento a tu altura. Las manijas deben quedar cerca de la parte alta de los hombros al inicio del movimiento. El pecho y la cabeza en alto y las manijas con un agarre prono. Esta es tu posición inicial.",
+      "Presioná las manijas hacia arriba extendiendo los codos.",
+      "Tras una breve pausa arriba, volvé el peso hasta justo por encima de la posición inicial, manteniendo la tensión en los músculos al no dejar que el peso vuelva a los topes hasta terminar la serie."
+    ]
+  },
+  "Leverage_Shrug": {
+    "nombre": "Encogimiento de hombros en máquina de palanca",
+    "instrucciones": [
+      "Cargá los pasadores a un peso adecuado. Colocate justo entre las manijas.",
+      "Agarrá las manijas de arriba con un agarre cómodo y después bajá las caderas mientras tomás aire. Mirá al frente y mantené el pecho en alto.",
+      "Empujá contra el suelo con los talones, extendiendo caderas y rodillas hasta quedar de pie. Mantené los brazos rectos durante todo el movimiento, terminando con los hombros hacia atrás. Esta es tu posición inicial.",
+      "Subí el peso encogiendo los hombros hacia las orejas, moviéndote recto hacia arriba y abajo.",
+      "Hacé una pausa arriba y después volvé el peso a la posición inicial."
+    ]
+  }
+}

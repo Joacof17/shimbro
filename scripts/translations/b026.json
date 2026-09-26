@@ -1,0 +1,187 @@
+{
+  "Preacher_Curl": {
+    "nombre": "Curl predicador",
+    "instrucciones": [
+      "Para hacer este movimiento necesitás un banco predicador y una barra Z. Agarrá la barra Z por la manija interna más cercana (que alguien te alcance la barra, que es lo ideal, o agarrala del soporte de adelante que traen la mayoría de los bancos predicador). Las palmas hacia adelante, apenas inclinadas hacia adentro por la forma de la barra.",
+      "Con los brazos apoyados contra la almohadilla del banco predicador y el pecho contra ella, sostené la barra Z con el brazo extendido. Esta es tu posición inicial.",
+      "Al inhalar, bajá lentamente la barra hasta que el brazo quede extendido y el bíceps totalmente estirado.",
+      "Al exhalar, usá el bíceps para flexionar el peso hacia arriba hasta que el bíceps quede totalmente contraído y la barra a la altura del hombro. Apretá fuerte el bíceps y mantené esta posición un segundo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Preacher_Hammer_Dumbbell_Curl": {
+    "nombre": "Curl martillo predicador con mancuernas",
+    "instrucciones": [
+      "Apoyá la parte alta de ambos brazos sobre el banco predicador sosteniendo una mancuerna en cada mano con las palmas enfrentadas (agarre neutro).",
+      "Al inhalar, bajá lentamente las mancuernas hasta que el brazo quede extendido y el bíceps totalmente estirado.",
+      "Al exhalar, usá el bíceps para flexionar el peso hacia arriba hasta que el bíceps quede totalmente contraído y las mancuernas a la altura del hombro.",
+      "Apretá fuerte el bíceps un segundo en la posición contraída y repetí las repeticiones recomendadas."
+    ]
+  },
+  "Press_Sit-Up": {
+    "nombre": "Sit-up con press",
+    "instrucciones": [
+      "Para empezar, recostate en un banco con una barra apoyada en el pecho. Colocá las piernas bien fijas en la extensión del banco de abdominales. Esta es la posición inicial.",
+      "Al inhalar, apretá los abdominales y los glúteos. A la vez, encogé el torso como en un sit-up y presioná la barra por encima de la cabeza mientras exhalás. Consejo: usá los brazos para empujar la barra hacia afuera durante el ejercicio, sin dejar de enfocar los abdominales.",
+      "Bajá el tren superior de vuelta a la posición inicial mientras llevás la barra de vuelta al torso. Acordate de inhalar al bajar el cuerpo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Prone_Manual_Hamstring": {
+    "nombre": "Femoral manual boca abajo",
+    "instrucciones": [
+      "Necesitás un compañero para este ejercicio. Recostate boca abajo con las piernas rectas. Tu asistente apoya la mano en tu talón.",
+      "Para empezar, flexioná la rodilla para subir la pierna. Tu compañero debe dar resistencia, empezando suave y aumentando la presión a medida que se completa el movimiento. Comunicate con tu compañero para controlar el nivel de resistencia adecuado.",
+      "Hacé una pausa arriba y volvé la pierna a la posición inicial mientras tu compañero da resistencia en la otra dirección."
+    ]
+  },
+  "Prowler_Sprint": {
+    "nombre": "Sprint con prowler",
+    "instrucciones": [
+      "Colocá tu trineo sobre una superficie adecuada, cargado a un peso apropiado. El trineo debe dar suficiente resistencia como para exigir esfuerzo, pero no tan pesado que te frene demasiado.",
+      "Para este ejercicio podés usar las manijas altas o las bajas. Apoyá las manos en las manijas con los brazos extendidos, inclinándote sobre el implemento.",
+      "Con buena postura, empujá contra el suelo con pasos cortos y alternados. Movéte lo más rápido que puedas una distancia corta."
+    ]
+  },
+  "Pull_Through": {
+    "nombre": "Pull through",
+    "instrucciones": [
+      "Empezá parado un par de metros frente a una polea baja con una cuerda o manija enganchada. Ponete de espaldas a la máquina, con el cable entre las piernas y los pies bien separados.",
+      "Empezá el movimiento llevando las manos entre las piernas lo más atrás posible, flexionando las caderas. Mantené las rodillas apenas flexionadas. Con los brazos rectos, extendé las caderas hasta quedar de pie. Evitá tirar hacia arriba con los hombros; todo el movimiento debe originarse en las caderas."
+    ]
+  },
+  "Pullups": {
+    "nombre": "Dominadas",
+    "instrucciones": [
+      "Agarrá la barra de dominadas con las palmas hacia adelante usando el agarre indicado. Nota sobre agarres: para agarre ancho, las manos van más separadas que los hombros; para agarre medio, a la anchura de los hombros; y para agarre cerrado, más juntas que los hombros.",
+      "Con ambos brazos extendidos frente a vos sosteniendo la barra al ancho elegido, llevá el torso hacia atrás unos 30 grados generando una curva en la zona lumbar y sacando el pecho. Esta es tu posición inicial.",
+      "Subí el torso hasta que la barra toque la parte alta del pecho, llevando los hombros y los brazos hacia abajo y atrás. Exhalá durante esta parte del movimiento. Consejo: concentrate en apretar los músculos de la espalda al llegar a la contracción completa. El tren superior debe quedar quieto mientras se desplaza y solo deben moverse los brazos. Los antebrazos no hacen otro trabajo que sostener la barra.",
+      "Tras un segundo en la posición contraída, empezá a inhalar y bajá lentamente el torso a la posición inicial hasta que los brazos queden totalmente extendidos y los dorsales estirados.",
+      "Repetí este movimiento las repeticiones indicadas."
+    ]
+  },
+  "Push-Up_Wide": {
+    "nombre": "Flexión con agarre abierto",
+    "instrucciones": [
+      "Con las manos bien separadas, sostené el cuerpo sobre las puntas de los pies y las manos en posición de plancha. Los codos extendidos y el cuerpo recto. No dejes que las caderas se hundan. Esta es tu posición inicial.",
+      "Para empezar, dejá que los codos se flexionen, bajando el pecho hacia el suelo mientras inhalás.",
+      "Usando los músculos pectorales, empujá el tren superior de vuelta a la posición inicial extendiendo los codos. Exhalá al hacer este paso.",
+      "Tras una pausa en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Push-Ups_-_Close_Triceps_Position": {
+    "nombre": "Flexiones con manos juntas (tríceps)",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo y apoyá las manos más juntas que los hombros, en posición cerrada. Asegurate de sostener el torso con los brazos estirados.",
+      "Bajá el cuerpo hasta que el pecho casi toque el suelo mientras inhalás.",
+      "Usando los tríceps y algo de los pectorales, empujá el tren superior de vuelta a la posición inicial y apretá el pecho. Exhalá al hacer este paso.",
+      "Tras una pausa de un segundo en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Push-Ups_With_Feet_Elevated": {
+    "nombre": "Flexiones con pies elevados",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo y apoyá las manos separadas unos 90 cm, sosteniendo el torso con los brazos estirados.",
+      "Apoyá las puntas de los pies sobre un banco plano. Esto eleva el cuerpo. Nota: cuanto más alto el banco, mayor la resistencia del ejercicio.",
+      "Bajá el cuerpo hasta que el pecho casi toque el suelo mientras inhalás.",
+      "Usando los músculos pectorales, empujá el tren superior de vuelta a la posición inicial y apretá el pecho. Exhalá al hacer este paso.",
+      "Tras una pausa de un segundo en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Push-Ups_With_Feet_On_An_Exercise_Ball": {
+    "nombre": "Flexiones con pies en pelota",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo y apoyá las manos separadas unos 90 cm, sosteniendo el torso con los brazos estirados.",
+      "Apoyá las puntas de los pies sobre una pelota de ejercicio. Esto eleva el cuerpo.",
+      "Bajá el cuerpo hasta que el pecho casi toque el suelo mientras inhalás.",
+      "Usando los músculos pectorales, empujá el tren superior de vuelta a la posición inicial y apretá el pecho. Exhalá al hacer este paso.",
+      "Tras una pausa de un segundo en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Push_Press": {
+    "nombre": "Push press",
+    "instrucciones": []
+  },
+  "Push_Press_-_Behind_the_Neck": {
+    "nombre": "Push press tras la nuca",
+    "instrucciones": [
+      "Parado con el peso apoyado en la parte de atrás de los hombros, empezá con la flexión (dip). Con los pies justo debajo de las caderas, flexioná las rodillas sin llevar las caderas hacia atrás. Bajá solo un poco e invertí la dirección con la mayor potencia posible. Empujá con los talones para generar la mayor velocidad y fuerza posibles, moviendo la barra en trayectoria vertical.",
+      "Usando el impulso generado, terminá de presionar el peso por encima de la cabeza extendiendo los brazos.",
+      "Volvé a la posición inicial, usando las piernas para absorber el impacto."
+    ]
+  },
+  "Push_Up_to_Side_Plank": {
+    "nombre": "Flexión a plancha lateral",
+    "instrucciones": [
+      "Ponete en posición de flexión sobre las puntas de los pies con las manos justo por fuera de la anchura de los hombros.",
+      "Hacé una flexión dejando que los codos se flexionen. Al bajar, mantené el cuerpo recto.",
+      "Hacé una flexión y, al subir, desplazá el peso al lado izquierdo del cuerpo, girá hacia el costado llevando el brazo derecho hacia el techo en una plancha lateral.",
+      "Bajá el brazo de vuelta al suelo para otra flexión y después girá al otro lado.",
+      "Repetí la serie, alternando cada lado, por 10 repeticiones o más."
+    ]
+  },
+  "Pushups": {
+    "nombre": "Flexiones",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo y apoyá las manos separadas unos 90 cm, sosteniendo el torso con los brazos estirados.",
+      "Después, bajá el cuerpo hasta que el pecho casi toque el suelo mientras inhalás.",
+      "Ahora exhalá y empujá el tren superior de vuelta a la posición inicial apretando el pecho.",
+      "Tras una breve pausa en la posición contraída de arriba, podés empezar a bajar de nuevo por las repeticiones que necesites."
+    ]
+  },
+  "Pushups_Close_and_Wide_Hand_Positions": {
+    "nombre": "Flexiones (manos juntas y abiertas)",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo con el cuerpo recto, las puntas de los pies en el suelo y las manos más anchas que los hombros para la posición abierta, o más juntas que los hombros para la posición cerrada. Asegurate de sostener el torso con los brazos estirados.",
+      "Bajá el cuerpo hasta que el pecho casi toque el suelo mientras inhalás.",
+      "Usando los músculos pectorales, empujá el tren superior de vuelta a la posición inicial y apretá el pecho. Exhalá al hacer este paso.",
+      "Tras una pausa de un segundo en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Pyramid": {
+    "nombre": "Pirámide",
+    "instrucciones": [
+      "Empezá rodando el torso hacia adelante sobre la pelota para que las caderas queden sobre la pelota y sean el punto más alto de tu cuerpo.",
+      "Apoyá las manos y los pies en el suelo. Los brazos y las piernas pueden quedar apenas flexionados o rectos, según el tamaño de la pelota, tu flexibilidad y el largo de tus extremidades. Esto también ayuda a desarrollar fuerza estabilizadora en el torso y los hombros."
+    ]
+  },
+  "Quad_Stretch": {
+    "nombre": "Estiramiento de cuádriceps",
+    "instrucciones": [
+      "Recostate de costado. Pasá un cinturón, cuerda o banda alrededor del pie de arriba. Flexioná la rodilla y extendé la cadera, tratando de tocar los glúteos con el pie, sosteniendo el cinturón con las manos. Esta es tu posición inicial.",
+      "Con el cinturón sostenido por encima del hombro o sobre la cabeza, tirá suave para aumentar el estiramiento del cuádriceps. Mantené 10-20 segundos y después cambiá de lado."
+    ]
+  },
+  "Quadriceps-SMR": {
+    "nombre": "Cuádriceps (automasaje)",
+    "instrucciones": [
+      "Recostate boca abajo en el suelo con el peso sobre las manos o los antebrazos. Colocá un rodillo de espuma debajo de una pierna, en el cuádriceps, y mantené el pie despegado del suelo. Relajá la pierna lo más posible. Esta es tu posición inicial.",
+      "Cargando todo el peso que puedas tolerar sobre la pierna a estirar, rodá sobre la espuma desde arriba de la rodilla hasta debajo de la cadera, manteniendo 10-30 segundos en los puntos de tensión. Cambiá de lado."
+    ]
+  },
+  "Quick_Leap": {
+    "nombre": "Salto rápido",
+    "instrucciones": [
+      "Vas a necesitar un cajón para este ejercicio.",
+      "Empezá de frente al cajón, parado a unos 30-60 cm de su borde.",
+      "Usando las caderas, saltá sobre el cajón, aterrizando con ambas piernas. Asegurate de aterrizar con las piernas flexionadas y los pies bien apoyados.",
+      "Apenas aterrizás, extendé del todo el cuerpo y balanceá los brazos por encima de la cabeza para explotar hacia arriba desde el cajón. Usá las piernas para absorber el impacto del aterrizaje."
+    ]
+  },
+  "Rack_Delivery": {
+    "nombre": "Entrega al rack",
+    "instrucciones": [
+      "Este ejercicio enseña a llevar la barra a la posición de rack sobre los hombros. Empezá sosteniendo la barra en posición de espantapájaros, con los brazos paralelos al suelo y los antebrazos colgando. Usá un agarre de gancho, con los dedos envolviendo los pulgares.",
+      "Empezá rotando los codos alrededor de la barra, llevándola a los hombros. A medida que los codos vienen hacia adelante, aflojá el agarre. Los hombros deben quedar adelantados, formando una repisa para la barra, que debe rozar apenas la garganta.",
+      "Es importante que la barra quede cerca del cuerpo en todo momento, ya que con más carga cualquier distancia genera un golpe no deseado. A medida que el movimiento se vuelve más fluido, se puede aumentar la velocidad y la carga antes de progresar más."
+    ]
+  },
+  "Rack_Pull_with_Bands": {
+    "nombre": "Rack pull con bandas",
+    "instrucciones": [
+      "Armate en una jaula de potencia con la barra sobre los pines. Los pines deben estar en el punto deseado: justo por debajo de las rodillas, justo por encima o a mitad del muslo. Enganchá bandas a la base de la jaula, o aseguralas con mancuernas. Enganchá el otro extremo a la barra. Puede que necesites acortar las bandas para dar tensión.",
+      "Colocate contra la barra en la posición correcta de peso muerto. Los pies debajo de las caderas, el agarre a la anchura de los hombros, la espalda arqueada y las caderas hacia atrás para activar los isquiotibiales. Como el peso suele ser pesado, podés usar agarre mixto, de gancho o correas para sostenerlo.",
+      "Con la cabeza mirando al frente, extendé caderas y rodillas, tirando del peso hacia arriba y atrás hasta el bloqueo. Asegurate de llevar los hombros hacia atrás al completar el movimiento. Volvé el peso a los pines y repetí."
+    ]
+  }
+}

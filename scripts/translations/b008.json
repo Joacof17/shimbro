@@ -1,0 +1,210 @@
+{
+  "Chest_Stretch_on_Stability_Ball": {
+    "nombre": "Estiramiento de pecho en pelota de estabilidad",
+    "instrucciones": [
+      "Ponete en cuatro apoyos (manos y rodillas) al lado de una pelota de ejercicio.",
+      "Apoyá los codos sobre la pelota, con el brazo hacia el costado. Esta es tu posición inicial.",
+      "Bajá el torso hacia el suelo, manteniendo el codo sobre la pelota. Mantené el estiramiento 20-30 segundos y repetí con el otro brazo."
+    ]
+  },
+  "Childs_Pose": {
+    "nombre": "Postura del niño",
+    "instrucciones": [
+      "Ponete en cuatro apoyos (manos y rodillas) y caminá las manos hacia adelante.",
+      "Bajá los glúteos para sentarte sobre los talones. Dejá que los brazos se deslicen por el suelo mientras te sentás hacia atrás, para estirar toda la columna.",
+      "Una vez sentado sobre los talones, llevá las manos junto a los pies y relajate. Respirá hacia la espalda. Apoyá la frente en el suelo. Evitá esta postura si tenés problemas de rodilla."
+    ]
+  },
+  "Chin-Up": {
+    "nombre": "Dominada supina",
+    "instrucciones": [
+      "Agarrá la barra de dominadas con las palmas hacia el torso y un agarre más cerrado que la anchura de los hombros.",
+      "Con ambos brazos extendidos frente a vos sosteniendo la barra al ancho elegido, mantené el torso lo más recto posible generando una curva en la zona lumbar y sacando el pecho. Esta es tu posición inicial. Consejo: mantener el torso lo más recto posible maximiza el trabajo del bíceps y minimiza el de la espalda.",
+      "Al exhalar, subí el torso hasta que la cabeza quede a la altura de la barra. Concentrate en usar los bíceps para hacer el movimiento. Mantené los codos cerca del cuerpo. Consejo: el tren superior debe quedar quieto mientras se desplaza y solo deben moverse los brazos. Los antebrazos no hacen otro trabajo que sostener la barra.",
+      "Tras un segundo apretando los bíceps en la posición contraída, bajá lentamente el torso a la posición inicial, con los brazos totalmente extendidos. Inhalá durante esta parte del movimiento.",
+      "Repetí este movimiento las repeticiones indicadas."
+    ]
+  },
+  "Chin_To_Chest_Stretch": {
+    "nombre": "Estiramiento de mentón al pecho",
+    "instrucciones": [
+      "Ponete en posición sentada en el suelo.",
+      "Colocá ambas manos detrás de la cabeza, con los dedos entrelazados, los pulgares hacia abajo y los codos apuntando al frente. Llevá lentamente la cabeza hacia el pecho. Mantené 20-30 segundos."
+    ]
+  },
+  "Circus_Bell": {
+    "nombre": "Campana de circo",
+    "instrucciones": [
+      "La campana de circo es una mancuerna gigante con un mango grueso. Empezá con la mancuerna entre los pies y agarrá el mango con ambas manos.",
+      "Cargá la mancuerna extendiendo caderas y rodillas para llevar el implemento al hombro elegido, soltando la mano de más.",
+      "Asegurate de dejar una de las cabezas de la mancuerna por detrás del hombro para no perder el equilibrio. Para subirla por encima de la cabeza, flexioná las rodillas y después impulsate hacia arriba extendiendo la mancuerna sobre la cabeza, inclinándote un poco hacia el lado opuesto al hacerlo.",
+      "Guiá la campana de vuelta al suelo con cuidado, manteniéndola lo más controlada posible. Conviene hacer este ejercicio sobre una colchoneta de goma gruesa para no dañar el suelo."
+    ]
+  },
+  "Clean": {
+    "nombre": "Cargada",
+    "instrucciones": [
+      "Con una barra en el suelo cerca de las espinillas, tomá un agarre prono (o de gancho) justo por fuera de las piernas. Bajá las caderas con el peso sobre los talones, la espalda recta, la cabeza al frente, el pecho en alto y los hombros justo por delante de la barra. Esta es tu posición inicial.",
+      "Empezá el primer tirón empujando con los talones, extendiendo las rodillas. El ángulo de la espalda debe mantenerse igual y los brazos rectos. Movés el peso con control hasta pasar las rodillas.",
+      "Después viene el segundo tirón, la principal fuente de aceleración de la cargada. Cuando la barra llega a mitad del muslo, empezá a extender las caderas. En un movimiento de salto, acelerá extendiendo caderas, rodillas y tobillos, usando la velocidad para subir la barra. No hace falta tirar activamente con los brazos para acelerar el peso; al final del segundo tirón, el cuerpo debe quedar totalmente extendido, inclinado un poco hacia atrás, con los brazos todavía estirados.",
+      "Al lograr la extensión completa, pasá al tercer tirón encogiendo los hombros con fuerza y flexionando los brazos con los codos arriba y afuera. En la máxima extensión, tirate hacia abajo con fuerza, rotando los codos por debajo de la barra. Recibí la barra en posición de sentadilla frontal, cuya profundidad depende de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros adelantados, rozando apenas la garganta, con las manos relajadas. Seguí bajando hasta la sentadilla profunda, lo que ayuda a la recuperación.",
+      "Recuperate de inmediato empujando con los talones, manteniendo el torso erguido y los codos arriba. Seguí hasta quedar de pie."
+    ]
+  },
+  "Clean_Deadlift": {
+    "nombre": "Peso muerto de cargada",
+    "instrucciones": [
+      "Empezá parado con una barra cerca de las espinillas. Los pies justo debajo de las caderas, con las puntas apenas hacia afuera. Agarrá la barra con un agarre prono doble o de gancho, a la anchura de los hombros. Agachate hacia la barra. La columna debe quedar en extensión completa, con un ángulo de espalda que ponga los hombros por delante de la barra y la espalda lo más vertical posible.",
+      "Empezá empujando contra el suelo con la parte delantera de los talones. A medida que la barra sube, mantené constante el ángulo de la espalda. Abrí las rodillas hacia los costados para no obstruir el paso de la barra.",
+      "Cuando la barra pasa las rodillas, terminá el levantamiento llevando las caderas hacia la barra hasta que caderas y rodillas queden extendidas."
+    ]
+  },
+  "Clean_Pull": {
+    "nombre": "Tirón de cargada",
+    "instrucciones": [
+      "Con una barra en el suelo cerca de las espinillas, tomá un agarre prono o de gancho justo por fuera de las piernas. Bajá las caderas con el peso sobre los talones, la espalda recta, la cabeza al frente, el pecho en alto y los hombros justo por delante de la barra. Esta es tu posición inicial.",
+      "Empezá el primer tirón empujando con los talones, extendiendo las rodillas. El ángulo de la espalda debe mantenerse igual y los brazos rectos con los codos hacia afuera. Movés el peso con control hasta pasar las rodillas.",
+      "Después viene el segundo tirón, la principal fuente de aceleración de la cargada. Cuando la barra llega a mitad del muslo, empezá a extender las caderas. En un movimiento de salto, acelerá extendiendo caderas, rodillas y tobillos, usando la velocidad para subir la barra. No hace falta tirar activamente con los brazos para acelerar el peso; al final del segundo tirón, el cuerpo debe quedar totalmente extendido, inclinado un poco hacia atrás, con los brazos todavía estirados. La extensión completa debe ser violenta y abrupta; no la prolongues más de lo necesario."
+    ]
+  },
+  "Clean_Shrug": {
+    "nombre": "Encogimiento de cargada",
+    "instrucciones": [
+      "Empezá con un agarre a la anchura de los hombros, prono doble o de gancho, con la barra colgando a mitad del muslo. La espalda recta e inclinada un poco hacia adelante.",
+      "Encogé los hombros hacia las orejas. Aunque este ejercicio suele cargarse con más peso que una cargada, evitá sobrecargarlo al punto de que la ejecución se vuelva lenta."
+    ]
+  },
+  "Clean_and_Jerk": {
+    "nombre": "Cargada y envión",
+    "instrucciones": [
+      "Con una barra en el suelo cerca de las espinillas, tomá un agarre prono o de gancho justo por fuera de las piernas. Bajá las caderas con el peso sobre los talones, la espalda recta, la cabeza al frente, el pecho en alto y los hombros justo por delante de la barra. Esta es tu posición inicial.",
+      "Empezá el primer tirón empujando con los talones, extendiendo las rodillas. El ángulo de la espalda debe mantenerse igual y los brazos rectos. Movés el peso con control hasta pasar las rodillas.",
+      "Después viene el segundo tirón, la principal fuente de aceleración de la cargada. Cuando la barra llega a mitad del muslo, empezá a extender las caderas. En un movimiento de salto, acelerá extendiendo caderas, rodillas y tobillos, usando la velocidad para subir la barra. No hace falta tirar activamente con los brazos; al final del segundo tirón, el cuerpo debe quedar totalmente extendido, inclinado un poco hacia atrás, con los brazos todavía estirados.",
+      "Al lograr la extensión completa, pasá al tercer tirón encogiendo los hombros con fuerza y flexionando los brazos con los codos arriba y afuera. En la máxima extensión, tirate hacia abajo con fuerza, rotando los codos por debajo de la barra. Recibí la barra en posición de sentadilla frontal, cuya profundidad depende de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros adelantados, rozando apenas la garganta, con las manos relajadas. Seguí bajando hasta la sentadilla profunda, lo que ayuda a la recuperación.",
+      "Recuperate de inmediato empujando con los talones, manteniendo el torso erguido y los codos arriba. Seguí hasta quedar de pie.",
+      "La segunda fase es el envión, que lleva el peso por encima de la cabeza. Parado con el peso apoyado en el frente de los hombros, empezá con la flexión (dip). Con los pies justo debajo de las caderas, flexioná las rodillas sin llevar las caderas hacia atrás. Bajá solo un poco e invertí la dirección con la mayor potencia posible.",
+      "Empujá con los talones para generar la mayor velocidad y fuerza posibles, y asegurate de mover la cabeza fuera del camino cuando la barra sale de los hombros.",
+      "En ese momento, cuando los pies dejan el suelo, hay que colocarlos en la posición de recepción lo más rápido posible. En ese breve instante en que los pies no empujan contra la plataforma, el esfuerzo por empujar la barra hacia arriba te lleva hacia abajo. Los pies deben quedar separados, uno adelante y otro atrás. Recibí la barra con los brazos bloqueados por encima de la cabeza. Volvé a la posición de pie."
+    ]
+  },
+  "Clean_and_Press": {
+    "nombre": "Cargada y press",
+    "instrucciones": [
+      "Adoptá una postura a la anchura de los hombros, con las rodillas por dentro de los brazos. Manteniendo la espalda plana, flexioná rodillas y caderas para agarrar la barra con los brazos totalmente extendidos y un agarre prono un poco más ancho que los hombros. Apuntá los codos hacia los costados. La barra debe quedar cerca de las espinillas. Colocá los hombros sobre la barra o un poco por delante. Establecé una postura de espalda plana. Esta es tu posición inicial.",
+      "Empezá a tirar de la barra extendiendo las rodillas. Llevá las caderas hacia adelante y subí los hombros al mismo ritmo, manteniendo constante el ángulo de la espalda; seguí subiendo la barra recta, cerca del cuerpo.",
+      "Cuando la barra pasa la rodilla, extendé tobillos, rodillas y caderas con fuerza, como en un salto. Al hacerlo, seguí guiando la barra con las manos, encogiendo los hombros y usando el impulso para subir la barra lo más alto posible. La barra debe viajar cerca del cuerpo y los codos quedar hacia afuera.",
+      "En la máxima elevación, los pies deben despegar del suelo y tenés que empezar a meterte debajo de la barra. La mecánica puede variar un poco según el peso. Descendé a una posición de sentadilla al meterte debajo de la barra.",
+      "Cuando la barra llega a su altura máxima, rotá los codos alrededor y por debajo de la barra. Apoyá la barra sobre el frente de los hombros manteniendo el torso erguido y flexionando caderas y rodillas para absorber el peso.",
+      "Parate por completo, sosteniendo la barra en la posición de cargada.",
+      "Sin mover los pies, presioná la barra por encima de la cabeza mientras exhalás. Bajá la barra con control."
+    ]
+  },
+  "Clean_from_Blocks": {
+    "nombre": "Cargada desde bloques",
+    "instrucciones": [
+      "Con una barra sobre cajones o soportes de la altura deseada, tomá un agarre prono o de gancho justo por fuera de las piernas. Bajá las caderas con el peso sobre los talones, la espalda recta, la cabeza al frente, el pecho en alto y los hombros justo por delante de la barra. Esta es tu posición inicial.",
+      "Empezá el primer tirón empujando con los talones, extendiendo las rodillas. El ángulo de la espalda debe mantenerse igual y los brazos rectos con los codos hacia afuera.",
+      "Al lograr la extensión completa, pasá a la posición de recepción encogiendo los hombros con fuerza y flexionando los brazos con los codos arriba y afuera. Tirate hacia abajo con fuerza, rotando los codos por debajo de la barra. Recibí la barra en posición de sentadilla frontal, cuya profundidad depende de la altura de la barra al final del tercer tirón. La barra debe apoyarse sobre los hombros adelantados, rozando apenas la garganta, con las manos relajadas. Seguí bajando hasta la sentadilla profunda, lo que ayuda a la recuperación.",
+      "Recuperate de inmediato empujando con los talones, manteniendo el torso erguido y los codos arriba. Seguí hasta quedar de pie. Devolvé el peso a los cajones para la próxima repetición."
+    ]
+  },
+  "Clock_Push-Up": {
+    "nombre": "Flexión del reloj",
+    "instrucciones": [
+      "Ponete en posición boca abajo en el suelo, sosteniendo el peso sobre las manos y las puntas de los pies.",
+      "Los brazos deben quedar totalmente extendidos con las manos a la anchura de los hombros. Mantené el cuerpo recto durante todo el movimiento. Esta es tu posición inicial.",
+      "Bajá flexionando los codos, llevando el pecho hacia el suelo.",
+      "Abajo, invertí el movimiento empujándote hacia arriba con la extensión de los codos lo más rápido posible hasta despegar del suelo. Tratá de saltar unos 30-45 cm hacia un lado.",
+      "Al acelerar hacia arriba, llevá el pie externo lejos de la dirección de desplazamiento. Al despegar, desplazá el cuerpo unos 30 grados para la próxima repetición.",
+      "Volvé a la posición inicial y repetí el ejercicio, girando en círculo completo hasta volver al punto de partida."
+    ]
+  },
+  "Close-Grip_Barbell_Bench_Press": {
+    "nombre": "Press de banca con barra, agarre cerrado",
+    "instrucciones": [
+      "Recostate en un banco plano. Con un agarre cerrado (más o menos a la anchura de los hombros), sacá la barra del soporte y sostenela recta por encima tuyo con los brazos extendidos. Esta es tu posición inicial.",
+      "Mientras inhalás, bajá lentamente hasta sentir la barra en la mitad del pecho. Consejo: a diferencia de un press de banca normal, mantené los codos cerca del torso en todo momento para maximizar el trabajo del tríceps.",
+      "Tras una pausa de un segundo, llevá la barra de vuelta a la posición inicial mientras exhalás, empujando con los tríceps. Estirá los brazos en la posición contraída, mantené un segundo y empezá a bajar de nuevo lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Cuando termines, volvé a dejar la barra en el soporte."
+    ]
+  },
+  "Close-Grip_Dumbbell_Press": {
+    "nombre": "Press con mancuerna, agarre cerrado",
+    "instrucciones": [
+      "Colocá una mancuerna parada sobre un banco plano.",
+      "Asegurándote de que la mancuerna quede firme en el borde del banco, recostate perpendicular al banco apoyando solo los hombros sobre la superficie. Las caderas por debajo del banco y las piernas flexionadas con los pies bien apoyados en el suelo.",
+      "Agarrá la mancuerna con ambas manos y sostenela recta por encima del pecho con los brazos extendidos. Ambas palmas deben empujar contra la cara interna de los lados de la mancuerna. Esta es tu posición inicial.",
+      "Iniciá el movimiento bajando la mancuerna hacia el pecho.",
+      "Volvé a la posición inicial extendiendo los codos."
+    ]
+  },
+  "Close-Grip_EZ-Bar_Curl_with_Band": {
+    "nombre": "Curl con barra Z, agarre cerrado y banda",
+    "instrucciones": [
+      "Enganchá una banda a cada extremo de la barra. Tomá la barra pisando el medio de la banda con un pie. Parate erguido con un agarre cerrado y supino en la barra Z. Los codos cerca del torso. Esta es tu posición inicial.",
+      "Manteniendo los brazos en su lugar, flexioná los codos para hacer el curl. Exhalá al subir el peso.",
+      "Seguí el movimiento hasta que los bíceps queden totalmente contraídos y la barra a la altura de los hombros. Mantené la posición contraída un segundo y apretá fuerte los bíceps.",
+      "Empezá a bajar la barra lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Close-Grip_EZ-Bar_Press": {
+    "nombre": "Press con barra Z, agarre cerrado",
+    "instrucciones": [
+      "Recostate en un banco plano con una barra Z cargada a un peso adecuado.",
+      "Con un agarre cerrado, levantá la barra y sostenela recta por encima del torso con los codos pegados. Los brazos deben quedar perpendiculares al suelo. Esta es tu posición inicial.",
+      "Ahora bajá la barra hacia la parte baja del pecho mientras inhalás. Mantené los codos pegados al hacer el movimiento.",
+      "Usando los tríceps para empujar la barra de nuevo hacia arriba, volvé a la posición inicial extendiendo los codos mientras exhalás.",
+      "Repetí."
+    ]
+  },
+  "Close-Grip_EZ_Bar_Curl": {
+    "nombre": "Curl con barra Z, agarre cerrado",
+    "instrucciones": [
+      "Parate con el torso erguido sosteniendo una barra Z por las manijas internas más cercanas. Las palmas hacia adelante, apenas inclinadas hacia adentro por la forma de la barra. Los codos cerca del torso. Esta es tu posición inicial.",
+      "Manteniendo los brazos quietos, flexioná el peso hacia arriba contrayendo los bíceps mientras exhalás. Consejo: solo deberían moverse los antebrazos.",
+      "Seguí el movimiento hasta que los bíceps queden totalmente contraídos y la barra a la altura de los hombros. Mantené la posición contraída un segundo y apretá fuerte los bíceps.",
+      "Empezá a bajar la barra lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Close-Grip_Front_Lat_Pulldown": {
+    "nombre": "Jalón al pecho con agarre cerrado",
+    "instrucciones": [
+      "Sentate en una máquina de jalón con una barra ancha enganchada a la polea de arriba. Ajustá la almohadilla de las rodillas a tu altura. Esa almohadilla evita que el cuerpo se levante por la resistencia de la barra.",
+      "Agarrá la barra con las palmas hacia adelante usando el agarre indicado. Nota sobre agarres: para agarre ancho, las manos van más separadas que los hombros; para agarre medio, a la anchura de los hombros; y para agarre cerrado, más juntas que los hombros.",
+      "Con ambos brazos extendidos frente a vos, sosteniendo la barra al ancho elegido, llevá el torso hacia atrás unos 30 grados generando una curva en la zona lumbar y sacando el pecho. Esta es tu posición inicial.",
+      "Al exhalar, bajá la barra hasta que toque la parte alta del pecho, llevando los hombros y los brazos hacia abajo y atrás. Consejo: concentrate en apretar los músculos de la espalda al llegar a la contracción completa. El tren superior debe quedar quieto (solo se mueven los brazos). Los antebrazos solo sostienen la barra; no intentes bajarla usando los antebrazos.",
+      "Tras un segundo en la posición contraída, juntando los omóplatos, subí lentamente la barra a la posición inicial hasta que los brazos queden totalmente extendidos y los dorsales estirados. Inhalá durante esta parte del movimiento.",
+      "Repetí este movimiento las repeticiones indicadas."
+    ]
+  },
+  "Close-Grip_Push-Up_off_of_a_Dumbbell": {
+    "nombre": "Flexión con agarre cerrado sobre una mancuerna",
+    "instrucciones": [
+      "Recostate en el suelo y apoyá las manos sobre una mancuerna parada. Sosteniendo el peso sobre las puntas de los pies y las manos, mantené el torso rígido y los codos pegados, con los brazos rectos. Esta es tu posición inicial.",
+      "Bajá el cuerpo dejando que los codos se flexionen mientras inhalás. Mantené el cuerpo recto, sin dejar que las caderas suban ni se hundan.",
+      "Empujate de nuevo hacia arriba a la posición inicial extendiendo los codos. Exhalá al hacer este paso.",
+      "Tras una pausa en la posición contraída, repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Close-Grip_Standing_Barbell_Curl": {
+    "nombre": "Curl de pie con barra, agarre cerrado",
+    "instrucciones": [
+      "Sostené una barra con ambas manos, palmas hacia arriba y separadas unos centímetros.",
+      "Parate con el torso recto y la cabeza en alto. Los pies a la anchura de los hombros y los codos cerca del torso. Esta es tu posición inicial. Consejo: mantené los brazos y los codos quietos durante todo el movimiento.",
+      "Flexioná la barra hacia arriba en un movimiento semicircular hasta que los antebrazos toquen los bíceps. Exhalá durante esta parte del movimiento y contraé fuerte los bíceps un segundo arriba. Consejo: evitá inclinar la espalda o balancearte al subir el peso. Solo deben moverse los antebrazos.",
+      "Volvé lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Cocoons": {
+    "nombre": "Capullos (cocoons)",
+    "instrucciones": [
+      "Empezá recostado boca arriba en el suelo. Las piernas estiradas y los brazos extendidos por detrás de la cabeza. Esta es tu posición inicial.",
+      "Para hacer el movimiento, llevá las rodillas hacia el pecho, rotando la pelvis para despegar los glúteos del suelo. Al hacerlo, flexioná la columna, llevando los brazos por encima de la cabeza para hacer un crunch simultáneo.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  }
+}

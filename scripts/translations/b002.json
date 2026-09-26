@@ -1,0 +1,196 @@
+{
+  "Anterior_Tibialis-SMR": {
+    "nombre": "Tibial anterior (automasaje)",
+    "instrucciones": [
+      "Empezá sentado en el suelo con las piernas flexionadas y los pies apoyados.",
+      "Con un rodillo muscular o un palo de amasar, aplicá presión sobre los músculos de la parte externa de las espinillas. Trabajá desde justo debajo de la rodilla hasta arriba del tobillo, deteniéndote en los puntos de tensión 10-30 segundos. Repetí con la otra pierna."
+    ]
+  },
+  "Anti-Gravity_Press": {
+    "nombre": "Press antigravedad",
+    "instrucciones": [
+      "Colocá una barra en el suelo, detrás de la cabecera de un banco inclinado.",
+      "Recostate boca abajo en el banco. Con un agarre prono, levantá la barra del suelo. Flexioná los codos, haciendo un curl inverso para acercar la barra al pecho. Esta es tu posición inicial.",
+      "Para empezar, empujá la barra hacia adelante, frente a la cabeza, extendiendo los codos. Mantené los brazos paralelos al suelo durante todo el movimiento.",
+      "Volvé a la posición inicial y repetí para completar la serie."
+    ]
+  },
+  "Arm_Circles": {
+    "nombre": "Círculos de brazos",
+    "instrucciones": [
+      "Parate y extendé los brazos estirados hacia los costados. Los brazos deben quedar paralelos al suelo y perpendiculares (ángulo de 90 grados) al torso. Esta es tu posición inicial.",
+      "Empezá lentamente a hacer círculos de unos 30 cm de diámetro con cada brazo extendido. Respirá normalmente durante el movimiento.",
+      "Seguí el movimiento circular de los brazos extendidos por unos diez segundos. Después invertí el movimiento, yendo en la dirección opuesta."
+    ]
+  },
+  "Arnold_Dumbbell_Press": {
+    "nombre": "Press Arnold con mancuernas",
+    "instrucciones": [
+      "Sentate en un banco con respaldo y sostené dos mancuernas frente a vos, más o menos a la altura del pecho alto, con las palmas mirando hacia el cuerpo y los codos flexionados. Consejo: los brazos deben estar pegados al torso. La posición inicial se parece a la parte contraída de un curl con mancuernas.",
+      "Para hacer el movimiento, elevá las mancuernas mientras girás las palmas hasta que queden mirando hacia adelante.",
+      "Seguí subiendo las mancuernas hasta que los brazos queden extendidos arriba, estirados. Exhalá durante esta parte del movimiento.",
+      "Tras una pausa de un segundo arriba, empezá a bajar las mancuernas a la posición original girando las palmas hacia vos. Consejo: el brazo izquierdo gira en sentido antihorario y el derecho en sentido horario. Inhalá durante esta parte del movimiento.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Around_The_Worlds": {
+    "nombre": "Vueltas al mundo con mancuernas",
+    "instrucciones": [
+      "Recostate en un banco plano sosteniendo una mancuerna en cada mano con las palmas hacia el techo. Consejo: los brazos deben estar paralelos al suelo y al lado de los muslos. Para evitar lesiones, mantené los codos apenas flexionados. Esta es tu posición inicial.",
+      "Ahora mové las mancuernas trazando un semicírculo, llevándolas desde la posición inicial hasta por encima de la cabeza. Todo el movimiento debe hacerse con los brazos siempre paralelos al suelo. Inhalá durante esta parte del movimiento.",
+      "Invertí el movimiento para volver el peso a la posición inicial mientras exhalás."
+    ]
+  },
+  "Atlas_Stone_Trainer": {
+    "nombre": "Simulador de Atlas Stone",
+    "instrucciones": [
+      "Este simulador sirve para desarrollar fuerza de Atlas Stone cuando no tenés acceso a las piedras; suele armarse con extremos de barra o un caño pesado.",
+      "Empezá cargando el peso deseado en la barra. Colocate a horcajadas sobre el peso, rodeá el implemento con los brazos y flexioná las caderas.",
+      "Empezá tirando del peso hacia arriba pasando las rodillas, extendiendo las caderas. Cuando el peso pasa las rodillas, podés apoyarlo sobre los muslos y sentarte hacia atrás, abrazándolo fuerte contra el pecho.",
+      "Terminá el movimiento extendiendo caderas y rodillas para elevar el peso lo más alto posible. Podés volver el peso a los muslos o al suelo para las repeticiones siguientes."
+    ]
+  },
+  "Atlas_Stones": {
+    "nombre": "Atlas Stones",
+    "instrucciones": [
+      "Empezá con la Atlas Stone entre los pies. Flexioná las caderas para rodear la piedra verticalmente con los brazos, tratando de meter los dedos por debajo. Muchas piedras tienen una pequeña parte plana abajo, que las hace más fáciles de sostener.",
+      "Llevando la piedra hacia el torso, empujá con la parte trasera de los pies para levantarla del suelo.",
+      "Cuando la piedra pasa las rodillas, apoyala sentándote hacia atrás y llevándola sobre los muslos.",
+      "Agachate bien, subí la piedra bien alto sobre el pecho mientras cambiás el agarre para pasar por encima de ella. Parate empujando con las caderas. Acortá la distancia a la plataforma de carga e inclinate hacia atrás, extendiendo las caderas para llevar la piedra lo más alto posible."
+    ]
+  },
+  "Axle_Deadlift": {
+    "nombre": "Peso muerto con barra axle",
+    "instrucciones": [
+      "Acercate a la barra de modo que quede centrada sobre los pies, separados a la anchura de las caderas. Flexioná las caderas para agarrar la barra a la anchura de los hombros, dejando que los omóplatos se separen. Normalmente se usa un agarre mixto (una mano prona y otra supina).",
+      "Con los pies y el agarre listos, tomá aire, bajá las caderas y flexioná las rodillas hasta que las espinillas toquen la barra. Mirá al frente, mantené el pecho en alto y la espalda arqueada, y empezá a empujar con los talones para subir el peso.",
+      "Cuando la barra pasa las rodillas, tirala con fuerza hacia atrás, juntando los omóplatos mientras llevás las caderas hacia adelante contra la barra.",
+      "Bajá la barra flexionando las caderas y guiándola hacia el suelo."
+    ]
+  },
+  "Back_Flyes_-_With_Bands": {
+    "nombre": "Aperturas de espalda con bandas",
+    "instrucciones": [
+      "Pasá una banda alrededor de un poste fijo, como el de una jaula de sentadillas.",
+      "Agarrá la banda por las manijas y alejate para que aumente la tensión.",
+      "Extendé y elevá los brazos estirados frente a vos. Consejo: los brazos deben estar rectos y paralelos al suelo, perpendiculares al torso. Los pies bien apoyados en el suelo, separados a la anchura de los hombros. Esta es tu posición inicial.",
+      "Al exhalar, llevá los brazos hacia los costados y atrás. Mantené los brazos extendidos y paralelos al suelo. Seguí hasta que los brazos queden extendidos a los costados.",
+      "Tras una pausa, volvé a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Backward_Drag": {
+    "nombre": "Arrastre de trineo hacia atrás",
+    "instrucciones": [
+      "Cargá un trineo con el peso deseado y engancharle una cuerda o correas de las que puedas agarrarte.",
+      "Empezá el ejercicio desplazándote hacia atrás una distancia determinada. Inclinándote hacia atrás, extendé las piernas con pasos cortos para moverte lo más rápido posible."
+    ]
+  },
+  "Backward_Medicine_Ball_Throw": {
+    "nombre": "Lanzamiento de balón medicinal hacia atrás",
+    "instrucciones": [
+      "Este ejercicio se hace mejor con un compañero. Si no tenés compañero, podés lanzar el balón y recuperarlo, o lanzarlo contra una pared.",
+      "Empezá parado unos metros delante de tu compañero, ambos mirando en la misma dirección. Empezá sosteniendo el balón entre las piernas.",
+      "Agachate en sentadilla y después invertí la dirección con fuerza, llegando a la extensión completa mientras lanzás el balón por encima de la cabeza hacia tu compañero.",
+      "Tu compañero te devuelve el balón rodando. Repetí las repeticiones deseadas."
+    ]
+  },
+  "Balance_Board": {
+    "nombre": "Tabla de equilibrio",
+    "instrucciones": [
+      "Colocá una tabla de equilibrio frente a vos.",
+      "Subite a ella y tratá de mantener el equilibrio.",
+      "Sostené el equilibrio todo el tiempo que quieras."
+    ]
+  },
+  "Ball_Leg_Curl": {
+    "nombre": "Curl femoral con pelota",
+    "instrucciones": [
+      "Empezá recostado boca arriba en el suelo con los pies apoyados sobre la pelota.",
+      "Acomodá la pelota de modo que, con las piernas extendidas, los tobillos queden arriba de la pelota. Esta es tu posición inicial.",
+      "Elevá las caderas del suelo, manteniendo el peso sobre los omóplatos y los pies.",
+      "Flexioná las rodillas, llevando la pelota lo más cerca posible, contrayendo los isquiotibiales.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  },
+  "Band_Assisted_Pull-Up": {
+    "nombre": "Dominada asistida con banda",
+    "instrucciones": [
+      "Enrollá la banda alrededor del centro de la barra de dominadas. Podés usar distintas bandas para variar el nivel de asistencia.",
+      "Tirá del extremo de la banda hacia abajo y apoyá una rodilla flexionada en el bucle, asegurándote de que no se escape. Tomá la barra con un agarre medio a abierto. Esta es tu posición inicial.",
+      "Elevate contrayendo los dorsales mientras flexionás el codo. El codo debe ir hacia tu costado. Tirá hacia adelante, tratando de pasar el mentón por encima de la barra. Evitá balancearte o hacer tirones.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  },
+  "Band_Good_Morning": {
+    "nombre": "Buen día con banda",
+    "instrucciones": [
+      "Usando una banda de unos 105 cm, parate sobre un extremo con los pies apenas separados. Flexioná las caderas para pasar el otro extremo de la banda por detrás del cuello. Esta es tu posición inicial.",
+      "Manteniendo las piernas rectas, extendé las caderas hasta quedar casi vertical.",
+      "Asegurate de no redondear la espalda al volver a bajar a la posición inicial."
+    ]
+  },
+  "Band_Good_Morning_Pull_Through": {
+    "nombre": "Buen día con banda (pull through)",
+    "instrucciones": [
+      "Pasá la banda alrededor de un poste. Parado a cierta distancia, pasá el otro extremo por detrás del cuello. Las manos pueden ayudarte a sostener la banda en su lugar.",
+      "Empezá flexionando las caderas, llevando los glúteos hacia atrás lo más posible. Mantené la espalda plana e inclinate hacia adelante hasta unos 90 grados. Las rodillas deben quedar apenas flexionadas.",
+      "Volvé a la posición inicial empujando con las caderas hasta quedar de pie."
+    ]
+  },
+  "Band_Hip_Adductions": {
+    "nombre": "Aducciones de cadera con banda",
+    "instrucciones": [
+      "Anclá una banda alrededor de un poste firme u otro objeto.",
+      "Parate con el lado izquierdo hacia el poste y pasá el pie derecho por la banda, quedando alrededor del tobillo.",
+      "Parate derecho y agarrate del poste si hace falta. Esta es tu posición inicial.",
+      "Manteniendo la rodilla recta, elevá la pierna derecha hacia el costado todo lo que puedas.",
+      "Volvé a la posición inicial y repetí la cantidad de repeticiones deseada.",
+      "Cambiá de lado."
+    ]
+  },
+  "Band_Pull_Apart": {
+    "nombre": "Apertura con banda",
+    "instrucciones": [
+      "Empezá con los brazos extendidos rectos frente a vos, sosteniendo la banda con ambas manos.",
+      "Iniciá el movimiento con una apertura inversa, llevando las manos hacia los costados.",
+      "Mantené los codos extendidos mientras hacés el movimiento, llevando la banda hacia el pecho. Asegurate de mantener los hombros hacia atrás durante el ejercicio.",
+      "Hacé una pausa al completar el movimiento y volvé a la posición inicial de forma controlada."
+    ]
+  },
+  "Band_Skull_Crusher": {
+    "nombre": "Press francés con banda",
+    "instrucciones": [
+      "Fijá una banda a la base de una jaula o del banco. Recostate en el banco de modo que la banda quede alineada con tu cabeza.",
+      "Agarrá la banda y elevá los codos para que el brazo quede perpendicular al suelo. Con el codo flexionado, la banda debe quedar por encima de tu cabeza. Esta es tu posición inicial.",
+      "Extendé el codo para estirar el brazo, manteniendo el brazo en su lugar. Hacé una pausa arriba y volvé a la posición inicial."
+    ]
+  },
+  "Barbell_Ab_Rollout": {
+    "nombre": "Rollout abdominal con barra",
+    "instrucciones": [
+      "Para este ejercicio ponete en posición de flexión, pero en vez de tener las manos en el suelo, vas a agarrar una barra olímpica (cargada con 2-5 kg por lado). Esta es tu posición inicial.",
+      "Manteniendo una ligera curva en la espalda, elevá las caderas y rodá la barra hacia los pies mientras exhalás. Consejo: al hacer el movimiento, los glúteos deben subir, mantené los abdominales firmes y conservá la postura de la espalda en todo momento. Además, los brazos deben quedar perpendiculares al suelo durante todo el movimiento; si no, vas a trabajar más los hombros y la espalda que los abdominales.",
+      "Tras una contracción de un segundo arriba, empezá a rodar la barra de nuevo hacia adelante, a la posición inicial, lentamente mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Barbell_Ab_Rollout_-_On_Knees": {
+    "nombre": "Rollout abdominal con barra, de rodillas",
+    "instrucciones": [
+      "Sostené una barra olímpica cargada con 2-5 kg por lado y arrodillate en el suelo.",
+      "Apoyá la barra en el suelo frente a vos, quedando sobre las manos y las rodillas (como en una flexión de rodillas). Esta es tu posición inicial.",
+      "Rodá la barra lentamente hacia adelante, estirando el cuerpo hasta quedar en una posición recta. Consejo: bajá todo lo que puedas sin tocar el suelo con el cuerpo. Inhalá durante esta parte del movimiento.",
+      "Tras una pausa en la posición estirada, empezá a traccionar para volver a la posición inicial mientras exhalás. Consejo: hacelo despacio y mantené los abdominales firmes en todo momento."
+    ]
+  },
+  "Barbell_Curls_Lying_Against_An_Incline": {
+    "nombre": "Curl con barra recostado en banco inclinado",
+    "instrucciones": [
+      "Recostate contra un banco inclinado, con los brazos sosteniendo una barra y colgando en línea horizontal. Esta es tu posición inicial.",
+      "Manteniendo los brazos quietos, flexioná el peso hacia arriba todo lo que puedas apretando los bíceps. Exhalá durante esta parte del movimiento. Consejo: solo deberían moverse los antebrazos. No balancees los brazos.",
+      "Tras una contracción de un segundo, volvé lentamente a la posición inicial mientras inhalás. Consejo: asegurate de bajar del todo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "Body_Tricep_Press": {
+    "nombre": "Press de tríceps con el cuerpo",
+    "instrucciones": [
+      "Colocá una barra en una jaula a la altura del pecho.",
+      "De pie, tomá la barra con un agarre a la anchura de los hombros y dá uno o dos pasos hacia atrás, con los pies juntos y los brazos extendidos, de modo que quedes inclinado apoyándote en la barra. Esta es tu posición inicial.",
+      "Empezá flexionando los codos, bajando el cuerpo hacia la barra.",
+      "Hacé una pausa y después invertí el movimiento extendiendo los codos.",
+      "Cuando el peso corporal ya no alcance, sumá cadenas sobre los hombros."
+    ]
+  },
+  "Bodyweight_Flyes": {
+    "nombre": "Aperturas con peso corporal",
+    "instrucciones": [
+      "Colocá dos barras Z igualmente cargadas en el suelo, una al lado de la otra. Asegurate de que puedan rodar.",
+      "Ponete en posición de flexión sobre las barras, sosteniendo el peso sobre las puntas de los pies y las manos, con los brazos extendidos y el cuerpo recto.",
+      "Apoyá las manos sobre las barras. Esta es tu posición inicial.",
+      "Con un movimiento lento y controlado, alejá las manos de la línea media del cuerpo, separando las barras al rodarlas. Inhalá durante esta parte del movimiento.",
+      "Después de separar las barras todo lo que puedas, volvé a la posición inicial juntándolas de nuevo. Exhalá al hacer este movimiento."
+    ]
+  },
+  "Bodyweight_Mid_Row": {
+    "nombre": "Remo medio con peso corporal",
+    "instrucciones": [
+      "Empezá tomando un agarre medio a ancho en una barra de dominadas con las palmas hacia adelante. Desde una posición colgante, llevá las rodillas al pecho, inclinándote hacia atrás y pasando las piernas por encima de tu lado de la barra. Esta es tu posición inicial.",
+      "Empezando con los brazos estirados, flexioná los codos y retraé los omóplatos para subir el cuerpo hasta que las piernas toquen la barra.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  },
+  "Bodyweight_Squat": {
+    "nombre": "Sentadilla con peso corporal",
+    "instrucciones": [
+      "Parate con los pies a la anchura de los hombros. Podés colocar las manos detrás de la cabeza. Esta es tu posición inicial.",
+      "Empezá el movimiento flexionando rodillas y caderas, llevando las caderas hacia atrás.",
+      "Bajá hasta la máxima profundidad que puedas y revertí rápido el movimiento hasta volver a la posición inicial. Al hacer la sentadilla, mantené la cabeza y el pecho en alto y empujá las rodillas hacia afuera."
+    ]
+  },
+  "Bodyweight_Walking_Lunge": {
+    "nombre": "Zancada caminando con peso corporal",
+    "instrucciones": [
+      "Empezá parado con los pies a la anchura de los hombros y las manos en las caderas.",
+      "Dá un paso adelante con una pierna, flexionando las rodillas para bajar las caderas. Bajá hasta que la rodilla de atrás casi toque el suelo. La postura debe quedar erguida y la rodilla de adelante por encima del pie de adelante.",
+      "Empujá con el talón del pie de adelante y extendé ambas rodillas para volver a subir.",
+      "Dá un paso adelante con el pie de atrás, repitiendo la zancada con la otra pierna."
+    ]
+  },
+  "Bosu_Ball_Cable_Crunch_With_Side_Bends": {
+    "nombre": "Crunch en polea sobre Bosu con flexiones laterales",
+    "instrucciones": [
+      "Conectá una manija estándar a cada brazo de una máquina de poleas y ponelas en la posición más baja.",
+      "Agarrá un balón Bosu y ubicalo al frente y en el centro de la máquina de poleas.",
+      "Recostate sobre el Bosu con la zona lumbar arqueada alrededor del balón. La cola debe quedar cerca del suelo sin tocarlo.",
+      "Con ambas manos, estirate hacia atrás y agarrá la manija de cada polea.",
+      "Con los pies en una postura amplia, extendé los brazos rectos hacia adelante, entre las rodillas. Las manos deben quedar a la altura de las rodillas.",
+      "Mantené los brazos rectos y alineados con el ángulo ascendente de la polea. Elevá el torso en un movimiento de crunch sin bajar ni flexionar los brazos.",
+      "Mantené la posición rígida de los brazos. Descendé lentamente a la posición inicial, con la espalda arqueada sobre el Bosu y los abdominales estirados.",
+      "Repetí la misma serie de movimientos hasta el fallo.",
+      "Cuando llegues al fallo, mantené los abdominales firmes y elevá el torso a posición de plancha, despegando la espalda del Bosu.",
+      "Bajá los brazos a los costados, mantenelos rectos. Empezá a hacer flexiones laterales alternadas, ¡estirate hacia los talones! Este movimiento final se enfoca en los oblicuos."
+    ]
+  },
+  "Bottoms-Up_Clean_From_The_Hang_Position": {
+    "nombre": "Cargada bottoms-up desde posición colgante",
+    "instrucciones": [
+      "Empezá el ejercicio parado y erguido con una pesa rusa en una mano.",
+      "Balanceá la pesa hacia atrás con fuerza y después invertí el movimiento con fuerza. Apretá la manija de la pesa lo más fuerte posible y elevala hasta el hombro."
+    ]
+  },
+  "Bottoms_Up": {
+    "nombre": "Bottoms up",
+    "instrucciones": [
+      "Empezá recostado boca arriba en el suelo. Las piernas deben estar estiradas y los brazos a los costados. Esta es tu posición inicial.",
+      "Para hacer el movimiento, llevá las rodillas hacia el pecho flexionando caderas y rodillas. Después, extendé las piernas directamente hacia arriba, perpendiculares al suelo. Rotá y elevá la pelvis para despegar los glúteos del suelo.",
+      "Tras una breve pausa, volvé a la posición inicial."
+    ]
+  },
+  "Box_Jump_Multiple_Response": {
+    "nombre": "Salto al cajón (respuesta múltiple)",
+    "instrucciones": [
+      "Adoptá una postura relajada frente al cajón o plataforma, a más o menos un largo de brazo. Los brazos abajo a los costados y las piernas apenas flexionadas.",
+      "Usando los brazos para el impulso inicial, saltá hacia arriba y adelante, aterrizando con ambos pies a la vez arriba del cajón o plataforma.",
+      "De inmediato bajá o saltá de vuelta al lugar de partida; después repetí la secuencia."
+    ]
+  },
+  "Box_Skip": {
+    "nombre": "Skip entre cajones",
+    "instrucciones": [
+      "Necesitás varios cajones alineados a unos 2,5 metros de distancia entre sí.",
+      "Empezá frente al primer cajón con una pierna un poco por detrás de la otra.",
+      "Empujá con la pierna de atrás, tratando de ganar la mayor altura posible con las caderas.",
+      "Apenas aterrizás en el cajón, impulsá la otra pierna hacia adelante y arriba para ganar altura y distancia, saltando desde el cajón. Aterrizá entre los dos primeros cajones con la misma pierna que aterrizó en el primero.",
+      "Después, pasá al siguiente cajón y repetí."
+    ]
+  },
+  "Box_Squat": {
+    "nombre": "Sentadilla al cajón",
+    "instrucciones": [
+      "La sentadilla al cajón te permite bajar a la profundidad deseada y desarrollar fuerza explosiva en el movimiento. Empezá en una jaula de potencia con un cajón de la altura adecuada detrás tuyo. Normalmente se busca una altura que te lleve a una sentadilla paralela, pero podés entrenar más alto o más bajo si querés.",
+      "Empezá colocándote debajo de la barra y apoyándola sobre la parte alta de la espalda. Juntá los omóplatos y girá los codos hacia adelante, como intentando doblar la barra sobre los hombros. Sacá la barra del soporte, generando un arco firme en la zona lumbar, y volvé a la posición. Poné los pies más anchos para más énfasis en espalda, glúteos, aductores e isquiotibiales, o más juntos para más desarrollo del cuádriceps. Mantené la cabeza mirando al frente.",
+      "Con la espalda, los hombros y el core firmes, empujá las rodillas y la cola hacia afuera al empezar a bajar. Llevá las caderas hacia atrás hasta quedar sentado en el cajón. Idealmente, las espinillas deben quedar perpendiculares al suelo. Hacé una pausa al llegar al cajón y relajá los flexores de la cadera. Nunca rebotes en el cajón.",
+      "Manteniendo el peso en los talones y empujando pies y rodillas hacia afuera, impulsate hacia arriba desde el cajón guiando el movimiento con la cabeza. Seguí subiendo, manteniendo la tensión de pies a cabeza."
+    ]
+  },
+  "Box_Squat_with_Bands": {
+    "nombre": "Sentadilla al cajón con bandas",
+    "instrucciones": [
+      "Empezá en una jaula de potencia con un cajón de la altura adecuada detrás tuyo. Armá las bandas en los extremos de la barra, fijadas a clavijas de banda, a la jaula o a mancuernas, de modo que haya la tensión adecuada. Si usás mancuernas, aseguralas para que no se muevan. Además, asegurate de que sean lo bastante pesadas para las bandas que usás. Podés poner discos extra encima para sostenerlas. Si necesitás más tensión, ensanchá la base en el suelo o acortá las bandas. Normalmente se busca una altura de cajón que te lleve a una sentadilla paralela, pero podés entrenar más alto o más bajo si querés.",
+      "Empezá colocándote debajo de la barra y apoyándola sobre la parte alta de la espalda. Juntá los omóplatos y girá los codos hacia adelante, como intentando doblar la barra sobre los hombros. Sacá la barra del soporte, generando un arco firme en la zona lumbar, y volvé a la posición. Poné los pies más anchos para más énfasis en espalda, glúteos, aductores e isquiotibiales, o más juntos para más desarrollo del cuádriceps. Mantené la cabeza mirando al frente.",
+      "Con la espalda, los hombros y el core firmes, empujá las rodillas y la cola hacia afuera al empezar a bajar. Llevá las caderas hacia atrás hasta quedar sentado en el cajón. Idealmente, las espinillas deben quedar perpendiculares al suelo. Hacé una pausa al llegar al cajón y relajá los flexores de la cadera. Nunca rebotes en el cajón.",
+      "Manteniendo el peso en los talones y empujando pies y rodillas hacia afuera, impulsate hacia arriba desde el cajón guiando el movimiento con la cabeza. Seguí subiendo, manteniendo la tensión de pies a cabeza. Devolvé la barra al soporte con cuidado."
+    ]
+  },
+  "Box_Squat_with_Chains": {
+    "nombre": "Sentadilla al cajón con cadenas",
+    "instrucciones": [
+      "Empezá en una jaula de potencia con un cajón de la altura adecuada detrás tuyo. Normalmente se busca una altura de cajón que te lleve a una sentadilla paralela, pero podés entrenar más alto o más bajo si querés.",
+      "Para armar las cadenas, empezá pasando la cadena guía sobre los extremos de la barra. La cadena pesada se engancha con un mosquetón. Ajustá el largo de la cadena guía para que algunos eslabones queden todavía en el suelo en la parte alta del movimiento.",
+      "Empezá colocándote debajo de la barra y apoyándola sobre la parte alta de la espalda. Juntá los omóplatos y girá los codos hacia adelante, como intentando doblar la barra sobre los hombros. Sacá la barra del soporte, generando un arco firme en la zona lumbar, y volvé a la posición. Poné los pies más anchos para más énfasis en espalda, glúteos, aductores e isquiotibiales, o más juntos para más desarrollo del cuádriceps. Mantené la cabeza mirando al frente.",
+      "Con la espalda, los hombros y el core firmes, empujá las rodillas y la cola hacia afuera al empezar a bajar. Llevá las caderas hacia atrás hasta quedar sentado en el cajón. Idealmente, las espinillas deben quedar perpendiculares al suelo. Hacé una pausa al llegar al cajón y relajá los flexores de la cadera. Nunca rebotes en el cajón.",
+      "Manteniendo el peso en los talones y empujando pies y rodillas hacia afuera, impulsate hacia arriba desde el cajón guiando el movimiento con la cabeza. Seguí subiendo, manteniendo la tensión de pies a cabeza."
+    ]
+  },
+  "Brachialis-SMR": {
+    "nombre": "Braquial (automasaje)",
+    "instrucciones": [
+      "Recostate de costado, con la parte alta del brazo contra el rodillo de espuma. El brazo debe quedar más o menos alineado con el cuerpo, con la parte externa del bíceps apoyada contra el rodillo.",
+      "Elevá las caderas del suelo, sosteniendo el peso sobre el brazo y los pies. Mantené 10-30 segundos y después cambiá de lado."
+    ]
+  },
+  "Bradford_Rocky_Presses": {
+    "nombre": "Press Bradford / Rocky",
+    "instrucciones": [
+      "Sentate en un banco de press militar con una barra a la altura de los hombros y un agarre prono (palmas hacia adelante). Consejo: el agarre debe ser más ancho que los hombros y formar un ángulo de 90 grados entre el antebrazo y el brazo cuando la barra baja. Esta es tu posición inicial.",
+      "Una vez que tomás la barra con el agarre correcto, subila por encima de la cabeza estirando los brazos.",
+      "Ahora bajá la barra hasta detrás de la cabeza lentamente mientras inhalás.",
+      "Subí la barra de vuelta a la posición inicial mientras exhalás.",
+      "Bajá la barra hasta la posición inicial (adelante) lentamente mientras inhalás. Esto es una repetición.",
+      "Alterná así hasta completar las repeticiones recomendadas."
+    ]
+  },
+  "Butt-Ups": {
+    "nombre": "Elevación de cadera en plancha (butt-ups)",
+    "instrucciones": [
+      "Empezá en posición de flexión pero con los codos en el suelo, apoyado sobre los antebrazos. Los brazos deben quedar flexionados a 90 grados.",
+      "Arqueá la espalda un poco hacia afuera en vez de mantenerla completamente recta.",
+      "Elevá los glúteos hacia el techo, apretando fuerte los abdominales para acortar la distancia entre la caja torácica y las caderas. Vas a terminar en una posición de puente alto. Exhalá durante esta parte del movimiento.",
+      "Bajá lentamente a la posición inicial mientras inhalás. Consejo: no dejes que la espalda se hunda hacia abajo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Butt_Lift_Bridge": {
+    "nombre": "Elevación de glúteos (puente)",
+    "instrucciones": [
+      "Recostate boca arriba en el suelo con las manos a los costados y las rodillas flexionadas. Los pies a la anchura de los hombros. Esta es tu posición inicial.",
+      "Empujando sobre todo con los talones, despegá las caderas del suelo manteniendo la espalda recta. Exhalá en esta parte del movimiento y mantené un segundo arriba.",
+      "Volvé lentamente a la posición inicial mientras inhalás."
+    ]
+  },
+  "Butterfly": {
+    "nombre": "Aperturas en máquina (butterfly)",
+    "instrucciones": [
+      "Sentate en la máquina con la espalda plana contra el respaldo.",
+      "Agarrá las manijas. Consejo: los brazos deben quedar paralelos al suelo; ajustá la máquina para eso. Esta es tu posición inicial.",
+      "Empujá las manijas para juntarlas lentamente apretando el pecho en el medio. Exhalá en esta parte del movimiento y mantené la contracción un segundo.",
+      "Volvé lentamente a la posición inicial mientras inhalás, hasta que los músculos del pecho queden totalmente estirados.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Cable_Chest_Press": {
+    "nombre": "Press de pecho en polea",
+    "instrucciones": [
+      "Ajustá el peso a una cantidad adecuada y sentate, agarrando las manijas. Los brazos deben quedar a unos 45 grados del cuerpo, con la cabeza y el pecho en alto. Los codos flexionados a unos 90 grados. Esta es tu posición inicial.",
+      "Empezá extendiendo los codos, presionando las manijas rectas hacia adelante. Mantené los omóplatos retraídos al hacer el movimiento.",
+      "Tras una pausa en la extensión completa, volvé a la posición inicial, manteniendo la tensión en las poleas.",
+      "También podés hacer este movimiento con la espalda despegada del respaldo, en banco inclinado o declinado, o alternando las manos."
+    ]
+  },
+  "Cable_Crossover": {
+    "nombre": "Cruce en poleas",
+    "instrucciones": [
+      "Para ponerte en la posición inicial, colocá las poleas en una posición alta (por encima de la cabeza), elegí la resistencia y agarrá una polea con cada mano.",
+      "Dá un paso adelante, cruzando una línea recta imaginaria entre ambas poleas, mientras juntás los brazos frente a vos. El torso debe tener una ligera inclinación hacia adelante desde la cintura. Esta es tu posición inicial.",
+      "Con una ligera flexión en los codos para no sobrecargar el tendón del bíceps, extendé los brazos hacia los costados (rectos hacia ambos lados) en un arco amplio hasta sentir un estiramiento en el pecho. Inhalá durante esta parte del movimiento. Consejo: durante todo el movimiento, los brazos y el torso deben quedar quietos; el movimiento solo debe ocurrir en la articulación del hombro.",
+      "Volvé los brazos a la posición inicial mientras exhalás. Asegurate de usar el mismo arco de movimiento con el que bajaste el peso.",
+      "Mantené un segundo en la posición inicial y repetí el movimiento las repeticiones indicadas."
+    ]
+  },
+  "Cable_Crunch": {
+    "nombre": "Crunch en polea",
+    "instrucciones": [
+      "Arrodillate debajo de una polea alta con un accesorio de cuerda.",
+      "Agarrá el accesorio de cuerda y bajala hasta que las manos queden al lado de la cara.",
+      "Flexioná apenas las caderas y dejá que el peso hiperextienda la zona lumbar. Esta es tu posición inicial.",
+      "Con las caderas quietas, flexioná la cintura contrayendo los abdominales para que los codos vayan hacia el medio de los muslos. Exhalá durante esta parte del movimiento y mantené la contracción un segundo.",
+      "Volvé lentamente a la posición inicial mientras inhalás. Consejo: mantené tensión constante en los abdominales durante todo el movimiento. Además, no elijas un peso tan pesado que la zona lumbar se lleve la mayor parte del trabajo.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Cable_Deadlifts": {
+    "nombre": "Peso muerto en polea",
+    "instrucciones": [
+      "Llevá las poleas a la parte baja de las torres y elegí un peso adecuado. Parate justo en el medio, entre los soportes.",
+      "Para empezar, agachate en sentadilla flexionando caderas y rodillas hasta poder alcanzar las manijas.",
+      "Después de agarrarlas, empezá a subir. Empujando con los talones, extendé caderas y rodillas manteniendo las manos colgando a los costados. Mantené la cabeza y el pecho en alto durante todo el movimiento.",
+      "Al llegar a la posición de pie completa, volvé a la posición inicial y repetí."
+    ]
+  }
+}

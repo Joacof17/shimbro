@@ -1,0 +1,199 @@
+{
+  "Front_Dumbbell_Raise": {
+    "nombre": "Elevación frontal con mancuerna (alternada)",
+    "instrucciones": [
+      "Agarrá un par de mancuernas y parate con el torso recto y las mancuernas frente a los muslos, con los brazos estirados y las palmas hacia los muslos. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto (sin balancearte), elevá la mancuerna izquierda hacia el frente con una ligera flexión en el codo y las palmas siempre hacia abajo. Seguí subiendo hasta que el brazo quede un poco por encima de la paralela al suelo. Exhalá durante esta parte del movimiento y hacé una pausa de un segundo arriba. Inhalá después de la pausa.",
+      "Ahora bajá la mancuerna lentamente a la posición inicial mientras subís al mismo tiempo la mancuerna derecha.",
+      "Seguí alternando así hasta hacer todas las repeticiones recomendadas con cada brazo."
+    ]
+  },
+  "Front_Incline_Dumbbell_Raise": {
+    "nombre": "Elevación frontal inclinada con mancuernas",
+    "instrucciones": [
+      "Sentate en un banco inclinado, con la inclinación entre 30 y 60 grados, sosteniendo una mancuerna en cada mano. Consejo: podés cambiar el ángulo para trabajar el músculo un poco distinto cada vez.",
+      "Extendé los brazos rectos frente a vos con las palmas hacia abajo, con las mancuernas elevadas unos 2-3 cm por encima de los muslos. Esta es tu posición inicial.",
+      "Elevá lentamente las mancuernas rectas hacia arriba hasta que queden un poco por encima de los hombros, manteniendo los codos bloqueados. Apretá arriba un segundo y asegurate de exhalar durante esta parte del movimiento. Consejo: mantené la cabeza apoyada en el banco y las piernas en el suelo en todo momento.",
+      "Bajá los brazos a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Leg_Raises": {
+    "nombre": "Elevaciones de pierna al frente",
+    "instrucciones": [
+      "Parate al lado de una silla u otro apoyo, agarrándote con una mano.",
+      "Balanceá la pierna hacia adelante, manteniéndola recta. Seguí con un balanceo hacia abajo, llevando la pierna lo más atrás que tu flexibilidad permita. Repetí 5-10 veces y después cambiá de pierna."
+    ]
+  },
+  "Front_Plate_Raise": {
+    "nombre": "Elevación frontal con disco",
+    "instrucciones": [
+      "Parado y derecho, sostené un disco de barra con ambas manos en las posiciones de las 3 y las 9. Las palmas enfrentadas y los brazos extendidos y bloqueados con una ligera flexión en los codos; el disco abajo, cerca de la cintura, frente a vos, lo más abajo que puedas. Consejo: los brazos quedan en esta posición durante todo el ejercicio. Esta es tu posición inicial.",
+      "Elevá el disco lentamente mientras exhalás hasta que quede un poco por encima de la altura de los hombros. Mantené la contracción un segundo. Consejo: no balancees el peso ni flexiones los codos. El torso también debe quedar quieto durante todo el movimiento.",
+      "Al inhalar, bajá lentamente el disco a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Raise_And_Pullover": {
+    "nombre": "Elevación frontal y pullover",
+    "instrucciones": [
+      "Recostate en un banco plano sosteniendo una barra con un agarre de palmas hacia abajo, separadas unos 38 cm.",
+      "Apoyá la barra sobre la parte alta de los muslos, extendé los brazos y bloquealos manteniendo una ligera flexión en los codos. Esta es tu posición inicial.",
+      "Ahora subí el peso en un movimiento semicircular manteniendo los brazos rectos mientras inhalás. Seguí el mismo movimiento hasta que la barra quede del otro lado, por encima de la cabeza. (Consejo: la barra recorre unos 180 grados). En este punto los brazos deben quedar paralelos al suelo con las palmas hacia el techo.",
+      "Ahora volvé la barra a la posición inicial invirtiendo el movimiento mientras exhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Front_Squat_Clean_Grip": {
+    "nombre": "Sentadilla frontal (agarre de cargada)",
+    "instrucciones": [
+      "Para empezar, colocá la barra en una jaula un poco por debajo de la altura de los hombros. Apoyá la barra sobre los deltoides, empujando contra las clavículas y rozando apenas la garganta. Las manos en agarre de cargada, tocando la barra solo con los dedos para ayudar a sostenerla en posición.",
+      "Sacá la barra del soporte empujando primero con las piernas y, al mismo tiempo, enderezando el torso. Alejate de la jaula y colocá las piernas en una postura media, a la anchura de los hombros, con las puntas apenas hacia afuera. Mantené la cabeza y los codos en alto en todo momento. Esta es tu posición inicial.",
+      "Flexioná las rodillas, sentándote entre las piernas. Bajá hasta que los isquiotibiales toquen los gemelos. Mantené las rodillas alineadas con los pies usando conscientemente los abductores para empujar las rodillas hacia afuera al bajar.",
+      "Empezá a subir la barra mientras exhalás, empujando el suelo sobre todo con el talón o el medio del pie mientras estirás de nuevo las piernas y volvés a la posición inicial."
+    ]
+  },
+  "Front_Squats_With_Two_Kettlebells": {
+    "nombre": "Sentadilla frontal con dos pesas rusas",
+    "instrucciones": [
+      "Cargá dos pesas rusas hasta los hombros, extendiendo las piernas y las caderas mientras las traccionás hacia los hombros. Girá las muñecas al hacerlo.",
+      "Mirando siempre al frente, hacé sentadilla lo más profundo que puedas y hacé una pausa abajo. Al bajar, empujá las rodillas hacia afuera. Debés sentarte entre las piernas, manteniendo el torso erguido, con la cabeza y el pecho en alto.",
+      "Volvé a subir empujando con los talones y repetí."
+    ]
+  },
+  "Front_Two-Dumbbell_Raise": {
+    "nombre": "Elevación frontal con dos mancuernas",
+    "instrucciones": [
+      "Agarrá un par de mancuernas y parate con el torso recto y las mancuernas frente a los muslos, con los brazos estirados y las palmas hacia los muslos. Esta es tu posición inicial.",
+      "Manteniendo el torso quieto (sin balancearte), elevá las mancuernas hacia el frente con una ligera flexión en el codo y las palmas siempre hacia abajo. Seguí subiendo hasta que los brazos queden un poco por encima de la paralela al suelo. Exhalá durante esta parte del movimiento y hacé una pausa de un segundo arriba.",
+      "Al inhalar, bajá lentamente las mancuernas a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Full_Range-Of-Motion_Lat_Pulldown": {
+    "nombre": "Jalón al pecho de rango completo",
+    "instrucciones": [
+      "De pie o sentado en un banco alto, agarrá dos manijas de estribo enganchadas a las poleas altas. Agarralas con la mano opuesta para que los brazos queden cruzados y las palmas hacia adelante.",
+      "Manteniendo el pecho en alto y una ligera curva en la zona lumbar, bajá las manijas como si hicieras un jalón normal. El rango de movimiento será más bien un arco. Durante el movimiento, girá las manos para que abajo las palmas queden enfrentadas en vez de hacia adelante. Volvé lentamente a la posición inicial y repetí."
+    ]
+  },
+  "Gironda_Sternum_Chins": {
+    "nombre": "Dominadas al esternón (Gironda)",
+    "instrucciones": [
+      "Agarrá la barra de dominadas con un agarre supino a la anchura de los hombros.",
+      "Ahora colgate con los brazos totalmente extendidos, sacá el pecho e inclinate hacia atrás. Consejo: vas a estar inclinado hacia atrás durante todo el movimiento. Esta es tu posición inicial.",
+      "Empezá a subir hacia la barra con la columna arqueada durante todo el movimiento y la cabeza inclinada lo más lejos posible de la barra. Exhalá durante esta parte del movimiento. Consejo: en la parte alta del movimiento, las caderas y las piernas quedan a unos 45 grados del suelo.",
+      "Seguí subiendo hasta que la clavícula pase la barra y la parte baja del pecho o el esternón la toque. Mantené esa contracción un segundo. Consejo: para cuando completás esta parte, la cabeza queda paralela al suelo.",
+      "Empezá a bajar lentamente a la posición inicial mientras inhalás.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Glute_Ham_Raise": {
+    "nombre": "Elevación glúteo-femoral en máquina",
+    "instrucciones": [
+      "Empezá ajustando el equipo a tu cuerpo. Apoyá los pies contra la placa entre los rodillos mientras te recostás boca abajo. Las rodillas deben quedar justo por detrás de la almohadilla.",
+      "Empezá desde el fondo del movimiento. Mantené la espalda arqueada al empezar flexionando las rodillas. Empujá las puntas de los pies contra la placa al hacerlo. Mantené el tren superior recto y seguí hasta quedar erguido.",
+      "Volvé a la posición inicial, controlando el descenso."
+    ]
+  },
+  "Glute_Kickback": {
+    "nombre": "Patada de glúteo",
+    "instrucciones": [
+      "Arrodillate en el suelo o una colchoneta e inclinate desde la cintura con los brazos extendidos frente a vos (perpendiculares al torso) para ponerte en posición de flexión de rodillas, pero con los brazos a la anchura de los hombros. La cabeza mirando al frente y la flexión de las rodillas formando un ángulo de 90 grados entre los isquiotibiales y los gemelos. Esta es tu posición inicial.",
+      "Al exhalar, elevá la pierna derecha hasta que los isquiotibiales queden en línea con la espalda, manteniendo la flexión de 90 grados. Contraé los glúteos durante todo el movimiento y mantené la contracción arriba un segundo. Consejo: al final del movimiento el muslo debe quedar paralelo al suelo y el gemelo perpendicular.",
+      "Volvé a la posición inicial mientras inhalás y ahora repetí con la pierna izquierda.",
+      "Seguí alternando las piernas hasta hacer todas las repeticiones recomendadas."
+    ]
+  },
+  "Goblet_Squat": {
+    "nombre": "Sentadilla goblet",
+    "instrucciones": [
+      "Parate sosteniendo una pesa rusa liviana por los cuernos, cerca del pecho. Esta es tu posición inicial.",
+      "Hacé sentadilla entre las piernas hasta que los isquiotibiales toquen los gemelos. Mantené el pecho y la cabeza en alto y la espalda recta.",
+      "Abajo, hacé una pausa y usá los codos para empujar las rodillas hacia afuera. Volvé a la posición inicial y repetí 10-20 repeticiones."
+    ]
+  },
+  "Good_Morning": {
+    "nombre": "Buen día",
+    "instrucciones": [
+      "Empezá con una barra en una jaula a la altura de los hombros. Apoyá la barra sobre la parte de atrás de los hombros, como en una sentadilla de potencia, no encima de los hombros. Mantené la espalda firme, los omóplatos juntos y las rodillas apenas flexionadas. Alejate de la jaula.",
+      "Empezá flexionando las caderas, llevándolas hacia atrás mientras te inclinás hasta casi la paralela. Mantené la espalda arqueada y el cuello bien alineado.",
+      "Invertí el movimiento extendiendo las caderas con los glúteos y los isquiotibiales. Seguí hasta volver a la posición inicial."
+    ]
+  },
+  "Good_Morning_off_Pins": {
+    "nombre": "Buen día desde pines",
+    "instrucciones": [
+      "Empezá con una barra en una jaula más o menos a la altura del estómago. Inclinate por debajo de la barra y apoyala sobre la parte de atrás de los hombros, como en una sentadilla de potencia, no encima de los hombros. A la altura correcta, al inclinarte deberías quedar cerca de la paralela al suelo. Mantené la espalda firme, los omóplatos juntos y las rodillas apenas flexionadas. Mantené la espalda arqueada y el cuello bien alineado.",
+      "Empezá el movimiento extendiendo las caderas con los glúteos y los isquiotibiales hasta quedar de pie con el peso. Bajá lentamente el peso de vuelta a los pines, volviendo a la posición inicial."
+    ]
+  },
+  "Gorilla_Chin_Crunch": {
+    "nombre": "Dominada/crunch gorila",
+    "instrucciones": [
+      "Colgate de una barra de dominadas con un agarre supino (palmas hacia vos) un poco más ancho que los hombros.",
+      "Ahora flexioná las rodillas a 90 grados para que los gemelos queden paralelos al suelo y los muslos perpendiculares. Esta es tu posición inicial.",
+      "Al exhalar, subí mientras encogés las rodillas al mismo tiempo, hasta que las rodillas queden a la altura del pecho. Dejás de subir apenas la nariz quede a la altura de la barra. Consejo: al llegar a este punto también deberías estar terminando el crunch al mismo tiempo.",
+      "Empezá a inhalar lentamente mientras volvés a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Groin_and_Back_Stretch": {
+    "nombre": "Estiramiento de ingle y espalda",
+    "instrucciones": [
+      "Sentate en el suelo con las rodillas flexionadas y los pies juntos.",
+      "Entrelazá los dedos detrás de la cabeza. Esta es tu posición inicial.",
+      "Encogé hacia abajo, llevando los codos a la cara interna de los muslos. Tras una breve pausa, volvé a la posición inicial con la cabeza en alto y la espalda recta. Repetí 10-20 repeticiones."
+    ]
+  },
+  "Groiners": {
+    "nombre": "Groiners",
+    "instrucciones": [
+      "Empezá en posición de flexión en el suelo. Esta es tu posición inicial.",
+      "Con ambas piernas, saltá hacia adelante aterrizando con los pies al lado de las manos. Mantené la cabeza en alto al hacerlo.",
+      "Volvé a la posición inicial y repetí el movimiento de inmediato, continuando por 10-20 repeticiones."
+    ]
+  },
+  "Hack_Squat": {
+    "nombre": "Sentadilla hack en máquina",
+    "instrucciones": [
+      "Apoyá la espalda contra el respaldo de la máquina y colocá los hombros debajo de las almohadillas.",
+      "Colocá las piernas en la plataforma en una postura media, a la anchura de los hombros, con las puntas apenas hacia afuera. Consejo: mantené la cabeza en alto en todo momento y la espalda apoyada en el respaldo.",
+      "Apoyá los brazos en las manijas laterales de la máquina y destrabá las barras de seguridad (en la mayoría de los diseños esto se hace girando las manijas laterales de la posición de frente a una posición diagonal).",
+      "Ahora estirá las piernas sin bloquear las rodillas. Esta es tu posición inicial. (Nota: para esta explicación usamos la postura media, que trabaja el desarrollo general; de todos modos podés elegir cualquiera de las tres posturas de pies).",
+      "Empezá a bajar la máquina lentamente flexionando las rodillas mientras mantenés una postura recta con la cabeza en alto (la espalda siempre en el respaldo). Bajá hasta que el ángulo entre el muslo y los gemelos quede un poco por debajo de los 90 grados (el punto en que los muslos quedan por debajo de la paralela al suelo). Inhalá durante esta parte del movimiento. Consejo: si lo hacés bien, la parte de adelante de las rodillas debería formar una línea recta imaginaria con las puntas de los pies, perpendicular al frente. Si las rodillas pasan esa línea (si sobrepasan las puntas de los pies) estás sobrecargando la rodilla y el ejercicio está mal hecho.",
+      "Empezá a subir la máquina mientras exhalás, empujando el suelo sobre todo con el talón mientras estirás de nuevo las piernas y volvés a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Hammer_Curls": {
+    "nombre": "Curl martillo",
+    "instrucciones": [
+      "Parate con el torso erguido y una mancuerna en cada mano, sostenidas con los brazos estirados. Los codos cerca del torso.",
+      "Las palmas deben mirar hacia el torso. Esta es tu posición inicial.",
+      "Ahora, manteniendo el brazo quieto, exhalá y flexioná el peso hacia adelante contrayendo los bíceps. Seguí subiendo hasta que los bíceps queden totalmente contraídos y la mancuerna a la altura del hombro. Mantené la posición contraída un momento apretando los bíceps. Consejo: enfocate en mantener el codo quieto y mover solo el antebrazo.",
+      "Tras la breve pausa, inhalá y empezá a bajar lentamente las mancuernas a la posición inicial.",
+      "Repetí las repeticiones recomendadas."
+    ]
+  },
+  "Hammer_Grip_Incline_DB_Bench_Press": {
+    "nombre": "Press de banca inclinado con mancuernas, agarre martillo",
+    "instrucciones": [
+      "Recostate en un banco inclinado con una mancuerna en cada mano sobre los muslos. Las palmas quedan enfrentadas.",
+      "Usando los muslos para ayudar a subir las mancuernas, cargalas una a la vez para sostenerlas a la anchura de los hombros.",
+      "Ya a la anchura de los hombros, mantené las palmas en agarre neutro (enfrentadas). Mantené los codos abiertos con los brazos en línea con los hombros (perpendiculares al torso) y flexionados formando un ángulo de 90 grados entre el brazo y el antebrazo. Esta es tu posición inicial.",
+      "Ahora bajá los pesos lentamente hacia los costados mientras inhalás. Mantené el control total de las mancuernas en todo momento.",
+      "Al exhalar, empujá las mancuernas hacia arriba usando los músculos pectorales. Estirá los brazos en la posición contraída, mantené un segundo y empezá a bajar lentamente. Consejo: bajar debería llevar al menos el doble de tiempo que subir.",
+      "Repetí el movimiento las repeticiones indicadas.",
+      "Cuando termines, apoyá las mancuernas de nuevo en los muslos y después en el suelo. Es la forma más segura de dejarlas."
+    ]
+  },
+  "Hamstring-SMR": {
+    "nombre": "Isquiotibiales (automasaje)",
+    "instrucciones": [
+      "Sentado, extendé las piernas sobre un rodillo de espuma de modo que quede en la parte de atrás de los muslos. Apoyá las manos a los costados o detrás para sostener tu peso. Esta es tu posición inicial.",
+      "Con las manos, despegá las caderas del suelo y desplazá tu peso sobre el rodillo hacia una pierna. Relajá los isquiotibiales de la pierna que estirás.",
+      "Rodá sobre la espuma desde debajo de la cadera hasta arriba de la parte de atrás de la rodilla, deteniéndote en los puntos de tensión 10-30 segundos. Repetí con la otra pierna."
+    ]
+  }
+}
