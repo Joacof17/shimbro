@@ -35,13 +35,13 @@ export default function LoginScreen() {
     >
       {/* Contenido centrado */}
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', paddingHorizontal: spacing(3) }}>
-        <View style={{ width: '100%', maxWidth: 360 }}>
-          <Image source={LOGO} resizeMode="contain" style={{ width: 128, height: 128, marginLeft: -spacing(2), marginBottom: spacing(1) }} />
+        <View style={{ width: '100%', maxWidth: 360, alignItems: 'center' }}>
+          <Image source={LOGO} resizeMode="contain" style={{ width: 128, height: 128, marginBottom: spacing(0.5) }} />
 
-          <Eyebrow>Registro de fuerza</Eyebrow>
-          <Text style={{ ...type.display, fontSize: 46, marginTop: spacing(1), textTransform: 'uppercase' }}>Shimbro</Text>
+          <Eyebrow style={{ textAlign: 'center' }}>Registro de fuerza</Eyebrow>
+          <Text style={{ ...type.display, fontSize: 46, marginTop: spacing(1), textTransform: 'uppercase', textAlign: 'center' }}>Shimbro</Text>
           <View style={{ height: 4, width: 56, backgroundColor: colors.primary, marginTop: spacing(1.5) }} />
-          <Txt style={{ color: colors.textMuted, fontSize: font.body, marginTop: spacing(2), lineHeight: 21 }}>
+          <Txt style={{ alignSelf: 'stretch', color: colors.textMuted, fontSize: font.body, marginTop: spacing(2), lineHeight: 21, textAlign: 'center' }}>
             Entrá para registrar tu fuerza y llevar tu progreso en cualquier dispositivo.
           </Txt>
 
@@ -50,6 +50,7 @@ export default function LoginScreen() {
             onPress={entrar}
             disabled={entrando}
             style={{
+              alignSelf: 'stretch',
               marginTop: spacing(3.5),
               backgroundColor: colors.surface,
               borderWidth: 1,
@@ -69,10 +70,10 @@ export default function LoginScreen() {
           </TouchableOpacity>
 
           {error ? (
-            <Txt style={{ color: colors.danger, fontSize: font.small, marginTop: spacing(1.5) }}>{error}</Txt>
+            <Txt style={{ alignSelf: 'stretch', color: colors.danger, fontSize: font.small, marginTop: spacing(1.5), textAlign: 'center' }}>{error}</Txt>
           ) : null}
 
-          <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: spacing(3), lineHeight: 17 }}>
+          <Txt style={{ alignSelf: 'stretch', color: colors.textFaint, fontSize: font.tiny, marginTop: spacing(3), lineHeight: 17, textAlign: 'center' }}>
             Usamos tu cuenta de Google solo para identificarte y guardar tus datos. Nada se comparte.
           </Txt>
         </View>
