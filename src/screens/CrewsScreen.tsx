@@ -10,7 +10,7 @@ import { misCrews, crearCrew, unirseACrew, Crew } from '../crews';
 type Props = NativeStackScreenProps<RootStackParamList, 'Crews'>;
 
 export default function CrewsScreen({ navigation }: Props) {
-  const { apodo } = useAuth();
+  const { apodo, guardarApodo } = useAuth();
   const [cargando, setCargando] = useState(true);
   const [crews, setCrews] = useState<Crew[]>([]);
   const [error, setError] = useState<string | null>(null);
@@ -20,6 +20,11 @@ export default function CrewsScreen({ navigation }: Props) {
 
   const [creando, setCreando] = useState(false);
   const [nombre, setNombre] = useState('');
+
+  // Si no tenés apodo, se pide primero antes de sumarte a una crew.
+  const [pidiendoApodo, setPidiendoApodo] = useState(false);
+  const [apodoInput, setApodoInput] = useState('');
+  const [pendiente, setPendiente] = useState<'unirse' | 'crear' | null>(null);
 
   const cargar = useCallback(async () => {
     try {
@@ -35,6 +40,44 @@ export default function CrewsScreen({ navigation }: Props) {
     const unsub = navigation.addListener('focus', cargar);
     return unsub;
   }, [navigation, cargar]);
+
+  // Puertas: si no hay apodo, pedirlo primero y continuar la acción al guardarlo.
+  const pedirApodo = (accion: 'unirse' | 'crear') => {
+    setApodoInput('');
+    setPendiente(accion);
+    setPidiendoApodo(true);
+  };
+
+  const intentarUnirse = () => {
+    const cod = codigo.trim().toUpperCase();
+    if (cod.length !== 6) {
+      setError('El código tiene 6 caracteres.');
+      return;
+    }
+    setError(null);
+    if (!apodo) {
+      pedirApodo('unirse');
+      return;
+    }
+    unirse();
+  };
+
+  const intentarCrear = () => {
+    if (!apodo) {
+      pedirApodo('crear');
+      return;
+    }
+    setCreando(true);
+  };
+
+  const confirmarApodo = async () => {
+    await guardarApodo(apodoInput);
+    setPidiendoApodo(false);
+    const acc = pendiente;
+    setPendiente(null);
+    if (acc === 'unirse') unirse();
+    else if (acc === 'crear') setCreando(true);
+  };
 
   const unirse = async () => {
     const cod = codigo.trim().toUpperCase();
@@ -109,10 +152,10 @@ export default function CrewsScreen({ navigation }: Props) {
             fontVariant: ['tabular-nums'] as any,
           }}
         />
-        <Boton titulo="Unirme" onPress={unirse} disabled={trabajando || codigo.length !== 6} />
+        <Boton titulo="Unirme" onPress={intentarUnirse} disabled={trabajando || codigo.length !== 6} />
       </View>
 
-      <Boton titulo="Crear una crew" variante="secondary" onPress={() => setCreando(true)} style={{ marginTop: spacing(1.5) }} />
+      <Boton titulo="Crear una crew" variante="secondary" onPress={intentarCrear} style={{ marginTop: spacing(1.5) }} />
 
       {error ? <Txt style={{ color: colors.danger, fontSize: font.small, marginTop: spacing(1.25) }}>{error}</Txt> : null}
 
@@ -174,6 +217,45 @@ export default function CrewsScreen({ navigation }: Props) {
               </View>
               <View style={{ flex: 1 }}>
                 <Boton titulo="Crear" onPress={crear} disabled={trabajando} />
+              </View>
+            </View>
+          </View>
+        </View>
+      </Modal>
+
+      {/* Modal: pedir apodo antes de sumarse a una crew */}
+      <Modal visible={pidiendoApodo} transparent animationType="fade" onRequestClose={() => setPidiendoApodo(false)}>
+        <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.72)', justifyContent: 'center', alignItems: 'center', padding: spacing(2) }}>
+          <View style={{ width: '100%', maxWidth: 400, backgroundColor: colors.surface, borderRadius: radius.lg, borderWidth: 1, borderColor: colors.borderHi, padding: spacing(2) }}>
+            <Eyebrow style={{ color: colors.primary }}>Primero, tu apodo</Eyebrow>
+            <Txt style={{ color: colors.textMuted, fontSize: font.small, marginTop: spacing(1), lineHeight: 19 }}>
+              Para sumarte a una crew necesitás un apodo: así te identifican tus compañeros (nunca ven tu email).
+            </Txt>
+            <TextInput
+              value={apodoInput}
+              onChangeText={setApodoInput}
+              placeholder="Ej: Cyrus"
+              placeholderTextColor={colors.textFaint}
+              autoCapitalize="words"
+              maxLength={24}
+              style={{
+                marginTop: spacing(1.5),
+                backgroundColor: colors.bg,
+                borderWidth: 1,
+                borderColor: colors.border,
+                borderRadius: radius.md,
+                color: colors.text,
+                paddingHorizontal: spacing(1.5),
+                paddingVertical: spacing(1.5),
+                fontSize: font.body,
+              }}
+            />
+            <View style={{ flexDirection: 'row', marginTop: spacing(2), gap: spacing(1) as any }}>
+              <View style={{ flex: 1 }}>
+                <Boton titulo="Cancelar" variante="secondary" onPress={() => { setPidiendoApodo(false); setPendiente(null); }} />
+              </View>
+              <View style={{ flex: 1 }}>
+                <Boton titulo="Continuar" onPress={confirmarApodo} disabled={!apodoInput.trim()} />
               </View>
             </View>
           </View>
