@@ -1,11 +1,12 @@
-import React from 'react';
-import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
+import React, { useState } from 'react';
+import { View, Text, ScrollView, TouchableOpacity, ActivityIndicator } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import type { RootStackParamList } from '../navigation';
 import { colors, spacing, radius, font, type } from '../theme';
 import { Txt, Eyebrow } from '../components/ui';
 import { useStore } from '../store';
+import { useAuth } from '../auth';
 import { EJERCICIOS } from '../data/catalogo';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
@@ -36,6 +37,19 @@ export default function HomeScreen({ navigation }: Props) {
   const insets = useSafeAreaInsets();
   const { estado } = useStore();
   const totalRutinas = estado.rutinas.length;
+  const { configurado, cargando, user, iniciarConGoogle, cerrarSesion } = useAuth();
+  const [authError, setAuthError] = useState<string | null>(null);
+  const [entrando, setEntrando] = useState(false);
+
+  const entrar = async () => {
+    setAuthError(null);
+    setEntrando(true);
+    const err = await iniciarConGoogle(); // en web redirige; si falla, devuelve el motivo
+    if (err) {
+      setAuthError(err);
+      setEntrando(false);
+    }
+  };
 
   return (
     <ScrollView
@@ -49,6 +63,73 @@ export default function HomeScreen({ navigation }: Props) {
       <Txt style={{ color: colors.textMuted, fontSize: font.body, marginTop: spacing(1.75), lineHeight: 21 }}>
         Elegí el día, cargá la barra, anotá el número. La progresión se lleva sola.
       </Txt>
+
+      {/* Cuenta (solo en web con Supabase configurado) */}
+      {configurado ? (
+        <View
+          style={{
+            marginTop: spacing(2.5),
+            backgroundColor: colors.surface,
+            borderRadius: radius.lg,
+            borderWidth: 1,
+            borderColor: colors.border,
+            padding: spacing(1.75),
+          }}
+        >
+          {cargando ? (
+            <ActivityIndicator color={colors.primary} />
+          ) : user ? (
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <View style={{ flex: 1 }}>
+                <Eyebrow>Sesión iniciada</Eyebrow>
+                <Txt style={{ color: colors.text, fontSize: font.small, marginTop: 3 }} numberOfLines={1}>
+                  {user.email}
+                </Txt>
+                <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: 3 }}>
+                  Tus datos se guardan en tu cuenta.
+                </Txt>
+              </View>
+              <TouchableOpacity onPress={cerrarSesion} hitSlop={8} style={{ paddingLeft: spacing(1.5) }}>
+                <Text style={{ color: colors.textMuted, fontSize: font.tiny, fontWeight: '800', letterSpacing: 0.5, textTransform: 'uppercase' }}>
+                  Salir
+                </Text>
+              </TouchableOpacity>
+            </View>
+          ) : (
+            <>
+              <Eyebrow>Sincronizá tus datos</Eyebrow>
+              <Txt style={{ color: colors.textMuted, fontSize: font.small, marginTop: 4, lineHeight: 19 }}>
+                Entrá con Google para usar la app desde cualquier dispositivo.
+              </Txt>
+              <TouchableOpacity
+                activeOpacity={0.85}
+                onPress={entrar}
+                disabled={entrando}
+                style={{
+                  marginTop: spacing(1.5),
+                  backgroundColor: colors.surface2,
+                  borderWidth: 1,
+                  borderColor: colors.borderHi,
+                  borderRadius: radius.md,
+                  paddingVertical: spacing(1.4),
+                  alignItems: 'center',
+                  flexDirection: 'row',
+                  justifyContent: 'center',
+                  opacity: entrando ? 0.5 : 1,
+                }}
+              >
+                <Text style={{ ...type.num, color: colors.primary, fontSize: font.body, marginRight: 8 }}>G</Text>
+                <Text style={{ color: colors.text, fontSize: font.small, fontWeight: '800', letterSpacing: 0.5, textTransform: 'uppercase' }}>
+                  {entrando ? 'Abriendo…' : 'Entrar con Google'}
+                </Text>
+              </TouchableOpacity>
+              {authError ? (
+                <Txt style={{ color: colors.danger, fontSize: font.tiny, marginTop: spacing(1) }}>{authError}</Txt>
+              ) : null}
+            </>
+          )}
+        </View>
+      ) : null}
 
       {/* Acciones */}
       <View style={{ marginTop: spacing(4), gap: spacing(1.5) as any }}>

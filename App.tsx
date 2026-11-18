@@ -6,6 +6,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import type { RootStackParamList } from './src/navigation';
 import { StoreProvider } from './src/store';
+import { AuthProvider } from './src/auth';
 import { colors } from './src/theme';
 
 import HomeScreen from './src/screens/HomeScreen';
@@ -37,6 +38,7 @@ const navTheme = {
 export default function App() {
   return (
     <SafeAreaProvider>
+      <AuthProvider>
       <StoreProvider>
         <StatusBar style="light" />
         <NavigationContainer
@@ -105,6 +107,7 @@ export default function App() {
           </Stack.Navigator>
         </NavigationContainer>
       </StoreProvider>
+      </AuthProvider>
     </SafeAreaProvider>
   );
 }
