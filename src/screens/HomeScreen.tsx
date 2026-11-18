@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { View, Text, ScrollView, TouchableOpacity, Modal, TextInput } from 'react-native';
+import { View, Text, ScrollView, TouchableOpacity, Modal, TextInput, Platform } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import * as Clipboard from 'expo-clipboard';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import type { RootStackParamList } from '../navigation';
@@ -27,6 +29,23 @@ export default function HomeScreen({ navigation }: Props) {
 
   const [editandoApodo, setEditandoApodo] = useState(false);
   const [apodoInput, setApodoInput] = useState('');
+
+  // --- Export temporal de datos locales (solo Android, para migración única) ---
+  const [exportVisible, setExportVisible] = useState(false);
+  const [exportData, setExportData] = useState('');
+  const [exportCopiado, setExportCopiado] = useState(false);
+  const abrirExport = async () => {
+    const raw = (await AsyncStorage.getItem('shimbro:estado:v1').catch(() => null)) || '(vacío)';
+    setExportData(raw);
+    setExportCopiado(false);
+    setExportVisible(true);
+  };
+  const copiarExport = async () => {
+    try {
+      await Clipboard.setStringAsync(exportData);
+      setExportCopiado(true);
+    } catch {}
+  };
 
   const abrirApodo = () => {
     setApodoInput(apodo || '');
@@ -160,9 +179,43 @@ export default function HomeScreen({ navigation }: Props) {
         </View>
       </View>
 
+      {/* Export temporal (solo Android) para migrar el progreso local a la cuenta */}
+      {Platform.OS !== 'web' ? (
+        <TouchableOpacity onPress={abrirExport} hitSlop={8} style={{ marginTop: spacing(3), alignItems: 'center' }}>
+          <Text style={{ color: colors.textMuted, fontSize: font.tiny, fontWeight: '800', letterSpacing: 0.5, textTransform: 'uppercase' }}>
+            Exportar mi progreso
+          </Text>
+        </TouchableOpacity>
+      ) : null}
+
       <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: spacing(4), textAlign: 'center', letterSpacing: 0.3 }}>
         Catálogo en español · imágenes vía free-exercise-db
       </Txt>
+
+      {/* Modal de export temporal */}
+      <Modal visible={exportVisible} transparent animationType="fade" onRequestClose={() => setExportVisible(false)}>
+        <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.72)', justifyContent: 'center', alignItems: 'center', padding: spacing(2) }}>
+          <View style={{ width: '100%', maxWidth: 420, backgroundColor: colors.surface, borderRadius: radius.lg, borderWidth: 1, borderColor: colors.borderHi, padding: spacing(2) }}>
+            <Eyebrow style={{ color: colors.primary }}>Exportar progreso</Eyebrow>
+            <Txt style={{ color: colors.textMuted, fontSize: font.small, marginTop: spacing(1), lineHeight: 19 }}>
+              Copiá este texto y pegámelo en el chat para migrarlo a tu cuenta.
+            </Txt>
+            <ScrollView style={{ maxHeight: 220, marginTop: spacing(1.5), backgroundColor: colors.bg, borderRadius: radius.md, borderWidth: 1, borderColor: colors.border }}>
+              <Text selectable style={{ color: colors.textMuted, fontSize: font.tiny, padding: spacing(1.25), fontVariant: ['tabular-nums'] as any }}>
+                {exportData}
+              </Text>
+            </ScrollView>
+            <View style={{ flexDirection: 'row', marginTop: spacing(1.75), gap: spacing(1) as any }}>
+              <View style={{ flex: 1 }}>
+                <Boton titulo={exportCopiado ? 'Copiado ✓' : 'Copiar'} variante="secondary" onPress={copiarExport} />
+              </View>
+              <View style={{ flex: 1 }}>
+                <Boton titulo="Cerrar" onPress={() => setExportVisible(false)} />
+              </View>
+            </View>
+          </View>
+        </View>
+      </Modal>
 
       {/* Modal para configurar el apodo */}
       <Modal visible={editandoApodo} transparent animationType="fade" onRequestClose={() => setEditandoApodo(false)}>
