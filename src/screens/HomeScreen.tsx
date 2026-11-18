@@ -1,43 +1,46 @@
-import React from 'react';
-import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
+import React, { useState } from 'react';
+import { View, Text, ScrollView, TouchableOpacity, Modal, TextInput } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import type { RootStackParamList } from '../navigation';
 import { colors, spacing, radius, font, type } from '../theme';
-import { Txt, Eyebrow } from '../components/ui';
+import { Txt, Eyebrow, Boton } from '../components/ui';
 import { useStore } from '../store';
 import { useAuth } from '../auth';
 import { EJERCICIOS } from '../data/catalogo';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
 
-const OPCIONES = [
-  {
-    a: 'ComenzarRutina' as const,
-    tag: '01',
-    titulo: 'Entrenar',
-    sub: 'Registrá el peso de hoy',
-    destacado: true,
-  },
-  {
-    a: 'ConfigurarRutina' as const,
-    tag: '02',
-    titulo: 'Configurar rutina',
-    sub: 'Armá tus días y ejercicios',
-  },
-  {
-    a: 'Personalizado' as const,
-    tag: '03',
-    titulo: 'Planes por objetivo',
-    sub: 'Para un día extra de gimnasio',
-  },
+type Opcion = { a: keyof RootStackParamList; tag: string; titulo: string; sub: string; destacado?: boolean };
+
+const OPCIONES: Opcion[] = [
+  { a: 'ComenzarRutina', tag: '01', titulo: 'Entrenar', sub: 'Registrá el peso de hoy', destacado: true },
+  { a: 'ConfigurarRutina', tag: '02', titulo: 'Configurar rutina', sub: 'Armá tus días y ejercicios' },
+  { a: 'Personalizado', tag: '03', titulo: 'Planes por objetivo', sub: 'Para un día extra de gimnasio' },
 ];
 
 export default function HomeScreen({ navigation }: Props) {
   const insets = useSafeAreaInsets();
   const { estado } = useStore();
   const totalRutinas = estado.rutinas.length;
-  const { configurado, user, cerrarSesion } = useAuth();
+  const { configurado, user, apodo, guardarApodo, cerrarSesion } = useAuth();
+
+  const [editandoApodo, setEditandoApodo] = useState(false);
+  const [apodoInput, setApodoInput] = useState('');
+
+  const abrirApodo = () => {
+    setApodoInput(apodo || '');
+    setEditandoApodo(true);
+  };
+  const confirmarApodo = async () => {
+    await guardarApodo(apodoInput);
+    setEditandoApodo(false);
+  };
+
+  // Crews solo con sesión (web).
+  const opciones: Opcion[] = configurado && user
+    ? [...OPCIONES, { a: 'Crews', tag: '04', titulo: 'Crews', sub: 'Compará tu progreso con tu grupo' }]
+    : OPCIONES;
 
   return (
     <ScrollView
@@ -67,13 +70,31 @@ export default function HomeScreen({ navigation }: Props) {
           }}
         >
           <View style={{ flex: 1 }}>
-            <Eyebrow>Sesión iniciada</Eyebrow>
-            <Txt style={{ color: colors.text, fontSize: font.small, marginTop: 3 }} numberOfLines={1}>
-              {user.email}
-            </Txt>
-            <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: 3 }}>
-              Tus datos se guardan en tu cuenta.
-            </Txt>
+            {apodo ? (
+              <>
+                <Eyebrow>Sesión iniciada</Eyebrow>
+                <Txt style={{ color: colors.text, fontSize: font.h3, fontWeight: '800', marginTop: 3 }} numberOfLines={1}>
+                  Bienvenido, {apodo}
+                </Txt>
+                <TouchableOpacity onPress={abrirApodo} hitSlop={6}>
+                  <Text style={{ color: colors.primary, fontSize: font.tiny, fontWeight: '800', letterSpacing: 0.5, textTransform: 'uppercase', marginTop: 4 }}>
+                    Editar apodo
+                  </Text>
+                </TouchableOpacity>
+              </>
+            ) : (
+              <>
+                <Eyebrow>Sesión iniciada</Eyebrow>
+                <TouchableOpacity onPress={abrirApodo} hitSlop={6}>
+                  <Text style={{ color: colors.primary, fontSize: font.h3, fontWeight: '800', marginTop: 3 }}>
+                    Configurá tu apodo ›
+                  </Text>
+                </TouchableOpacity>
+                <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: 3 }} numberOfLines={1}>
+                  {user.email}
+                </Txt>
+              </>
+            )}
           </View>
           <TouchableOpacity onPress={cerrarSesion} hitSlop={8} style={{ paddingLeft: spacing(1.5) }}>
             <Text style={{ color: colors.textMuted, fontSize: font.tiny, fontWeight: '800', letterSpacing: 0.5, textTransform: 'uppercase' }}>
@@ -85,7 +106,7 @@ export default function HomeScreen({ navigation }: Props) {
 
       {/* Acciones */}
       <View style={{ marginTop: spacing(4), gap: spacing(1.5) as any }}>
-        {OPCIONES.map((o) => (
+        {opciones.map((o) => (
           <TouchableOpacity
             key={o.a}
             activeOpacity={0.8}
@@ -142,6 +163,45 @@ export default function HomeScreen({ navigation }: Props) {
       <Txt style={{ color: colors.textFaint, fontSize: font.tiny, marginTop: spacing(4), textAlign: 'center', letterSpacing: 0.3 }}>
         Catálogo en español · imágenes vía free-exercise-db
       </Txt>
+
+      {/* Modal para configurar el apodo */}
+      <Modal visible={editandoApodo} transparent animationType="fade" onRequestClose={() => setEditandoApodo(false)}>
+        <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.72)', justifyContent: 'center', alignItems: 'center', padding: spacing(2) }}>
+          <View style={{ width: '100%', maxWidth: 400, backgroundColor: colors.surface, borderRadius: radius.lg, borderWidth: 1, borderColor: colors.borderHi, padding: spacing(2) }}>
+            <Eyebrow style={{ color: colors.primary }}>Tu apodo</Eyebrow>
+            <Txt style={{ color: colors.textMuted, fontSize: font.small, marginTop: spacing(1), lineHeight: 19 }}>
+              Así te van a ver tus compañeros de crew (nunca tu email).
+            </Txt>
+            <TextInput
+              value={apodoInput}
+              onChangeText={setApodoInput}
+              placeholder="Ej: Cyrus"
+              placeholderTextColor={colors.textFaint}
+              autoCapitalize="words"
+              maxLength={24}
+              style={{
+                marginTop: spacing(1.5),
+                backgroundColor: colors.bg,
+                borderWidth: 1,
+                borderColor: colors.border,
+                borderRadius: radius.md,
+                color: colors.text,
+                paddingHorizontal: spacing(1.5),
+                paddingVertical: spacing(1.5),
+                fontSize: font.body,
+              }}
+            />
+            <View style={{ flexDirection: 'row', marginTop: spacing(2), gap: spacing(1) as any }}>
+              <View style={{ flex: 1 }}>
+                <Boton titulo="Cancelar" variante="secondary" onPress={() => setEditandoApodo(false)} />
+              </View>
+              <View style={{ flex: 1 }}>
+                <Boton titulo="Guardar" onPress={confirmarApodo} disabled={!apodoInput.trim()} />
+              </View>
+            </View>
+          </View>
+        </View>
+      </Modal>
     </ScrollView>
   );
 }

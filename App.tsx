@@ -21,6 +21,8 @@ import PersonalizadoScreen from './src/screens/PersonalizadoScreen';
 import PersonalizadoDetalleScreen from './src/screens/PersonalizadoDetalleScreen';
 import EntrenarPlanScreen from './src/screens/EntrenarPlanScreen';
 import EjercicioDetalleScreen from './src/screens/EjercicioDetalleScreen';
+import CrewsScreen from './src/screens/CrewsScreen';
+import CrewDetalleScreen from './src/screens/CrewDetalleScreen';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 export const navigationRef = createNavigationContainerRef<RootStackParamList>();
@@ -130,6 +132,8 @@ function RootContent() {
               component={EjercicioDetalleScreen}
               options={{ title: 'Ejercicio' }}
             />
+            <Stack.Screen name="Crews" component={CrewsScreen} options={{ title: 'Crews' }} />
+            <Stack.Screen name="CrewDetalle" component={CrewDetalleScreen} options={{ title: 'Crew' }} />
           </Stack.Navigator>
         </NavigationContainer>
     </StoreProvider>

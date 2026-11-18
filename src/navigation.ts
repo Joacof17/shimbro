@@ -10,4 +10,6 @@ export type RootStackParamList = {
   PersonalizadoDetalle: { rutinaId: string };
   EntrenarPlan: { planId: string };
   EjercicioDetalle: { ejercicioId: string };
+  Crews: undefined;
+  CrewDetalle: { crewId: string };
 };

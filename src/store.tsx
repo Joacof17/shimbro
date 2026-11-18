@@ -9,6 +9,8 @@ import type {
 } from './types';
 import { supabase } from './lib/supabase';
 import { useAuth } from './auth';
+import { computarResumen } from './resumen';
+import { publicarResumen } from './crews';
 
 const CLAVE = 'shimbro:estado:v1'; // blob local anónimo (no se toca al loguearse)
 const cacheUsuario = (uid: string) => `shimbro:estado:u:${uid}`; // caché offline del usuario
@@ -82,6 +84,8 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
         .then(({ error }) => {
           if (error) console.warn('No se pudo sincronizar', error.message);
         });
+      // Publicar el resumen compartible para las crews (mejor esfuerzo).
+      publicarResumen(uid, computarResumen(e)).catch(() => {});
     }, 800);
   }, []);
 
