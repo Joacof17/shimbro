@@ -116,16 +116,20 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
           .eq('user_id', userId)
           .maybeSingle();
         if (!vivo) return;
+        let cargadoEstado: EstadoApp;
         if (data?.estado) {
-          setEstado({ ...ESTADO_INICIAL, ...(data.estado as EstadoApp) });
+          cargadoEstado = { ...ESTADO_INICIAL, ...(data.estado as EstadoApp) };
+          setEstado(cargadoEstado);
         } else {
           // Sin fila todavía: usar caché local del usuario (si hay) y crear la fila.
           const cache = parse(await AsyncStorage.getItem(cacheUsuario(userId)).catch(() => null));
-          const e = cache ?? ESTADO_INICIAL;
+          cargadoEstado = cache ?? ESTADO_INICIAL;
           if (!vivo) return;
-          setEstado(e);
-          if (!error) supabase.from('estado_usuario').upsert({ user_id: userId, estado: e }).then(() => {});
+          setEstado(cargadoEstado);
+          if (!error) supabase.from('estado_usuario').upsert({ user_id: userId, estado: cargadoEstado }).then(() => {});
         }
+        // Refrescar el resumen compartible para las crews al entrar.
+        publicarResumen(userId, computarResumen(cargadoEstado)).catch(() => {});
       } else {
         const local = parse(await AsyncStorage.getItem(CLAVE).catch(() => null));
         if (!vivo) return;
