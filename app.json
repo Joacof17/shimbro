@@ -3,6 +3,7 @@
     "name": "Shimbro",
     "slug": "shimbro",
     "version": "1.0.0",
+    "scheme": "shimbro",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
@@ -26,6 +27,9 @@
       "eas": {
         "projectId": "d76b0061-f1a0-4c79-8ed9-990e25956b7e"
       }
-    }
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
   }
 }

@@ -1,11 +1,40 @@
-// Autenticación con Supabase (login con Google en web).
-// Si Supabase no está configurado (sin env), queda inerte: user = null siempre,
-// y la app funciona 100% local como hasta ahora.
+// Autenticación con Supabase (login con Google).
+// Web: redirect OAuth. Nativo: navegador del sistema + deep link de vuelta a la app.
+// Si Supabase no está configurado (sin env), queda inerte: user = null siempre.
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import { Platform } from 'react-native';
+import * as WebBrowser from 'expo-web-browser';
+import { makeRedirectUri } from 'expo-auth-session';
+import * as QueryParams from 'expo-auth-session/build/QueryParams';
 import type { Session, User } from '@supabase/supabase-js';
 import { supabase, supabaseConfigurado } from './lib/supabase';
 import { leerApodo, guardarApodo as guardarApodoDB } from './crews';
+
+// Requerido para cerrar la sesión del AuthSession en web (inerte en nativo).
+WebBrowser.maybeCompleteAuthSession();
+
+// URL de retorno. En nativo usa el scheme (shimbro://); en web, el origin.
+const redirectTo =
+  Platform.OS === 'web'
+    ? (typeof window !== 'undefined' ? window.location.origin : undefined)
+    : makeRedirectUri();
+
+// Crea la sesión a partir de la URL con la que vuelve el navegador.
+async function sesionDesdeUrl(url: string): Promise<string | null> {
+  if (!supabase) return 'El login no está disponible.';
+  const { params, errorCode } = QueryParams.getQueryParams(url);
+  if (errorCode) return errorCode;
+  const { access_token, refresh_token, code } = params;
+  if (access_token) {
+    const { error } = await supabase.auth.setSession({ access_token, refresh_token });
+    return error ? error.message : null;
+  }
+  if (code) {
+    const { error } = await supabase.auth.exchangeCodeForSession(code);
+    return error ? error.message : null;
+  }
+  return 'No se recibió la sesión.';
+}
 
 type Ctx = {
   configurado: boolean; // hay proyecto Supabase + estamos en web (login disponible)
@@ -19,8 +48,8 @@ type Ctx = {
 
 const AuthContext = createContext<Ctx | null>(null);
 
-// Login con Google solo tiene sentido en web (en nativo haría falta deep-linking).
-const LOGIN_DISPONIBLE = supabaseConfigurado && Platform.OS === 'web';
+// Login disponible siempre que haya proyecto Supabase (web y nativo).
+const LOGIN_DISPONIBLE = supabaseConfigurado;
 
 export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [session, setSession] = useState<Session | null>(null);
@@ -71,13 +100,29 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   const iniciarConGoogle = async (): Promise<string | null> => {
-    if (!supabase || Platform.OS !== 'web') return 'El login no está disponible acá.';
-    const redirectTo = typeof window !== 'undefined' ? window.location.origin : undefined;
-    const { error } = await supabase.auth.signInWithOAuth({
+    if (!supabase) return 'El login no está disponible acá.';
+
+    // Web: redirige la propia pestaña y vuelve con la sesión en la URL.
+    if (Platform.OS === 'web') {
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: { redirectTo },
+      });
+      return error ? error.message : null;
+    }
+
+    // Nativo: pedimos la URL de OAuth, abrimos el navegador del sistema y, al
+    // volver por el deep link (shimbro://), armamos la sesión con los tokens.
+    const { data, error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
-      options: { redirectTo },
+      options: { redirectTo, skipBrowserRedirect: true },
     });
-    return error ? error.message : null;
+    if (error) return error.message;
+    if (!data?.url) return 'No se pudo iniciar el login.';
+
+    const res = await WebBrowser.openAuthSessionAsync(data.url, redirectTo);
+    if (res.type === 'success') return sesionDesdeUrl(res.url);
+    return null; // el usuario cerró el navegador: sin error, sin sesión
   };
 
   const cerrarSesion = async () => {
