@@ -78,6 +78,9 @@ export function ModalProgreso({
   const ultimo = conPeso[n - 1];
   const delta = n > 1 ? ultimo.peso - primero.peso : 0;
 
+  // Redondea a 2 decimales y saca ceros sobrantes (evita el 8.600000000001 de los floats).
+  const kg = (v: number) => String(Math.round(v * 100) / 100);
+
   return (
     <Modal visible={visible} transparent animationType="fade" onRequestClose={onClose}>
       <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.72)', justifyContent: 'center', alignItems: 'center', padding: spacing(2) }}>
@@ -116,11 +119,11 @@ export function ModalProgreso({
             <>
               {/* Marcador */}
               <View style={{ flexDirection: 'row', marginTop: spacing(2), gap: spacing(1) as any }}>
-                <Stat etiqueta="Máximo" valor={`${maxP}`} unidad="kg" acento />
-                <Stat etiqueta="Actual" valor={`${ultimo.peso}`} unidad="kg" />
+                <Stat etiqueta="Máximo" valor={kg(maxP)} unidad="kg" acento />
+                <Stat etiqueta="Actual" valor={kg(ultimo.peso)} unidad="kg" />
                 <Stat
                   etiqueta="Progreso"
-                  valor={`${delta > 0 ? '+' : ''}${delta}`}
+                  valor={`${delta > 0 ? '+' : ''}${kg(delta)}`}
                   unidad="kg"
                   color={delta > 0 ? colors.success : delta < 0 ? colors.danger : colors.textMuted}
                 />
