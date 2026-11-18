@@ -1,4 +1,5 @@
 import React from 'react';
+import { View, ActivityIndicator } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer, DefaultTheme, createNavigationContainerRef } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
@@ -6,9 +7,10 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import type { RootStackParamList } from './src/navigation';
 import { StoreProvider } from './src/store';
-import { AuthProvider } from './src/auth';
+import { AuthProvider, useAuth } from './src/auth';
 import { colors } from './src/theme';
 
+import LoginScreen from './src/screens/LoginScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import ConfigurarRutinaScreen from './src/screens/ConfigurarRutinaScreen';
 import EditorRutinaScreen from './src/screens/EditorRutinaScreen';
@@ -39,8 +41,32 @@ export default function App() {
   return (
     <SafeAreaProvider>
       <AuthProvider>
-      <StoreProvider>
         <StatusBar style="light" />
+        <RootContent />
+      </AuthProvider>
+    </SafeAreaProvider>
+  );
+}
+
+// Muro de auth: en web con Supabase configurado, sin sesión se muestra el login y
+// no se monta la app. En nativo / sin Supabase, entra directo (modo local).
+function RootContent() {
+  const { configurado, cargando, user } = useAuth();
+
+  if (configurado && cargando) {
+    return (
+      <View style={{ flex: 1, backgroundColor: colors.bg, alignItems: 'center', justifyContent: 'center' }}>
+        <ActivityIndicator color={colors.primary} size="large" />
+      </View>
+    );
+  }
+
+  if (configurado && !user) {
+    return <LoginScreen />;
+  }
+
+  return (
+    <StoreProvider>
         <NavigationContainer
           ref={navigationRef}
           theme={navTheme}
@@ -106,8 +132,6 @@ export default function App() {
             />
           </Stack.Navigator>
         </NavigationContainer>
-      </StoreProvider>
-      </AuthProvider>
-    </SafeAreaProvider>
+    </StoreProvider>
   );
 }

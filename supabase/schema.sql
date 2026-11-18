@@ -14,6 +14,11 @@ create table if not exists public.estado_usuario (
 -- Row Level Security: cada usuario solo accede a SU fila.
 alter table public.estado_usuario enable row level security;
 
+-- Privilegios a nivel tabla: los usuarios logueados pueden operar su fila (RLS filtra
+-- cuál). NO se otorga a 'anon': los no logueados no acceden. (En proyectos nuevos de
+-- Supabase estos grants no vienen por defecto, así que son necesarios.)
+grant select, insert, update on public.estado_usuario to authenticated;
+
 drop policy if exists "leer propio estado" on public.estado_usuario;
 create policy "leer propio estado" on public.estado_usuario
   for select using (auth.uid() = user_id);
