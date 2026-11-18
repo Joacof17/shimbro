@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { View, Text, ScrollView } from 'react-native';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import type { RootStackParamList } from '../navigation';
@@ -7,6 +7,7 @@ import { Txt, Boton, Eyebrow } from '../components/ui';
 import { TarjetaRegistro, EntradaReg, entradaInicial } from '../components/RegistroEjercicio';
 import { ModalAviso } from '../components/ModalAviso';
 import { useStore } from '../store';
+import { leerBorrador, guardarBorrador, limpiarBorrador } from '../sesionBorrador';
 import { RUTINAS_PERSONALIZADAS } from '../data/personalizadas';
 import { buscarEjercicios } from '../data/catalogo';
 
@@ -47,6 +48,24 @@ export default function EntrenarPlanScreen({ route, navigation }: Props) {
   const [entradas, setEntradas] = useState<Record<string, EntradaReg>>(inicial);
   const [aviso, setAviso] = useState<string | null>(null);
 
+  const claveBorrador = `plan|${planId}`;
+  const borradorListo = useRef(false);
+
+  useEffect(() => {
+    let vivo = true;
+    leerBorrador<Record<string, EntradaReg>>(claveBorrador).then((d) => {
+      if (vivo && d) setEntradas((prev) => ({ ...prev, ...d }));
+      borradorListo.current = true;
+    });
+    return () => {
+      vivo = false;
+    };
+  }, [claveBorrador]);
+
+  useEffect(() => {
+    if (borradorListo.current) guardarBorrador(claveBorrador, entradas);
+  }, [entradas, claveBorrador]);
+
   if (!plan) {
     return (
       <View style={{ flex: 1, backgroundColor: colors.bg, alignItems: 'center', justifyContent: 'center' }}>
@@ -75,6 +94,7 @@ export default function EntrenarPlanScreen({ route, navigation }: Props) {
         registrados++;
       }
     });
+    limpiarBorrador(claveBorrador);
     setAviso(
       registrados > 0
         ? `Guardaste el peso de ${registrados} ejercicio${registrados === 1 ? '' : 's'}. La próxima vez vas a ver estos números como referencia.`

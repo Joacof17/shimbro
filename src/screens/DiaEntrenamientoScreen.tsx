@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { View, Text, ScrollView } from 'react-native';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import type { RootStackParamList } from '../navigation';
@@ -8,6 +8,7 @@ import { TarjetaRegistro, EntradaReg, entradaInicial } from '../components/Regis
 import { ModalAviso } from '../components/ModalAviso';
 import { useStore } from '../store';
 import { ejercicioPorId } from '../data/catalogo';
+import { leerBorrador, guardarBorrador, limpiarBorrador } from '../sesionBorrador';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DiaEntrenamiento'>;
 
@@ -28,6 +29,28 @@ export default function DiaEntrenamientoScreen({ route, navigation }: Props) {
 
   const [entradas, setEntradas] = useState<Record<string, EntradaReg>>(inicial);
   const [aviso, setAviso] = useState<string | null>(null);
+
+  // Clave del borrador de esta sesión (día de esta rutina).
+  const claveBorrador = `dia|${rutinaId}|${diaId}`;
+  const borradorListo = useRef(false);
+
+  // Al entrar: restaurar lo que haya quedado a medias.
+  useEffect(() => {
+    let vivo = true;
+    leerBorrador<Record<string, EntradaReg>>(claveBorrador).then((d) => {
+      if (vivo && d) setEntradas((prev) => ({ ...prev, ...d }));
+      borradorListo.current = true;
+    });
+    return () => {
+      vivo = false;
+    };
+  }, [claveBorrador]);
+
+  // Al cambiar algo: guardar el borrador (recién después de intentar restaurar,
+  // para no pisar lo guardado con los valores por defecto).
+  useEffect(() => {
+    if (borradorListo.current) guardarBorrador(claveBorrador, entradas);
+  }, [entradas, claveBorrador]);
 
   if (!rutina || !dia) {
     return (
@@ -58,6 +81,7 @@ export default function DiaEntrenamientoScreen({ route, navigation }: Props) {
       }
     });
     completarSesion(rutinaId, diaId);
+    limpiarBorrador(claveBorrador);
     setAviso(
       registrados > 0
         ? `Guardaste el peso de ${registrados} ejercicio${registrados === 1 ? '' : 's'}.`
